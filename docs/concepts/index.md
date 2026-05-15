@@ -24,4 +24,4 @@ The Concepts section is a flat A-Z dictionary. Use it as the canonical reference
 - **As a starting point for research.** Click into a concept, follow Further Reading, land somewhere unexpected.
 - **As an architecture diagram.** Cross-links between concepts are the wiki's ontology.
 
-See `templates/concept.mdx` at the repo root for the copy-and-rename scaffold.
+The lexicon is in early days. Most of the load-bearing vocabulary right now lives inside [Principles](/principles). Concepts will be lifted out as terms recur enough across mentor conversations to deserve a canonical page.

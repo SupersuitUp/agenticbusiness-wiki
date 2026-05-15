@@ -1,11 +1,11 @@
 {
   "$schema": "./wiki.config.schema.json",
-  "title": "Template Wiki",
-  "tagline": "A Docusaurus wiki starter",
-  "url": "https://example.com",
-  "organizationName": "your-org",
-  "projectName": "your-wiki",
-  "copyright": "Template Wiki",
+  "title": "agenticbusiness.wiki",
+  "tagline": "What mentors who have lived it would tell you about building a business that properly applies AI.",
+  "url": "https://agenticbusiness.wiki",
+  "organizationName": "SupersuitUp",
+  "projectName": "agenticbusiness-wiki",
+  "copyright": "agenticbusiness.wiki",
   "noindex": true,
-  "description": "Canonical reference for the topic this wiki covers."
+  "description": "Mentor-sourced ground truth for principals building agentic businesses. A business is agentic when it applies AI to its highest and best use, multiplying its potential without hollowing out what makes it worth running."
 }
