@@ -8,6 +8,8 @@ description: "Prove the value at the unit of one before scaling anything. If you
 
 *Prove the value at the unit of one before scaling anything. If you cannot make it work for one user, the system does not exist.*
 
+![Three-panel comic. 1. THE TEMPTATION: a founder gestures at a giant TOTAL ADDRESSABLE MARKET map showing 10M USERS / \$1B MARKET; a fuzzy question-marked silhouette in the center; investors hold term sheets and offer checks (\$10M); banner UNTESTED · SPECULATION. Caption: 'The system doesn\\'t exist until it works for one.' 2. THE UNIT OF ONE: close-up on Ms. Michelle O., an intense teacher in a classroom, IB DP Math, pressing a single button on her tablet (THIS ACTUALLY SAVES ME TIME... AND MY STUDENTS GET IT speech bubble); a finished glowing STUDENT REPORT CARD slides out showing Aisha Khan, OVERALL A+; clock reads 45-DAY PILOT; the founder watches from the side; banner ONE CUSTOMER · REAL STAKES · OBSERVABLE ARTIFACT. Caption: 'One customer. Real stakes. Observable artifact.' 3. THE SPREAD: from Michelle, an octopus-like glow spreads outward — to 5 TEACHERS IN HER SCHOOL, then to A REGIONAL SCHOOL CLUSTER, then to A NATIONAL IB-CURRICULUM NETWORK; the canonical Blasian supersuited operator stands at the center pointing at the proof artifact; banner HOLONIC SPREAD · 1 → 100 → MILLIONS. Caption: 'Once one is real, scale becomes tractable.' Title bar: MINIMUM PROOFPOINT. Footer bar: PROVE IT AT N=1. THEN SCALE.](/img/comics/minimum-proofpoint.png)
+
 ---
 
 *Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*

@@ -8,6 +8,8 @@ description: "Care about the work like a missionary, run the business like an op
 
 *Care about the work like a missionary. Run the business like an operator. Neither alone holds up.*
 
+![Three-panel comic. 1. PURE MISSIONARY: a founder in a plain monk-like brown tunic warmly embracing his customers, face full of love; behind him an empty cash register, an UNPAID RENT notice taped to the wall, flickering lights, books with PEOPLE FIRST and \$0.00 in the register; banner MISSIONARY ALONE · BROKE. Caption: 'Care without operating runs out of money.' 2. PURE MERCENARY: same person now in a slick tailored suit holding a Q1 PERFORMANCE spreadsheet (high margins, EFFICIENCY IS KING) and a stack of gold coins; customers visibly resentful around him turning away (NO THANKS), product on the shelf labeled HOLLOW · OPTIMIZED · EXTRACTIVE; banner MERCENARY ALONE · FOUND OUT. Caption: 'Operating without care gets found out.' 3. BOTH AT ONCE: the canonical Blasian supersuited operator stands behind the founder as a guide with halos floating; the founder is integrated (warm tunic with tailored operator vest), one hand on a customer\\'s shoulder, the other holding a Q1 BALANCED SCORECARD (IMPACT, INCOME, INFLUENCE, LEGACY); cyan halos and HAPPY CUSTOMERS visible; banner ALIGNMENT · MISSION · CASH FLOW; small placards SERPENT-WISE · DOVE-INNOCENT. Caption: 'Be the missionary who learned to operate.' Title bar: MISSIONARY AND MERCENARY. Footer bar: SERPENT-WISE. DOVE-INNOCENT.](/img/comics/missionary-and-mercenary.png)
+
 ---
 
 *Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*

@@ -8,6 +8,8 @@ description: "The coral reef versus the blue ocean. Most of the life is in the s
 
 *The coral reef versus the blue ocean. Most of the life is in the small niches because the big fish cannot fit. Wildly profitable small businesses beat scrappy positions in crowded markets.*
 
+![Three-panel comic. 1. THE BLUE OCEAN: a vast empty open blue ocean with sparse cold light; three giant predator fish labeled BIG INC, MEGA CORP, MAJOR CO circle each other competing for SCARCE PREY, teeth bared, the water depleted; banner BLUE OCEAN · LOW MARGINS · INTENSE COMPETITION. Caption: 'Big markets. Big competitors. Low margins.' 2. THE CORAL REEF: a vibrant teeming coral reef bursting with diverse smaller fish thriving in protected nooks labeled MICRO SaaS, LOCAL B2B, INDUSTRY SPECIFIC, NICHE TOOLS, VERTICAL WORKFLOW, SPECIALIZED; the big fish from panel 1 visible just outside the reef unable to fit; banner CORAL REEF · WHERE THE LIFE IS. Caption: 'The life is in the niches. The big fish can\\'t fit.' 3. DOMINATE THE REEF: close-up — a single operator-fish (with a tiny gold spiral halo above its head and a matte-navy + orange-seam motif on its scales evoking the canonical Imagos supersuited operator) has staked out one specific coral cluster labeled MY NICHE; the cluster glows abundantly with gold coins and a placard reading \$10M SaaS · \$7M CASHFLOW; big fish swim past uninterested with a thought bubble NOT WORTH IT; banner NICHE DOMINATED · WILDLY PROFITABLE. Caption: 'Wildly profitable. Wildly defensible.' Title bar: NICHE DOMINATION. Footer bar: PICK A SMALL MOUNTAIN. DOMINATE IT.](/img/comics/niche-domination.png)
+
 ---
 
 *Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*

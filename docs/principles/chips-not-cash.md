@@ -8,6 +8,8 @@ description: "Convert know-how into equity in the vehicles applying it. Cash is 
 
 *Convert know-how into equity in the vehicles applying it. Cash is consumed. Equity in niches compounds. Especially urgent now, while AI know-how is still a real comparative advantage.*
 
+![Three-panel comic. 1. THE CASH TRADE: the canonical Blasian supersuited operator at a wooden desk hands over a glowing brain icon labeled APPLIED AI KNOW-HOW to a generic business owner and receives a stack of cash bills marked CONSULTING FEE; the cash visibly burns down into piles labeled RENT, PAYROLL, OPS, TAXES. Caption: 'Cash is consumed.' 2. THE CHIP TRADE: same operator at the desk receives a stack of glowing poker chips stamped with business logos (HYPER-NICHE INSURANCE, IB SCHOOLS APPLIED AI, MUSIC LAYER, NICHE SaaS, COMMERCIAL RE ADVISORY); a contract floats above stamped AGREEMENT · EQUITY · BOARD SEAT · ONGOING ROLE. Caption: 'Chips compound.' 3. THE PORTFOLIO: wide shot — operator stands holding a fan of glowing chips in front of 5 small businesses arrayed behind him, each glowing brighter cyan; placards read NICHE DOMINATED; banner overhead CHIPS NOT CASH. Caption: 'Convert know-how into equity. Stay in the seat.' Title bar: CHIPS NOT CASH. Footer bar: KNOW-HOW CONVERTS TO COMPOUNDING POSITIONS.](/img/comics/chips-not-cash.png)
+
 ---
 
 *Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*

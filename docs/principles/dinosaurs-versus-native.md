@@ -8,6 +8,8 @@ description: "Working with old industries requires commercial-sales skill and pa
 
 *Working with old industries requires commercial-sales skill and patience for slow-moving customers. Working in AI-native lanes moves fast but the basis of competition is intense. Pick which game you are playing, and play it on purpose.*
 
+![Three-panel comic. 1. THE DINOSAUR GAME: an anthropomorphic T-Rex in a pinstripe suit sits at a long mahogany RFP table opposite a small human applicant, stamping a contract slowly; calendar reads 12-36 MONTHS; briefcase labeled BIG BUDGET; stacks of paperwork PROCUREMENT/COMPLIANCE/LEGAL. Caption: 'Old industries move slow. Big budgets. Long cycles.' 2. THE NATIVE GAME: an AI-native team of three young operators in a glowing lab shipping product weekly (SHIP WEEKLY checklist visible), screens showing ARR $12.4M climbing fast; competitor teams visible nearby racing to ship the same week; banner WEEK 1 → WEEK 2 → WEEK 3 → WEEK 4. Caption: 'Native moves at AI speed. Intense competition.' 3. PICK YOUR GAME: the canonical Blasian supersuited operator stands at a fork in the road with DINOSAURS VS NATIVE banner above; left path leads to the dinosaur world (slow T-Rex with big-budget contract, 12-36 MONTHS calendar, SLOW DELIVERY sign), right path leads to the native world (glowing lab with SHIP WEEKLY sign, FAST ITERATION arrows). Caption: 'Pick one. Play that game\\'s playbook.' Title bar: DINOSAURS VERSUS NATIVE. Footer bar: PICK YOUR GAME. PLAY IT ON PURPOSE.](/img/comics/dinosaurs-versus-native.png)
+
 ---
 
 *Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
