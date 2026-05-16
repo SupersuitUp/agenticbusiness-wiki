@@ -2,12 +2,14 @@
 title: Start Here
 slug: /
 sidebar_position: 1
-description: "Mentor-sourced ground truth for principals building agentic businesses. What people who have lived it would tell you, captured verbatim where they said it best."
+description: "Multiply human potential. Keep the soul. Mentor-sourced ground truth for principals building agentic businesses."
 ---
 
 # agenticbusiness.wiki
 
-*Mentor-sourced ground truth for principals building agentic businesses. What people who have lived it would tell you about doing this right, captured verbatim where they said it best.*
+*Multiply human potential. Keep the soul. Mentor-sourced ground truth for principals building agentic businesses. What people who have lived it would tell you about doing this right, captured verbatim where they said it best.*
+
+![Three-panel comic. THE FORK: a founder/principal at a literal fork in the road, looking right with conviction; the LEFT path winds into a cold mechanized factory (HEADCOUNT REDUCTION arrow down, SOULLESS EFFICIENCY EMPTY VICTORIES, SLOP AT SCALE NO SOUL NO FUTURE) and the RIGHT path opens into a warm sunlit workshop (HUMAN POTENTIAL arrow up, AMPLIFIED HUMANS DURABLE IMPACT, CRAFT PURPOSE IMPACT HUMANS + AI LIMITLESS); the principal's body angled toward the right path. Caption: 'Two paths. Headcount cut, or human potential multiplied.' THE MENTORS: the principal seated at a round wooden table with four mentor archetypes around it (THE DURABLE OPERATOR, THE SECOND-TIME FOUNDER, THE AGENTIC-NATIVE, THE MISSION KEEPER), each speaking a distilled principle in a speech bubble (CHIPS NOT CASH, NICHE DOMINATION FIRST, MINIMUM PROOFPOINT, MISSIONARY THEN MERCENARY); the principal taking notes in a leather journal labeled PRINCIPLES; warm cyan halo of wisdom over the table. Caption: 'Mentor-sourced wisdom. Captured from operators who have lived it.' THE AGENTIC BUSINESS: wide third-person shot of the principal at the helm of his thriving business; he wears an armored chest plate with arc-reactor cyan core, gauntlets, gold halo and agentic swirl glyph above; banner reads WHY WE EXIST — THE MISSION INTACT; named team members at workstations with cyan-glow AI amplification each labeled with their role (LEAD DESIGNER, HEAD OF OPS, COMMUNITY LEAD, CRAFT MASTER) doing distinctly human work; outcome cards float in the air (MISSION INTACT ✓, HUMAN POTENTIAL UP 10X, DURABLE GROWTH ✓, TEAM ENERGIZED ✓). Caption: 'AI multiplies the humans. The mission stays the soul of the business.' Title bar: AGENTIC BUSINESS. Footer bar: MULTIPLY HUMAN POTENTIAL. KEEP THE SOUL.](/img/comics/homepage.png)
 
 ---
 
@@ -27,7 +29,7 @@ Treat the current pages as the starting point, not the canon. The canon is what 
 
 ## What an agentic business is
 
-A business is **agentic** when it applies AI to its highest and best use: multiplying the human potential of the people inside it, in service of a mission that existed before the AI did. The goal is not headcount reduction. The goal is a business that delivers value at a scale that was previously impossible while keeping the irreplaceably human elements intact.
+A business is **agentic** when it applies AI to its highest and best use: multiplying the human potential of the people inside it, in service of a mission that existed before the AI did. The goal is a business that delivers value at a scale that was previously impossible while keeping the irreplaceably human elements intact. Headcount reduction is the wrong target.
 
 Some of the principles on this wiki are AI-aware. Others are timeless business principles that good operators have always known. Both belong here, because an agentic business is still a business, and the principles that make any business durable are the substrate.
 
