@@ -58,4 +58,4 @@ The operators behind this wiki want to make it easier to build a business that l
 
 - [Principles](/principles)
 - [Mentors](/mentors)
-- [What is Applied AI](/start-here/what-is-applied-ai)
+- [What is an Agentic Business](/start-here/what-is-an-agentic-business)

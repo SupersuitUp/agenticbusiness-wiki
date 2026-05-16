@@ -8,7 +8,7 @@ const sidebars: SidebarsConfig = {
       collapsed: false,
       link: { type: 'doc', id: 'start-here/index' },
       items: [
-        'start-here/what-is-applied-ai',
+        'start-here/what-is-an-agentic-business',
       ],
     },
     {
