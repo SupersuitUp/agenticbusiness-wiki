@@ -8,13 +8,15 @@ description: "The canonical ideal: the soul-of-the-company creative leader worth
 
 *The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement.*
 
+![Single-panel splash comic featuring the canonical Blasian supersuited operator (mid-30s, matte navy Supersuit with vivid orange seam accents, helmet off, single unified gold spiral halo glowing brightly above his head). The leader stands center in a confident grounded pose. Above the halo a chunky inked banner reads ANOINTED AT THE SOURCE. Around him a halo arrangement of inked-frame icons radiates outward in cyan-and-gold beams, each labeled with a gift: TASTE (with a culinary plate), VOICE (with a microphone), VISION (with a cityscape), MORAL SERIOUSNESS (with scales), CULTURAL TEXTURE (with artistic faces), CUSTOMER FEEL (with a heart). Below the leader, a "THE COMPANY THE GIFT MADE" banner with four small artifact icons (PRODUCTS, CULTURE, CUSTOMER, TEAM). In the lower-right of the panel a small inset shows clockworker figures at a workbench labeled CLOCKWORKERS SCALE THE GIFT. Floor marker: ONE LEADER. ONE GIFT. ONE COMPANY UNMISTAKABLY THEIRS. Title bar: IMAGO DEI UNICORN. Footer bar: ANOINTED AT THE SOURCE. NEEDS SCALING. NEVER REPLACEMENT.](/img/comics/imago-dei-unicorn.png)
+
 ---
 
 ## What it is
 
 An **Imago Dei Unicorn** is a creative leader whose particular gift is the load-bearing reason their company exists. The product reflects their taste. The culture reflects their voice. The customers feel the leader through the work, even when they have never met them. Remove the Unicorn and the venture loses its soul, not just a manager.
 
-The term combines two things. *Imago Dei*, the theological frame that humans are made in the image of God and carry a divinely-placed creative imprint (see [Imago Dei Capitalism](https://faithwalk.garysheng.com/concepts/imago-dei-capitalism) and [The Founder as Sub-Creator](https://faithwalk.garysheng.com/concepts/the-founder-as-sub-creator)). And *Unicorn*, the language venture capital uses for rare, category-defining operators. The Imago Dei Unicorn is the operator whose rarity is downstream of their anointing.
+The term combines two things. *Imago Dei*, the theological frame that humans are made in the image of God and carry a divinely-placed creative imprint. And *Unicorn*, the language venture capital uses for rare, category-defining operators. The Imago Dei Unicorn is the operator whose rarity is downstream of their anointing.
 
 This is the type of person worth backing.
 
@@ -34,7 +36,7 @@ Three reasons.
 
 First, **density of gift**. The combination of specific creative anointing, taste, and operator capacity is genuinely rare. Most founders are competent. Most creators are unscaled. The intersection is uncommon enough to warrant the language.
 
-Second, **mispricing**. The dominant capital pool is structurally bad at pricing what it cannot see. The Imago Dei Unicorn's gift often does not show up in standard diligence (which optimizes for legibility, not anointing). The Unicorn frequently operates on a fraction of the capital, infrastructure, and reach their gift would receive in a market that could price it correctly. See [Multiply the Imago Dei Women God Has Anointed](https://faithwalk.garysheng.com/perspectives/multiply-the-imago-dei-women-god-has-anointed) for the most concentrated case.
+Second, **mispricing**. The dominant capital pool is structurally bad at pricing what it cannot see. The Imago Dei Unicorn's gift often does not show up in standard diligence (which optimizes for legibility, not anointing). The Unicorn frequently operates on a fraction of the capital, infrastructure, and reach their gift would receive in a market that could price it correctly. The most concentrated case is the canonical underprovisioning of anointed operators outside the legibility lanes the dominant capital pool was built to scan for.
 
 Third, **leverage**. A correctly backed Imago Dei Unicorn compounds at a rate that conventional founders cannot match. The reason is not effort or hours. The reason is that they are operating with a divinely-placed creative ceiling rather than against a market-fitted one. The downstream of a well-funded Unicorn is not just product revenue. It is cultural infrastructure: institutions, communities, taste lineages, and operators they train.
 
@@ -54,7 +56,7 @@ The backing thesis follows from the pairing. The right thing to fund is not the 
 - **Not a charismatic-only founder.** Charisma without a specific gift is performance. The Unicorn's gift is concrete and demonstrable in the work, not just in the storytelling.
 - **Not a creative who is uninterested in operating a business.** The Unicorn is willing to be the source, take the responsibility, and run the venture. They may need extensive [clockworker](/concepts/clockworkers) support, but they are the operator, not a passive licensor.
 - **Not interchangeable.** If a hire of similar generic competence could swap in without losing the company's soul, the seat being filled is not the Unicorn seat.
-- **Not the lone-genius founder.** Imago Dei explicitly rejects the genius-in-a-vacuum frame. The Unicorn is a [sub-creator](https://faithwalk.garysheng.com/concepts/the-founder-as-sub-creator) participating in a larger creative act, not its origin. The frame breaks the founder-as-idol pattern and replaces it with founder-as-faithful-steward. Lower ego, higher leverage.
+- **Not the lone-genius founder.** Imago Dei explicitly rejects the genius-in-a-vacuum frame. The Unicorn is a sub-creator participating in a larger creative act, not its origin. The frame breaks the founder-as-idol pattern and replaces it with founder-as-faithful-steward. Lower ego, higher leverage.
 
 ## Backing the Unicorn
 
@@ -66,7 +68,7 @@ The backing thesis has three moves.
 
 **Cover.** Stand under the assignment. Refuse the chatter. Speak well of the operator. The backer who covers the Unicorn with reputation and operational support is participating in the anointing whether or not a return is ever priced. The returns tend to follow.
 
-The pattern is documented at length in [Multiply the Imago Dei Women God Has Anointed](https://faithwalk.garysheng.com/perspectives/multiply-the-imago-dei-women-god-has-anointed), where the canonical case is Black women in cultural production. The pattern generalizes. Anointed operators across every demographic carry gifts the market structurally misprices. The agentic-business backer's job is to learn to see all of them.
+The canonical case to study, when it surfaces, is Black women in cultural production: a disproportionate share of load-bearing culture (music, dance, fashion, language, hospitality, taste) carried by anointed operators the dominant capital pool historically could not price. The pattern generalizes. Anointed operators across every demographic carry gifts the market structurally misprices. The agentic-business backer's job is to learn to see all of them.
 
 ## Why this matters now
 
@@ -78,14 +80,5 @@ Applied AI changes the math. A small backer can now provide an Imago Dei Unicorn
 
 ## Further Reading
 
-**Inside the wiki**
-
 - [Clockworkers](/concepts/clockworkers): the specialized scaling layer that pairs with the Unicorn.
 - [What is an Agentic Business](/start-here/what-is-an-agentic-business): the operational substrate that lets a small team support a Unicorn at scale.
-
-**Outside the wiki**
-
-- [Imago Dei Capitalism](https://faithwalk.garysheng.com/concepts/imago-dei-capitalism): the underlying economic frame, the alternative to predatory capitalism.
-- [The Founder as Sub-Creator](https://faithwalk.garysheng.com/concepts/the-founder-as-sub-creator): the theological frame that grounds why the Unicorn's gift is not their own original genius.
-- [Multiply the Imago Dei Women God Has Anointed](https://faithwalk.garysheng.com/perspectives/multiply-the-imago-dei-women-god-has-anointed): the canonical case study of the pattern.
-- [Imago Dei Capitalism Replaces Predatory Capitalism](https://faithwalk.garysheng.com/perspectives/imago-dei-capitalism-replaces-predatory-capitalism): why backing Unicorns is structurally different from optimizing them out.
