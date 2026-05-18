@@ -1,18 +1,18 @@
 ---
 title: "The Superorg"
 slug: /concepts/superorg
-description: "The only kind of business worth building from here forward. Every human supersuited up, every essential function covered, the whole org composing into a megazord-class operation."
+description: "The only kind of business worth building from here forward. Every human supersuited up, every essential function covered, the whole org composing into a Superorg-class operation."
 ---
 
 # The Superorg
 
-*The only kind of business worth building from here forward. Every human supersuited up, every essential function covered, the whole org composing into a megazord-class operation.*
+*The only kind of business worth building from here forward. Every human supersuited up, every essential function covered, the whole org composing into a Superorg-class operation.*
 
 ---
 
 ## What it is
 
-A **Superorg** is a company where every member is supersuited up (each running their own [Personal Agentic OS](https://supersuit.wiki/concepts/personal-agentic-os-workspace)) and the individual Supersuits compose into a single coordinated megazord-class capability. The full treatment of the megazord metaphor lives at [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg). This page is the agentic-business framing: why the Superorg is the only kind of business worth building moving forward.
+A **Superorg** is a company where every essential function is piloted by a supersuited leader, and the piloted functions are docked into one composite vessel through a shared substrate. Each leader runs their own [Personal Agentic OS](https://supersuit.wiki/concepts/personal-agentic-os-workspace) as the cockpit they pilot their function from; the [Chief of Agents](https://supersuit.wiki/concepts/chief-of-agents) inside it executes against the function's operational load. The functions unite under one Superorg. The full treatment lives at [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg). This page is the agentic-business framing: why the Superorg is the only kind of business worth building moving forward.
 
 ## The argument
 
@@ -36,11 +36,11 @@ The Superorg is not a company with AI subscriptions. It satisfies five condition
 
 3. **A shared company context layer.** Canonical decisions, ontology, strategy, and project state are loaded the same way by every member.
 
-4. **Each hyperagent is the source of their own work.** No homogenization. Each Zord stays piloted. The specific gift of each operator is what makes the Megazord more than the sum of its parts.
+4. **Each leader pilots their own function.** No homogenization. Each leader stays piloting their function-craft. The specific gift of each pilot is what makes the assembled Superorg more than the sum of its parts.
 
 5. **The org learns faster than the market changes.** A self-improving enterprise by construction.
 
-For the canonical statement and the megazord metaphor in full, see [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg).
+For the canonical statement and the composition metaphor in full, see [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg).
 
 ## Why this is the only org form worth building from here
 
@@ -50,7 +50,7 @@ Three reasons.
 
 **The floor.** Pre-Supersuit orgs carry coordination overhead that no longer needs to exist. The Superorg frees that capacity for compounding work.
 
-**The mission durability.** When a pre-Supersuit competitor tries to compete on the new ceiling without supersuiting up, the default move is reductive cost-cutting. Klarna's reversal after replacing 700 employees with AI is the canonical case. The Superorg treats its humans as Zords whose gifts compound. The reductive competitor loses the soul of the company while optimizing it.
+**The mission durability.** When a pre-Supersuit competitor tries to compete on the new ceiling without supersuiting up, the default move is reductive cost-cutting. Klarna's reversal after replacing 700 employees with AI is the canonical case. The Superorg treats its humans as sovereign pilots whose gifts compound. The reductive competitor loses the soul of the company while optimizing it.
 
 ## Diagnosing a Superorg from the outside
 
@@ -71,7 +71,7 @@ The build sequence is no longer "raise capital, hire team, scale." The new seque
 1. **Supersuit up yourself.** The founder becomes a working hyperagent first.
 2. **Build the company context layer.** Strategy, ontology, decisions, principles get written down in a substrate every future member will read from.
 3. **Hire other supersuited hyperagents against named essential functions.** Each new hire owns a function and arrives with their own working Supersuit, ready to plug into the shared substrate.
-4. **Compose.** The org becomes a Megazord only when the supersuited members are coordinating through the shared substrate, not when the org chart fills up.
+4. **Compose.** The org becomes a Superorg only when the supersuited members are coordinating through the shared substrate, not when the org chart fills up.
 
 The first capital allocation is into the substrate, not into AI tools. The substrate is every member's PAOS, the company context layer, the skill files, the playbooks, the ontology. The tools come second.
 
@@ -84,5 +84,5 @@ Founders building anything other than a Superorg are building toward a ceiling t
 - [What is an Agentic Business](/start-here/what-is-an-agentic-business): the foundational frame this concept extends
 - [Imago Dei Unicorn](/concepts/imago-dei-unicorn): the kind of leader at the center of a well-architected Superorg
 - [Clockworkers](/concepts/clockworkers): the scaling layer the Unicorn pairs with, all of them supersuited
-- [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg): the canonical megazord metaphor in full
+- [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg): the canonical composition metaphor in full
 - [supersuit.wiki/concepts/hyperefficiency](https://supersuit.wiki/concepts/hyperefficiency): the per-hyperagent dynamic the Superorg runs on
