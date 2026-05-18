@@ -82,3 +82,4 @@ Applied AI changes the math. A small backer can now provide an Imago Dei Unicorn
 
 - [Clockworkers](/concepts/clockworkers): the specialized scaling layer that pairs with the Unicorn.
 - [What is an Agentic Business](/start-here/what-is-an-agentic-business): the operational substrate that lets a small team support a Unicorn at scale.
+- [Creative Infrastructure](/concepts/creative-infrastructure): the Lucas Pattern. The kind of business a Unicorn often ends up building because their vision required it.

@@ -64,3 +64,5 @@ The reductive approach has already hit its floor. Klarna replaced 700 employees 
 - [Principles](/principles) for the load-bearing rules of building an agentic business
 - [Mentors](/mentors) for who the wisdom is sourced from
 - [appliedai.wiki](https://appliedai.wiki/start-here/what-is-applied-ai) for the canonical definition of applied AI itself
+- [Creative Infrastructure](/concepts/creative-infrastructure) for the Lucas Pattern: a type of agentic business worth building when a culturally-significant vision requires infrastructure that does not yet exist
+- [The Superorg](/concepts/superorg) for the org form most agentic businesses converge on

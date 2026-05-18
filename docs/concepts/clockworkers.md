@@ -86,3 +86,4 @@ Naming clockworkers as a specific role surfaces the structure. It also makes the
 
 - [Imago Dei Unicorn](/concepts/imago-dei-unicorn): the creative leader the clockworkers serve. The pairing is the pattern.
 - [What is an Agentic Business](/start-here/what-is-an-agentic-business): the operational substrate that lets a small clockworker bench cover a full portfolio.
+- [Creative Infrastructure](/concepts/creative-infrastructure): the kind of business clockworkers serve well, where the upstream creative vision is load-bearing for the whole stack.

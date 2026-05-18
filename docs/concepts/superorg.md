@@ -86,3 +86,4 @@ Founders building anything other than a Superorg are building toward a ceiling t
 - [Clockworkers](/concepts/clockworkers): the scaling layer the Unicorn pairs with, all of them supersuited
 - [supersuit.wiki/concepts/superorg](https://supersuit.wiki/concepts/superorg): the canonical composition metaphor in full
 - [supersuit.wiki/concepts/hyperefficiency](https://supersuit.wiki/concepts/hyperefficiency): the per-hyperagent dynamic the Superorg runs on
+- [Creative Infrastructure](/concepts/creative-infrastructure): the type of Superorg that gets built when a culturally-significant vision requires it (the Lucas Pattern).
