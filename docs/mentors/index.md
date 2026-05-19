@@ -24,6 +24,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 
 - **[Michael B. Ajouz](/mentors/mike-ajouz)**: investor and finance professional, Managing Member of Spar Holdings LLC, founding member of New Mountain Capital. Built businesses across insurance, technology, and healthcare. Christ-converted operator with a deeply integrated business philosophy. Source of the foundational principles around magic moments, minimum proofpoints, niche domination, and chips-not-cash.
 - **[Eric Ries](/mentors/eric-ries)**: author of The Lean Startup and Incorruptible, founder of the Long-Term Stock Exchange. Source on protecting mission-driven companies from corruption (governance, ownership, mission lock-in). Sourced via his published work.
+- **[Sharran Srivatsaa](/mentors/sharran-srivatsaa)**: CEO of Acquisition.com. Scaled Teles Properties 10x in five years to $3.4 billion and sold to Douglas Elliman. Five exits in nineteen years. Source on hiring mechanics and A-player attraction. Sourced via his public teaching content.
 
 ## Further Reading
 
