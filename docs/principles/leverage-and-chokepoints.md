@@ -12,7 +12,7 @@ description: "Every industry has a structure. Be the chokepoint or build the wor
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -22,7 +22,7 @@ The principle: do not build a business without explicit clarity about your point
 
 > "You're either the checkpoint, which is the historical game, or the workaround, which is the new game. But your industry structure and who has leverage is what determines whether you'll make money or not, or how easy it will be. So you always need points of leverage, always."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## Why it matters
 
@@ -48,7 +48,7 @@ From the conversation:
 
 **Music industry.** The chokepoint is distribution and rights ownership (major labels, streaming platforms). Operating as an independent artist without leverage means trading talent for tiny revenue shares. The workaround is owning the platform that artists need (a game, a media outlet, a community). Once you have the workaround, you have leverage in your negotiations with everyone else in the value chain.
 
-**Insurance.** The chokepoint is the underwriting platform. The dinosaurs (the established carriers) own the platform and rent out the access. Ajouz's strategy: build a competing platform from scratch and bring it in-house. Once the platform is yours, the structural rent flips from going to the dinosaurs to going to you.
+**Insurance.** The chokepoint is the underwriting platform. The dinosaurs (the established carriers) own the platform and rent out the access. His strategy: build a competing platform from scratch and bring it in-house. Once the platform is yours, the structural rent flips from going to the dinosaurs to going to you.
 
 **Real estate.** The chokepoint is access to deals. Owning the relationships and the underwriting capability is the chokepoint. Pure consulting without ownership of the deal pipeline is leverageless.
 
@@ -77,4 +77,4 @@ If the founder cannot answer those four, the leverage is not real and the busine
 - [Niche Domination](/principles/niche-domination): why niches naturally produce leverage
 - [Chips Not Cash](/principles/chips-not-cash): converting leverage into compounding positions
 - [Dinosaurs Versus Native](/principles/dinosaurs-versus-native): the strategic choice between old-industry leverage and new-industry leverage
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

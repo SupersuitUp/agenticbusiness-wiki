@@ -12,7 +12,7 @@ description: "Working with old industries requires commercial-sales skill and pa
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -24,7 +24,7 @@ Two distinct games are available to a founder right now. They look related but t
 
 > "If you want to do dinosaurs, that's gonna be one thing. That's like this. If you're gonna work with IBM, same thing. The second is, you know, you're living within AI, and everybody is new. So you don't do anything old, you're just so dominant here, and you're moving just at the speed of AI."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 The principle: pick. Build the business on purpose around one of these games. Hybrids tend to lose to operators who picked one.
 
@@ -56,11 +56,11 @@ Music industry deals are dinosaur-flavored: large labels, contractual complexity
 
 A pure AI-native business example: building a developer tool for AI engineers. The buyer moves fast. The basis of competition is intense. The win comes from speed, taste, and distribution.
 
-Most of Ajouz's own businesses sit in the dinosaur game because that is where his comparative advantage lives. His insurance business is squarely dinosaur. He explicitly recommends that builders with AI-native instincts spend more time in the native game.
+Most of the Reformed Wall Street Operator's own businesses sit in the dinosaur game because that is where his comparative advantage lives. His insurance business is squarely dinosaur. He explicitly recommends that builders with AI-native instincts spend more time in the native game.
 
 > "If I was young, I would be totally happy dedicating my life here, moving fast, at the speed of the market. But what that means is you have to engage with your customer in a way that is native to that space. Whatever space, the basis of competition is just structurally different."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## Mixed positions
 
@@ -88,4 +88,4 @@ A founder who has picked clearly:
 
 - [Niche Domination](/principles/niche-domination): how to pick the right small mountain in either game
 - [Leverage and Chokepoints](/principles/leverage-and-chokepoints): the structural plays available in each game
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

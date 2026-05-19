@@ -12,7 +12,7 @@ description: "Do not start with the business plan or the financials. Start with 
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -22,9 +22,9 @@ The inversion: do the opposite. Start with the magic moment. Spend time inside i
 
 > "Most people show up with a big idea and a deck, and they try to figure it out. I like to figure out the bricks before I figure out the building. The bricks, for me, is the real magic. The magic is really in that moment with the user. When you see it, the rest is easy, actually. I mean, you're gonna create value. But it's the inversion. I invert everything. I'm not a finance person. I start with the magic. The rest is just patterns."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
-The patterns Ajouz refers to are the operating mechanics every business needs: pricing, sales, marketing, finance, hiring. He is not dismissing them. He is saying they are downstream of the magic. They become tractable once the magic is real.
+The patterns the Reformed Wall Street Operator refers to are the operating mechanics every business needs: pricing, sales, marketing, finance, hiring. He is not dismissing them. He is saying they are downstream of the magic. They become tractable once the magic is real.
 
 ## Why it matters
 
@@ -46,7 +46,7 @@ Three concrete moves.
 
 ## Worked example
 
-The conversation circled back to this principle repeatedly when discussing the teacher tool, the music business, and a commercial real estate consulting idea. Each time, the founder's instinct was to think strategically about the larger play (a teacher-productivity SaaS, a music label, a real estate advisory firm). Each time, Ajouz redirected to the single moment that would prove the larger play was real.
+The conversation circled back to this principle repeatedly when discussing the teacher tool, the music business, and a commercial real estate consulting idea. Each time, the founder's instinct was to think strategically about the larger play (a teacher-productivity SaaS, a music label, a real estate advisory firm). Each time, the Reformed Wall Street Operator redirected to the single moment that would prove the larger play was real.
 
 The teacher tool: not "let's design a teacher-productivity platform with twelve workflows." It is "let's see if Michelle Oberman, the most intense teacher at the school, presses the button on the report card tool and tells her colleagues this changed her life." If that one moment lands, the larger play is real. If it does not, the platform was always speculation.
 
@@ -74,4 +74,4 @@ A founder operating under this principle:
 
 - [The Magic Moment](/principles/the-magic-moment): what you are starting with
 - [Minimum Proofpoint](/principles/minimum-proofpoint): the smallest version of the magic, tested at unit scale
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

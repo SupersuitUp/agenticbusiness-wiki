@@ -12,7 +12,7 @@ description: "Prove the value at the unit of one before scaling anything. If you
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -22,7 +22,7 @@ The principle: do not scale a business idea until the unit of one has produced u
 
 > "You provide value for N equals one, in the minimum unit of minimum root point, which is also the minimum unit of momentum. That is basically like an octopus that spreads across the organ, the host. But then it just holonically spreads across, right?"
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## Why it matters
 
@@ -34,7 +34,7 @@ A founder who has seen the proofpoint land once has a different conviction than 
 
 > "If you can have a really 10x, 100x type return on a very small thing, you can start thinking larger. There's no point thinking larger if you can't even prove out the small unit."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## How to find yours
 
@@ -80,4 +80,4 @@ The fourth one matters as much as the first three. The proofpoint produces a lis
 
 - [The Magic Moment](/principles/the-magic-moment): what you are testing at unit scale
 - [Niche Domination](/principles/niche-domination): how the proven proofpoint scales into a defended position
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

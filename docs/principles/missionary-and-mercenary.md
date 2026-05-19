@@ -12,7 +12,7 @@ description: "Care about the work like a missionary, run the business like an op
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -26,7 +26,7 @@ The principle: be both. Care like a missionary about the work and the people. Op
 
 > "If you're a fucking mercenary, right? Maybe, but you're not gonna love it, and you're gonna be found out. The world is gonna have two pounds and it's gonna blow you out. The missionary that knows technology, and also is willing to learn the mercenary business, that is the serpent, innocent of the dove. That's scripture."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## Why it matters
 
@@ -34,7 +34,7 @@ Now more than at most points in the last century, the missionary-and-mercenary i
 
 > "The world is gonna have two pounds. AI is gonna sort them. People that can actually do and change things, that's you guys. That's what AI's gonna sort. The world's gonna have two ponds. So people that can actually do and change things, those people will be valuable."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## How to be both
 
@@ -50,7 +50,7 @@ Three concrete moves.
 
 From the conversation:
 
-Ajouz's nonstandard auto insurance business: the missionary side is that the underserved community he serves is getting ripped off by the existing operators. He cares about giving them a better option. The mercenary side is that the unit economics work, the basis of competition is low, the equity compounds, and the financial returns are substantial. Both at once.
+The Reformed Wall Street Operator's nonstandard auto insurance business: the missionary side is that the underserved community he serves is getting ripped off by the existing operators. He cares about giving them a better option. The mercenary side is that the unit economics work, the basis of competition is low, the equity compounds, and the financial returns are substantial. Both at once.
 
 A music business chasing artists: the missionary side is loving the artists, caring about their careers, building a platform where they can win. The mercenary side is monetization mechanics (merchandise, concerts, IP licensing, video games) where the math actually delivers margin. Without the missionary side, the artists do not sign. Without the mercenary side, the business does not last.
 
@@ -76,4 +76,4 @@ A founder operating as both:
 
 - [Niche Domination](/principles/niche-domination): the strategy that requires both missionary and mercenary discipline
 - [Chips Not Cash](/principles/chips-not-cash): the mercenary tactic that lets the missionary work compound
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

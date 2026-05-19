@@ -12,7 +12,7 @@ description: "Convert know-how into equity in the vehicles applying it. Cash is 
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -20,7 +20,7 @@ The principle: when you have a comparative advantage (AI knowledge, applied AI i
 
 > "You've got a comparative advantage. And it's shrinking, just because the world is moving. So we almost gotta convert that AI knowledge into chips. Chips. Chips. You gotta have chips. Either poker or roulette or blackjack, however you want to use the word chips, but you're converting potential into financial assets."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 The word "chips" is intentional. They are stakes in the game. You play them, win or lose, but you own them. Cash for consulting hours is paid once and goes to expenses. Equity in a vehicle applying your AI knowledge keeps paying as the vehicle grows.
 
@@ -30,7 +30,7 @@ The clock is ticking. The same AI knowledge that is rare today will be common in
 
 > "If your financials are cash, you'd lost. It needs to be equity. Or you don't compound. Equity, cash, know-how in a particular niche. That compounds. Right? Because the average AI intelligence will rise, you need to have specific AI."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 The structure of the deal matters. Not all equity is the same.
 
@@ -48,7 +48,7 @@ The wrong structure: a flat-rate consulting engagement that promises "future equ
 
 ## Worked example
 
-The pattern Ajouz described for his own operating discipline:
+The pattern the Reformed Wall Street Operator described for his own operating discipline:
 
 He picks engagements where his strategic and operating knowledge can be applied to a small dominated niche. He participates in the equity of the resulting business. He stays connected to the business through board work or ongoing advisory. As the business compounds (often slowly at first, then faster as the niche position consolidates), his equity position appreciates. Across a portfolio of these positions, the math works out far better than a high-rate cash consulting practice would.
 
@@ -77,4 +77,4 @@ If the operator finished the year with mostly cash and one or two scattered "pot
 
 - [Niche Domination](/principles/niche-domination): why the niche matters for compounding
 - [Leverage and Chokepoints](/principles/leverage-and-chokepoints): the structural rationale for retained influence
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

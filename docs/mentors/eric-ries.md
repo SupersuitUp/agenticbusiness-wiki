@@ -28,7 +28,7 @@ For the agentic-business audience this matters specifically because AI compresse
 
 - **[Protect the Mission Vehicle](/principles/protect-the-mission-vehicle)**: the business that carries your mission is itself a designed object. Build it to survive predators outside and temptations inside. The page is a stub. The book is the source.
 
-More principles will be distilled from Incorruptible over time. This wiki treats the book as a primary text the way it treats Ajouz conversations as primary texts.
+More principles will be distilled from Incorruptible over time. This wiki treats the book as a primary text the way it treats the Reformed Wall Street Operator's conversations as primary texts.
 
 ## How to cite him
 
@@ -37,5 +37,5 @@ For Ries, the source is the published work. When paraphrasing, attribute to "Eri
 ## Further Reading
 
 - [Protect the Mission Vehicle](/principles/protect-the-mission-vehicle): the principle distilled from his book
-- [Missionary and Mercenary](/principles/missionary-and-mercenary): the adjacent founder-posture principle from Michael B. Ajouz
+- [Missionary and Mercenary](/principles/missionary-and-mercenary): the adjacent founder-posture principle from the Reformed Wall Street Operator
 - [Mentors](/mentors): the other mentors on this wiki

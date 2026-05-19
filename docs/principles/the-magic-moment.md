@@ -12,7 +12,7 @@ description: "Every business has one specific moment where the customer experien
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -24,7 +24,7 @@ The principle: create the first magic moment yourself, by hand, for one real cus
 
 > "Every business is exactly like that. I can tell you every single business that I've been in, that moment. You have to be in that moment because everything else flows out of that moment."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## Why it matters
 
@@ -36,7 +36,7 @@ A founder without a created magic moment will react to stories. Investor stories
 
 > "If not that, then you're gonna react to stories. The stories are what the world reacts to. Stories are what salespeople use. If you don't have your own magic moment, then you're just like the crowd."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## How to find yours
 
@@ -73,4 +73,4 @@ If the founder cannot do all four, the magic moment has not been created yet. Th
 
 - [Minimum Proofpoint](/principles/minimum-proofpoint): how you test the magic moment at unit scale before scaling
 - [Inversion](/principles/inversion): the broader principle of starting with magic, not financials
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle

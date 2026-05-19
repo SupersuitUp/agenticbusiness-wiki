@@ -12,7 +12,7 @@ description: "The coral reef versus the blue ocean. Most of the life is in the s
 
 ---
 
-*Articulated by [Michael B. Ajouz](/mentors/mike-ajouz) in conversation, 2026-05-15.*
+*Articulated by [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator) in conversation, 2026-05-15.*
 
 ## What it is
 
@@ -22,7 +22,7 @@ The metaphor:
 
 > "If you look at an ocean, most of the ocean is blue ocean. Big water. All the fish are super big. There's not that much life. All the life in the ocean is actually in the coral reefs. Because it's protected. Big fish can't fit in there. That's where all the life is."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 A wildly profitable small business in a niche the big players cannot reach beats a heroic position in a market where eight well-funded teams are running at the same target. The math compounds: the big crowded market splits its addressable revenue across many competitors, each driving the basis of competition down. The niche, dominated, captures the revenue cleanly and the operator gets to keep it.
 
@@ -36,7 +36,7 @@ The second reason is that the big players are paying attention to the big market
 
 > "Today, I can have a $10 million SaaS business that generates $7 million in cash flow. And it takes no time. And nobody's gonna go after it, because it just sits there. Because it's not competitive. Because it's not big enough. Small mountains, wildly profitable."
 >
-> — Michael B. Ajouz, 2026-05-15
+> — The Reformed Wall Street Operator, 2026-05-15
 
 ## How to find your niche
 
@@ -73,4 +73,4 @@ If the founder cannot do all five, the niche has not been chosen. The right next
 - [The Magic Moment](/principles/the-magic-moment): what you are dominating the niche with
 - [Leverage and Chokepoints](/principles/leverage-and-chokepoints): the structural advantages a dominated niche produces
 - [Chips Not Cash](/principles/chips-not-cash): why equity in a dominated niche compounds
-- [Michael B. Ajouz](/mentors/mike-ajouz): the mentor who articulated this principle
+- [The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator): the mentor who articulated this principle
