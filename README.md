@@ -20,6 +20,14 @@ The reader is the **principal**: the founder, the CEO, the operator of a busines
 
 Not for AI hobbyists. For people running a business with real stakes.
 
+### Internal framing: the king of an agentic business
+
+In private (this README, internal artifacts, sibling-org thinking) the reader is called **the king of an agentic business**. The word "king" stays out of the public copy. Public pages say "principal" or "founder" or "operator." But every editorial call here is made for one audience: the king whose name is on the building, whose capital is at risk, and whose direction nobody else is allowed to set.
+
+If a page does not change what the king does on Monday, it does not belong on this wiki.
+
+Sibling-wiki vocabulary alignment: [appliedai.wiki](https://appliedai.wiki) uses "king" publicly as its canonical term-of-art for the principal an Applied AI Engineer serves. This wiki uses "principal" publicly. Internally they refer to the same person.
+
 ## How the wiki is shaped
 
 - **[Start Here](https://agenticbusiness.wiki/)**: framing, in-progress disclaimer, what an agentic business is

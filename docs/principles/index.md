@@ -26,6 +26,7 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Dinosaurs Versus Native](/principles/dinosaurs-versus-native)**: old industries require commercial-sales skill. AI-native lanes move fast. Pick which game you are playing, and play it on purpose.
 - **[A-Player For You](/principles/a-player-for-you)**: the A-player is not a generic archetype. Write job descriptions from raw pain and raw aspiration, run them through AI, and the right person self-selects.
 - **[Protect the Mission Vehicle](/principles/protect-the-mission-vehicle)**: the business that carries your mission is a target. Protect it from predators outside and from temptations inside. Stub. Distilled from Eric Ries' Incorruptible.
+- **[Hire the Independent Implementer](/principles/hire-the-independent-implementer)**: if the people building your AI stack make more money when you commit to one foundation-model vendor, they cannot be trusted with the architecture call. Distilled from public 2026 evidence on hyperscaler partner programs.
 
 ## How to read these
 
