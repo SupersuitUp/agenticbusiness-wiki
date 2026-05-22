@@ -28,7 +28,7 @@ He is also unusually crisp on the failure modes. Most of his teaching is built a
 
 ## Principles contributed to this wiki
 
-- **[Customer Financed Acquisition](/principles/customer-financed-acquisition)**: the discipline of running the customer-acquisition loop so it pays for itself. Three levers: lower CAC, raise lifetime gross profit, shorten payback period. The page covers how to compute each lever honestly, how they interact, and why most operators who stall under $10M per year are stuck because they have never measured all three.
+- **[Customer Financed Acquisition](/principles/customer-financed-acquisition)**: the discipline of running the customer-acquisition loop so it pays for itself. Three levers: lower CAC, raise [lifetime gross profit](/concepts/lifetime-gross-profit), shorten payback period. The page covers how to compute each lever honestly, how they interact, and why most operators who stall under $10M per year are stuck because they have never measured all three.
 
 More principles will be distilled from his ongoing public teaching over time. The Acquisition.com YouTube channel and his books are the primary sources.
 

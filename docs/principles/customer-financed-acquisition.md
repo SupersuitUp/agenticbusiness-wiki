@@ -21,7 +21,7 @@ Customer-financed acquisition (CFA) is the operating discipline of running the c
 The discipline has three numbers in play:
 
 1. **CAC**: cost to acquire a customer (ad spend + marketing payroll + sales payroll + commissions, divided by new customers in the period).
-2. **LGP** (also written LTGP, lifetime gross profit): the dollars a customer pays you across their lifetime, minus the variable cost of delivering whatever you sold them. Fixed overhead stays out. Cost of delivery comes out.
+2. **[LGP](/concepts/lifetime-gross-profit)** (also written LTGP, lifetime gross profit): the dollars a customer pays you across their lifetime, minus the variable cost of delivering whatever you sold them. Fixed overhead stays out. Cost of delivery comes out.
 3. **PPD**: payback period. The time from CAC spend to LGP exceeding CAC.
 
 The ratio **LGP : CAC** tells you how many dollars come back per dollar spent. The **PPD** tells you how fast. Both numbers belong to the operator who wants the business to fund itself.
@@ -134,6 +134,7 @@ Add the third lever to that filter. Every initiative, every hire, every product 
 
 ## Further Reading
 
+- [Lifetime Gross Profit (LGP)](/concepts/lifetime-gross-profit): the corrected LTV number that makes the ratio honest
 - [Minimum Proofpoint](/principles/minimum-proofpoint): proving the LGP side of the loop at the unit of one before scaling
 - [Niche Domination](/principles/niche-domination): the long-term defense that holds a CFA advantage across cycles
 - [Chips Not Cash](/principles/chips-not-cash): what to do with the cash a healthy CFA throws off
