@@ -35,6 +35,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 - **[The Reformed Wall Street Operator](/mentors/the-reformed-wall-street-operator)** *(private-conversation archetype)*: spent multiple decades raising and deploying capital across the institutional finance machine, walked away from that life mid-career, and rebuilt his operating model around a closed-accountability substrate. Now runs a portfolio of businesses across regulated and high-information industries. Source of the foundational principles around magic moments, minimum proofpoints, niche domination, and chips-not-cash.
 - **[Eric Ries](/mentors/eric-ries)** *(published-book source)*: author of The Lean Startup and Incorruptible, founder of the Long-Term Stock Exchange. Source on protecting mission-driven companies from corruption (governance, ownership, mission lock-in).
 - **[Sharran Srivatsaa](/mentors/sharran-srivatsaa)** *(public-teaching source)*: CEO of Acquisition.com. Scaled Teles Properties 10x in five years to $3.4 billion and sold to Douglas Elliman. Source on hiring mechanics and A-player attraction.
+- **[Alex Hormozi](/mentors/alex-hormozi)** *(public-teaching source)*: founder and managing partner of Acquisition.com. Operator and investor in a portfolio of companies doing $250M+ per year. Source on unit economics, offers, and the math under business scale.
 
 ## Further Reading
 
