@@ -36,6 +36,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 - **[Eric Ries](/mentors/eric-ries)** *(published-book source)*: author of The Lean Startup and Incorruptible, founder of the Long-Term Stock Exchange. Source on protecting mission-driven companies from corruption (governance, ownership, mission lock-in).
 - **[Sharran Srivatsaa](/mentors/sharran-srivatsaa)** *(public-teaching source)*: CEO of Acquisition.com. Scaled Teles Properties 10x in five years to $3.4 billion and sold to Douglas Elliman. Source on hiring mechanics and A-player attraction.
 - **[Alex Hormozi](/mentors/alex-hormozi)** *(public-teaching source)*: founder and managing partner of Acquisition.com. Operator and investor in a portfolio of companies doing $250M+ per year. Source on unit economics, offers, and the math under business scale.
+- **[Gino Wickman](/mentors/gino-wickman)** *(published-book source)*: creator of the Entrepreneurial Operating System (EOS) and author of Traction. Source on the core operating system this wiki recommends as the default for a growing business, starting with the Accountability Chart, the GWC hiring filter, and the Level 10 Meeting cadence.
 
 ## Further Reading
 
