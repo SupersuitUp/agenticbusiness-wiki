@@ -12,8 +12,6 @@ description: "Evaluate a business by whether it is good in every sense of the wo
 
 ---
 
-*Articulated by Gary Sheng in voice-note self-reflection, 2026-05-22.*
-
 ## What it is
 
 A principle for what to build. "Good business" gets used as if it has one meaning. It does not. The word carries at least five distinct senses, and a serious operator evaluates a business against all of them simultaneously. A business that is good in only one sense is not good. It is unbalanced, and the unbalance shows up downstream.
@@ -33,14 +31,10 @@ A business that passes one of these and fails the others is not good. It is good
 The most common failure mode for talented operators in the AI era is building for one tweet of praise. Engineering peers admire the demo, the screenshot goes viral for a day, the founder feels seen, and the underlying product solves nothing real. The praise loop substitutes for the goodness check.
 
 > "Don't build for social status. That lasts for one tweet. A lot of smart engineers were like, wow, that demo, very cool. That's it. Can you eat that? Can you eat the thumbs up?"
->
-> Gary Sheng, voice-note self-reflection, 2026-05-22
 
 Praise is not calories. A business that is praised but not useful does not feed anyone. A business that is praised but not moral feeds the founder's insecurity and nobody else. A business that is praised but does not last is a tweet, not a business.
 
 > "Don't build to satisfy your insecurity. Build something really useful that your grandkids will look at and say: that was really smart, that made sense."
->
-> Gary Sheng, voice-note self-reflection, 2026-05-22
 
 The praise loop is one specific way the goodness check gets bypassed. Engagement metrics, vanity valuations, press cycles, and status credentials are others. The principle covers all of them. If the operator is building for any signal that is not the goodness check, they are building for the signal.
 
