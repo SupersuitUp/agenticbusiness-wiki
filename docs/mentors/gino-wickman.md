@@ -30,8 +30,11 @@ The principles contributed by Gino to this wiki are not the whole of EOS. They a
 - **[GWC the Seat](/principles/gwc-the-seat)**: every seat-holder must Get it, Want it, and have the Capacity to do it. Three yes-or-no questions. A "no" on any one means the seat is wrong for the person, full stop.
 - **[The Level 10 Meeting](/principles/the-level-10-meeting)**: the leadership team meets weekly, same day, same time, same one-page agenda. Ninety minutes. Sixty of those minutes belong to solving issues.
 - **[IDS the Issue](/principles/ids-the-issue)**: most teams discuss endlessly, identify rarely, and solve almost nothing. Reverse the ratio. The stated problem is almost never the real one. Identify, Discuss, Solve.
+- **[Rocks Before Sand](/principles/rocks-before-sand)**: every quarter, the leadership team commits to three to seven Rocks (specific, measurable, owned by one person each). No new priorities get added mid-quarter. The Rocks go in the jar first, everything else fills in around them.
+- **[Eight Questions, Two Pages](/principles/eight-questions-two-pages)**: the entire leadership-team vision and execution plan fits on two pages, answered through the eight V/TO questions (core values, core focus, 10-year target, marketing strategy, three-year picture, one-year plan, quarterly Rocks, issues).
+- **[The Weekly Scorecard](/principles/the-weekly-scorecard)**: five to fifteen activity-based numbers, each owned by one person, reviewed every week at the top of the Level 10 Meeting. The Scorecard predicts the P&L, the P&L confirms it.
 
-More EOS-distilled principles are planned, including Rocks (the 90-day priority discipline) and the V/TO (Vision/Traction Organizer).
+More EOS-distilled principles are planned, including Core Values + the People Analyzer (the values-based filter that pairs with GWC) and the Three-Step Process Documenter (document it, simplify it, then have everyone follow it).
 
 ## How to cite him
 

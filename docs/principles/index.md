@@ -31,6 +31,9 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[GWC the Seat](/principles/gwc-the-seat)**: every seat-holder must Get it, Want it, and have the Capacity to do it. Three yes-or-no questions. A "no" on any one means the seat is wrong for the person. Distilled from EOS / Gino Wickman.
 - **[The Level 10 Meeting](/principles/the-level-10-meeting)**: the leadership team meets weekly, same day, same time, same one-page agenda. Ninety minutes. Sixty of those minutes belong to solving issues. Distilled from EOS / Gino Wickman.
 - **[IDS the Issue](/principles/ids-the-issue)**: most teams discuss endlessly, identify rarely, and solve almost nothing. Reverse the ratio. The stated problem is almost never the real one. Identify, Discuss, Solve. Distilled from EOS / Gino Wickman.
+- **[Rocks Before Sand](/principles/rocks-before-sand)**: every quarter, the leadership team commits to three to seven Rocks (specific, measurable, one owner each). No new priorities mid-quarter. Distilled from EOS / Gino Wickman.
+- **[Eight Questions, Two Pages](/principles/eight-questions-two-pages)**: the entire leadership-team vision and execution plan fits on two pages via the V/TO's eight foundational questions. If it does not fit on two pages, the vision is not yet clear. Distilled from EOS / Gino Wickman.
+- **[The Weekly Scorecard](/principles/the-weekly-scorecard)**: five to fifteen activity-based numbers, each owned by one person, reviewed weekly. The Scorecard predicts the P&L, the P&L confirms it. Distilled from EOS / Gino Wickman.
 
 ## How to read these
 
