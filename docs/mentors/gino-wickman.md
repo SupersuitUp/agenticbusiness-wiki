@@ -27,8 +27,11 @@ The principles contributed by Gino to this wiki are not the whole of EOS. They a
 ## Principles contributed to this wiki
 
 - **[Five Bullets Per Seat](/principles/five-bullets-per-seat)**: every seat is defined by no more than five outcome-bullets, what the person is responsible for. The mechanisms they use to deliver those outcomes are theirs to figure out.
+- **[GWC the Seat](/principles/gwc-the-seat)**: every seat-holder must Get it, Want it, and have the Capacity to do it. Three yes-or-no questions. A "no" on any one means the seat is wrong for the person, full stop.
+- **[The Level 10 Meeting](/principles/the-level-10-meeting)**: the leadership team meets weekly, same day, same time, same one-page agenda. Ninety minutes. Sixty of those minutes belong to solving issues.
+- **[IDS the Issue](/principles/ids-the-issue)**: most teams discuss endlessly, identify rarely, and solve almost nothing. Reverse the ratio. The stated problem is almost never the real one. Identify, Discuss, Solve.
 
-More EOS-distilled principles are planned, including the GWC hiring filter, the Level 10 Meeting cadence, and the IDS decision discipline.
+More EOS-distilled principles are planned, including Rocks (the 90-day priority discipline) and the V/TO (Vision/Traction Organizer).
 
 ## How to cite him
 

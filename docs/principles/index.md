@@ -28,6 +28,9 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Protect the Mission Vehicle](/principles/protect-the-mission-vehicle)**: the business that carries your mission is a target. Protect it from predators outside and from temptations inside. Stub. Distilled from Eric Ries' Incorruptible.
 - **[Hire the Independent Implementer](/principles/hire-the-independent-implementer)**: if the people building your AI stack make more money when you commit to one foundation-model vendor, they cannot be trusted with the architecture call. Distilled from public 2026 evidence on hyperscaler partner programs.
 - **[Five Bullets Per Seat](/principles/five-bullets-per-seat)**: every seat is defined by no more than five outcome-bullets, what the person is responsible for. The mechanisms they use to deliver are theirs to figure out. Distilled from EOS / Gino Wickman.
+- **[GWC the Seat](/principles/gwc-the-seat)**: every seat-holder must Get it, Want it, and have the Capacity to do it. Three yes-or-no questions. A "no" on any one means the seat is wrong for the person. Distilled from EOS / Gino Wickman.
+- **[The Level 10 Meeting](/principles/the-level-10-meeting)**: the leadership team meets weekly, same day, same time, same one-page agenda. Ninety minutes. Sixty of those minutes belong to solving issues. Distilled from EOS / Gino Wickman.
+- **[IDS the Issue](/principles/ids-the-issue)**: most teams discuss endlessly, identify rarely, and solve almost nothing. Reverse the ratio. The stated problem is almost never the real one. Identify, Discuss, Solve. Distilled from EOS / Gino Wickman.
 
 ## How to read these
 
