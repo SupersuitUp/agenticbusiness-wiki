@@ -37,6 +37,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 - **[Sharran Srivatsaa](/mentors/sharran-srivatsaa)** *(public-teaching source)*: CEO of Acquisition.com. Scaled Teles Properties 10x in five years to $3.4 billion and sold to Douglas Elliman. Source on hiring mechanics and A-player attraction.
 - **[Alex Hormozi](/mentors/alex-hormozi)** *(public-teaching source)*: founder and managing partner of Acquisition.com. Operator and investor in a portfolio of companies doing $250M+ per year. Source on unit economics, offers, and the math under business scale.
 - **[Gino Wickman](/mentors/gino-wickman)** *(published-book source)*: creator of the Entrepreneurial Operating System (EOS) and author of Traction. Source on the core operating system this wiki recommends as the default for a growing business, starting with the Accountability Chart, the GWC hiring filter, and the Level 10 Meeting cadence.
+- **[Jon McNeill](/mentors/jon-mcneill)** *(public-teaching source)*: former President of Tesla, built and exited five operating companies, author of *The Algorithm*. Source on order-of-magnitude goal setting, go-and-see operating, and three-sentence executive communication.
 
 ## Further Reading
 

@@ -34,6 +34,9 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Rocks Before Sand](/principles/rocks-before-sand)**: every quarter, the leadership team commits to three to seven Rocks (specific, measurable, one owner each). No new priorities mid-quarter. Distilled from EOS / Gino Wickman.
 - **[Eight Questions, Two Pages](/principles/eight-questions-two-pages)**: the entire leadership-team vision and execution plan fits on two pages via the V/TO's eight foundational questions. If it does not fit on two pages, the vision is not yet clear. Distilled from EOS / Gino Wickman.
 - **[The Weekly Scorecard](/principles/the-weekly-scorecard)**: five to fifteen activity-based numbers, each owned by one person, reviewed weekly. The Scorecard predicts the P&L, the P&L confirms it. Distilled from EOS / Gino Wickman.
+- **[Order of Magnitude Goal Setting](/principles/order-of-magnitude-goal-setting)**: if you set a five percent improvement goal, you will get three percent. If you set a 10x goal, your team is forced to question the business model itself. Distilled from Jon McNeill.
+- **[Go and See, Two Eyes Two Ears](/principles/go-and-see)**: the leader's most powerful analytical instrument is direct observation of the work. Mystery-shop the funnel, sit at the bottleneck, watch real customers struggle with the real product. Distilled from Jon McNeill.
+- **[Three Sentence Discipline](/principles/three-sentence-discipline)**: every escalation collapses to three sentences. What is the problem, what is the root cause, what is the proposed solution. Distilled from Jon McNeill.
 
 ## How to read these
 
