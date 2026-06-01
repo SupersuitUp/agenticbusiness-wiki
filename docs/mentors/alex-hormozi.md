@@ -30,12 +30,23 @@ He is also unusually crisp on the failure modes. Most of his teaching is built a
 
 - **[Customer Financed Acquisition](/principles/customer-financed-acquisition)**: the discipline of running the customer-acquisition loop so it pays for itself. Three levers: lower CAC, raise [lifetime gross profit](/concepts/lifetime-gross-profit), shorten payback period. The page covers how to compute each lever honestly, how they interact, and why most operators who stall under $10M per year are stuck because they have never measured all three.
 - **[Relinquish Control for Leverage](/principles/relinquish-control-for-leverage)**: you unlock leverage by giving up control. Define the input-output equation, 10x the input, and since 100x input is never just you, climb the leverage stack by handing off every job you do, function by function, until you give up even the desire to be needed by the business.
+- **[Stop Selling From Your Own Wallet](/principles/stop-selling-from-your-own-wallet)**: you price your offer for the version of you who cannot afford it, and take pricing advice from broke advisors. Price for the buyer who has the money, carry a five-to-ten-times anchor you would be happy to deliver, expect more no's, and count absolute profit rather than agreement.
 
 More principles will be distilled from his ongoing public teaching over time. The Acquisition.com YouTube channel and his books are the primary sources.
 
 ## Field Notes
 
 A dated log of what was lifted from each Hormozi piece this wiki has processed. Most recent first.
+
+### 2026-06-01 — "Stop Selling From Your Own Wallet" (YouTube, MoreMozi)
+
+A six-minute clip on pricing. The core move is to stop pricing from your own wallet and your broke friends' and family's feedback, because the buyers with money are common (one in ten Americans hold a million-dollar-plus net worth) and underpricing reads as low quality. Hormozi recounts a health company he believed was mispriced: a fifty percent price raise pushed close rates up, because the offer had been too cheap to be believed. He prescribes a five-to-ten-times anchor offer built to be worth it, frames the value-or-price choice ("do less or charge more"), and argues for absolute profit over relative: one customer paying ten thousand dollars at two thousand cost equals four hundred customers at fifty dollars. Expect more no's; the sweet spot is the most money, not the most yes's.
+
+> "Whatever your upsell is, five to 10X the price. And then just make sure it's something that you'd be happy to deliver for five to 10 times the price."
+>
+> Alex Hormozi, [Stop Selling From Your Own Wallet](https://www.youtube.com/watch?v=yEmM9JygeEo), YouTube, 2026-06-01
+
+Landed on the wiki as [Stop Selling From Your Own Wallet](/principles/stop-selling-from-your-own-wallet).
 
 ### 2026-05-31 — "I Have a Challenge for You" (YouTube, MoreMozi)
 
