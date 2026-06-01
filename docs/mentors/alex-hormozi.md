@@ -29,8 +29,23 @@ He is also unusually crisp on the failure modes. Most of his teaching is built a
 ## Principles contributed to this wiki
 
 - **[Customer Financed Acquisition](/principles/customer-financed-acquisition)**: the discipline of running the customer-acquisition loop so it pays for itself. Three levers: lower CAC, raise [lifetime gross profit](/concepts/lifetime-gross-profit), shorten payback period. The page covers how to compute each lever honestly, how they interact, and why most operators who stall under $10M per year are stuck because they have never measured all three.
+- **[Relinquish Control for Leverage](/principles/relinquish-control-for-leverage)**: you unlock leverage by giving up control. Define the input-output equation, 10x the input, and since 100x input is never just you, climb the leverage stack by handing off every job you do, function by function, until you give up even the desire to be needed by the business.
 
 More principles will be distilled from his ongoing public teaching over time. The Acquisition.com YouTube channel and his books are the primary sources.
+
+## Field Notes
+
+A dated log of what was lifted from each Hormozi piece this wiki has processed. Most recent first.
+
+### 2026-05-31 — "I Have a Challenge for You" (YouTube, MoreMozi)
+
+A five-minute clip where Hormozi answers the closing-challenge question from a podcast. Two ideas, tightly linked. First, the challenge: define the input-output equation that moves you toward your goal, then 10x the input, because operators think in doubles when the answer is orders of magnitude. Second, the mechanism that makes 100x input possible: leverage, unlocked by relinquishing control. He walks the cold-call ladder (do it yourself, hire it out, recruit a recruiter who stacks callers) and then the unlearning ladder an operator climbs (production, admin, sales, marketing, management, leadership, financing, and finally the desire to be needed).
+
+> "What you unlock in the game of entrepreneurship is leverage. And the way that you unlock leverage is relinquishing control."
+>
+> Alex Hormozi, [I Have a Challenge for You](https://www.youtube.com/watch?v=Qq-iYKtyF0U), YouTube, 2026-05-31
+
+Landed on the wiki as [Relinquish Control for Leverage](/principles/relinquish-control-for-leverage).
 
 ## How to cite him
 
@@ -45,5 +60,6 @@ When the principle is distilled rather than quoted verbatim, note the source at 
 ## Further Reading
 
 - [Customer Financed Acquisition](/principles/customer-financed-acquisition): the principle distilled from his teaching on unit economics
+- [Relinquish Control for Leverage](/principles/relinquish-control-for-leverage): the principle distilled from his teaching on the leverage stack
 - [Mentors](/mentors): the other mentors on this wiki
 - [Principles](/principles): the load-bearing rules of building an agentic business

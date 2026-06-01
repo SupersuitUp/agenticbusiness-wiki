@@ -23,6 +23,7 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Inversion: Magic Before Finance](/principles/inversion)**: start with the magic moment. The financials emerge from the magic, not the other way around.
 - **[Missionary and Mercenary](/principles/missionary-and-mercenary)**: care about the work like a missionary, run the business like an operator. Neither alone holds up.
 - **[Leverage and Chokepoints](/principles/leverage-and-chokepoints)**: every industry has a structure. Be the chokepoint or build the workaround. Never operate without leverage.
+- **[Relinquish Control for Leverage](/principles/relinquish-control-for-leverage)**: you unlock leverage by giving up control. Define the input-output equation, 10x the input, and climb the leverage stack by handing off every job you do, function by function. Distilled from Alex Hormozi.
 - **[Dinosaurs Versus Native](/principles/dinosaurs-versus-native)**: old industries require commercial-sales skill. AI-native lanes move fast. Pick which game you are playing, and play it on purpose.
 - **[A-Player For You](/principles/a-player-for-you)**: the A-player is not a generic archetype. Write job descriptions from raw pain and raw aspiration, run them through AI, and the right person self-selects.
 - **[Protect the Mission Vehicle](/principles/protect-the-mission-vehicle)**: the business that carries your mission is a target. Protect it from predators outside and from temptations inside. Stub. Distilled from Eric Ries' Incorruptible.
