@@ -2,6 +2,7 @@
 title: "Three Sentence Discipline"
 slug: /principles/three-sentence-discipline
 description: "Every escalation, every status update, every decision request collapses to three sentences. What is the problem. What is the root cause. What is the proposed solution. The discipline sharpens the sender's thinking as much as it conserves the receiver's time."
+image: "/img/comics/three-sentence-discipline.png"
 ---
 
 # Three Sentence Discipline

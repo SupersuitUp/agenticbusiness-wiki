@@ -2,6 +2,7 @@
 title: "Stop Selling From Your Own Wallet"
 slug: /principles/stop-selling-from-your-own-wallet
 description: "You price your offer for the version of you who cannot afford it. Price it for the customer who has the money, and stop taking money advice from people who have none."
+image: "/img/comics/stop-selling-from-your-own-wallet.png"
 ---
 
 # Stop Selling From Your Own Wallet

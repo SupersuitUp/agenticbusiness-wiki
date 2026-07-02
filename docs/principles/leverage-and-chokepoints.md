@@ -2,6 +2,7 @@
 title: "Leverage and Chokepoints"
 slug: /principles/leverage-and-chokepoints
 description: "Every industry has a structure. Be the chokepoint or build the workaround. Never operate without a point of leverage."
+image: "/img/comics/leverage-and-chokepoints.png"
 ---
 
 # Leverage and Chokepoints

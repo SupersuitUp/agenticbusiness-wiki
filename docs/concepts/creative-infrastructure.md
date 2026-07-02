@@ -2,6 +2,7 @@
 title: "Creative Infrastructure"
 slug: /concepts/creative-infrastructure
 description: "A type of agentic business worth building: the technical stack born only because a cultural-creative vision required it. The Lucas Pattern. The infrastructure becomes load-bearing for a whole category, because one founder refused to shrink their vision to fit the tools that already existed."
+image: "/img/comics/creative-infrastructure.png"
 ---
 
 # Creative Infrastructure

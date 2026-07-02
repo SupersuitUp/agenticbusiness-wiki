@@ -2,6 +2,7 @@
 title: "Five Bullets Per Seat"
 slug: /principles/five-bullets-per-seat
 description: "Every seat in the org is defined by no more than five outcome-bullets, what the person is responsible for. The tasks they use to deliver those outcomes are theirs to figure out. Compression is the price of accountability."
+image: "/img/comics/five-bullets-per-seat.png"
 ---
 
 # Five Bullets Per Seat

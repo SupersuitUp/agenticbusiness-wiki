@@ -2,6 +2,7 @@
 title: "Niche Domination"
 slug: /principles/niche-domination
 description: "The coral reef versus the blue ocean. Most of the life is in the small niches because the big fish cannot fit. Wildly profitable small businesses beat scrappy positions in crowded markets."
+image: "/img/comics/niche-domination.png"
 ---
 
 # Niche Domination

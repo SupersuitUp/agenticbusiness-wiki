@@ -2,6 +2,7 @@
 title: "Eat the Frog First"
 slug: /principles/eat-the-frog-first
 description: "Do your hardest, highest-leverage task first thing in the morning, before email and chat consume your sharpest hours. Everything else feels easy once the frog is eaten."
+image: "/img/comics/eat-the-frog-first.png"
 ---
 
 # Eat the Frog First

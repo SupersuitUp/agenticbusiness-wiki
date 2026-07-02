@@ -2,6 +2,7 @@
 title: "Imago Dei Unicorn"
 slug: /concepts/imago-dei-unicorn
 description: "The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement."
+image: "/img/comics/imago-dei-unicorn.png"
 ---
 
 # Imago Dei Unicorn

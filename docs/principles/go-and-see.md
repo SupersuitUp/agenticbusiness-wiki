@@ -2,6 +2,7 @@
 title: "Go and See, Two Eyes Two Ears"
 slug: /principles/go-and-see
 description: "The leader's most powerful analytical instrument is direct observation of the work. Mystery-shop the funnel, sit at the bottleneck, watch real customers struggle with the real product. The insight arrives faster than any dashboard can deliver it."
+image: "/img/comics/go-and-see.png"
 ---
 
 # Go and See, Two Eyes Two Ears

@@ -2,6 +2,7 @@
 title: "Own the Substrate"
 slug: /principles/own-the-substrate
 description: "An agentic business that runs on someone else's closed API is borrowing capability that can change overnight. Own the weights, own the prompts, own the version, or accept that the substrate is not yours."
+image: "/img/comics/own-the-substrate.png"
 ---
 
 # Own the Substrate

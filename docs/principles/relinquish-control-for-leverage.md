@@ -2,6 +2,7 @@
 title: "Relinquish Control for Leverage"
 slug: /principles/relinquish-control-for-leverage
 description: "You unlock leverage by giving up control. The entrepreneurial journey is unlearning the very thing that got you to quit your job: doing every job yourself."
+image: "/img/comics/relinquish-control-for-leverage.png"
 ---
 
 # Relinquish Control for Leverage

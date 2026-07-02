@@ -2,6 +2,7 @@
 title: "The Token-Profit Squeeze"
 slug: /concepts/the-token-profit-squeeze
 description: "A structural pattern in agentic businesses. Per-seat revenue stays roughly flat as a heavy AI-using employee scales their work, while per-token compute cost climbs exponentially. The gap closes, then crosses, then collapses the margin on the seat."
+image: "/img/comics/the-token-profit-squeeze.png"
 ---
 
 # The Token-Profit Squeeze

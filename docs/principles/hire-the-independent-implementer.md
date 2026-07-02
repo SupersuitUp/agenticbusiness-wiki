@@ -2,6 +2,7 @@
 title: "Hire the Independent Implementer"
 slug: /principles/hire-the-independent-implementer
 description: "If the people building your AI stack make more money when you commit to one foundation-model vendor, they cannot be trusted with the architecture call. Hire the implementer whose paycheck is the same no matter which model you pick."
+image: "/img/comics/hire-the-independent-implementer.png"
 ---
 
 # Hire the Independent Implementer

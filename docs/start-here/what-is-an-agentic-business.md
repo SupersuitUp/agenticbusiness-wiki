@@ -3,6 +3,7 @@ title: "What is an Agentic Business"
 slug: /start-here/what-is-an-agentic-business
 sidebar_position: 2
 description: "A business that runs on applied AI. The founder sets direction, AI handles the operations that can be handed off, and the humans do the work that only humans can do."
+image: "/img/comics/what-is-an-agentic-business.png"
 ---
 
 # What is an Agentic Business

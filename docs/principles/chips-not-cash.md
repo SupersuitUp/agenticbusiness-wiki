@@ -2,6 +2,7 @@
 title: "Chips Not Cash"
 slug: /principles/chips-not-cash
 description: "Convert know-how into equity in the vehicles applying it. Cash is consumed; equity in niches compounds. Especially urgent now while AI know-how is a real comparative advantage."
+image: "/img/comics/chips-not-cash.png"
 ---
 
 # Chips Not Cash

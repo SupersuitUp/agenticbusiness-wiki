@@ -2,6 +2,7 @@
 title: "The Magic Moment"
 slug: /principles/the-magic-moment
 description: "Every business has one specific moment where the customer experiences the value. Create that moment first, by hand, for one real customer. Everything else is downstream."
+image: "/img/comics/the-magic-moment.png"
 ---
 
 # The Magic Moment

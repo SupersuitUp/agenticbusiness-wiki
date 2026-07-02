@@ -2,6 +2,7 @@
 title: "The Weekly Scorecard"
 slug: /principles/the-weekly-scorecard
 description: "Five to fifteen activity-based numbers, reviewed every week. Each number owned by one person. The Scorecard predicts the P&L; the P&L confirms it after the fact. Without a Scorecard, you are flying blind between financial statements."
+image: "/img/comics/the-weekly-scorecard.png"
 ---
 
 # The Weekly Scorecard

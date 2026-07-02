@@ -2,6 +2,7 @@
 title: "Eight Questions, Two Pages"
 slug: /principles/eight-questions-two-pages
 description: "A leadership team's entire vision and execution plan fits on two pages. Answer eight questions, agree as a team, and the document becomes the substrate every operating decision is checked against. If it doesn't fit on two pages, the vision isn't yet clear."
+image: "/img/comics/eight-questions-two-pages.png"
 ---
 
 # Eight Questions, Two Pages

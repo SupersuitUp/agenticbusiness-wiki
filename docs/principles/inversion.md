@@ -2,6 +2,7 @@
 title: "Inversion: Magic Before Finance"
 slug: /principles/inversion
 description: "Do not start with the business plan or the financials. Start with the magic moment. The financials emerge from the magic, not the other way around."
+image: "/img/comics/inversion.png"
 ---
 
 # Inversion: Magic Before Finance

@@ -2,6 +2,7 @@
 title: "Good in Every Sense"
 slug: /principles/good-in-every-sense
 description: "Evaluate a business by whether it is good in every sense of the word at once: useful, moral, lasting, profitable, contributing. Building for any single sense in isolation produces an unbalanced operation that fails the others."
+image: "/img/comics/good-in-every-sense.png"
 ---
 
 # Good in Every Sense

@@ -2,6 +2,7 @@
 title: "Dinosaurs Versus Native"
 slug: /principles/dinosaurs-versus-native
 description: "Working with old industries requires commercial-sales skill and patience for slow-moving customers. Working in AI-native lanes moves fast but the basis of competition is intense. Pick which game you are playing, and play it on purpose."
+image: "/img/comics/dinosaurs-versus-native.png"
 ---
 
 # Dinosaurs Versus Native

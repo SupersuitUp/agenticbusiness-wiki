@@ -2,6 +2,7 @@
 title: "IDS the Issue"
 slug: /principles/ids-the-issue
 description: "Most teams discuss endlessly, identify rarely, and solve almost nothing. Reverse the ratio. Spend the most time identifying the real problem, the stated problem is almost never the real one. Discussion and solution then take minutes. Identify, Discuss, Solve."
+image: "/img/comics/ids-the-issue.png"
 ---
 
 # IDS the Issue

@@ -2,6 +2,7 @@
 title: "Rocks Before Sand"
 slug: /principles/rocks-before-sand
 description: "Every quarter, the leadership team commits to three to seven Rocks (specific, measurable, time-bound priorities, each owned by one person). No new priorities get added mid-quarter. The Rocks go in the jar first, everything else fills in around them."
+image: "/img/comics/rocks-before-sand.png"
 ---
 
 # Rocks Before Sand

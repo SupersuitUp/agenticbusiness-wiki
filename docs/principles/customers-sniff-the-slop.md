@@ -2,6 +2,7 @@
 title: "Customers Sniff the Slop"
 slug: /principles/customers-sniff-the-slop
 description: "Customers can tell when an operator puts less effort into them. AI ships slop unless coached extremely. Warm touchpoints cannot be replaced with bots. Coach the AI; protect the human."
+image: "/img/comics/customers-sniff-the-slop.png"
 ---
 
 # Customers Sniff the Slop

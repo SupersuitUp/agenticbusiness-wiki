@@ -2,6 +2,7 @@
 title: "The Level 10 Meeting"
 slug: /principles/the-level-10-meeting
 description: "The leadership team meets weekly, same day, same time, same one-page agenda. Ninety minutes. Sixty of those minutes belong to solving issues. Start on time, end on time, rate the meeting an 8 or higher every week."
+image: "/img/comics/the-level-10-meeting.png"
 ---
 
 # The Level 10 Meeting

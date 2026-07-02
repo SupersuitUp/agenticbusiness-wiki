@@ -2,6 +2,7 @@
 title: "Customer Financed Acquisition"
 slug: /principles/customer-financed-acquisition
 description: "Run the customer-acquisition loop so it pays for itself. Three levers: lower CAC, raise lifetime gross profit, shorten payback period. When all three are tuned, growth funds growth and outside capital becomes optional."
+image: "/img/comics/customer-financed-acquisition.png"
 ---
 
 # Customer Financed Acquisition

@@ -2,6 +2,7 @@
 title: "GWC the Seat"
 slug: /principles/gwc-the-seat
 description: "Every seat-holder must Get it, Want it, and have the Capacity to do it. Three yes-or-no questions. A 'no' on any one means the seat is wrong for the person. Skill, comp, ego, and longevity cannot cover the gap."
+image: "/img/comics/gwc-the-seat.png"
 ---
 
 # GWC the Seat

@@ -2,6 +2,7 @@
 title: "Missionary and Mercenary"
 slug: /principles/missionary-and-mercenary
 description: "Care about the work like a missionary, run the business like an operator. Neither alone holds up."
+image: "/img/comics/missionary-and-mercenary.png"
 ---
 
 # Missionary and Mercenary

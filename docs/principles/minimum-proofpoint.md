@@ -2,6 +2,7 @@
 title: "Minimum Proofpoint"
 slug: /principles/minimum-proofpoint
 description: "Prove the value at the unit of one before scaling anything. If you cannot make it work for one user, the system does not exist."
+image: "/img/comics/minimum-proofpoint.png"
 ---
 
 # Minimum Proofpoint

@@ -2,6 +2,7 @@
 title: "Clockworkers"
 slug: /concepts/clockworkers
 description: "Specialized craftspeople who fine-tune well-tested processes. Lawyers, accountants, PE modelers, niche engineers, operations experts. The portfolio's deployable mastery layer. Pairs with the Imago Dei Unicorn to let an anointed creator scale."
+image: "/img/comics/clockworkers.png"
 ---
 
 # Clockworkers

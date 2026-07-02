@@ -2,6 +2,7 @@
 title: "Order of Magnitude Goal Setting"
 slug: /principles/order-of-magnitude-goal-setting
 description: "If you set a five percent improvement goal, you will get three percent. If you set a 10x goal, your team is forced to question the business model itself. The goal is the lever."
+image: "/img/comics/order-of-magnitude-goal-setting.png"
 ---
 
 # Order of Magnitude Goal Setting
