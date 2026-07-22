@@ -68,7 +68,9 @@ So run the arithmetic the other way. A manager whose roster is machine-legible s
 
 That reframes what the legible business is for. It is capacity for the relationship, not a substitute for it. It also generalizes: the counselor's supervisor, the label's A&R, the agency's account lead, anyone whose job is a small number of deep relationships bounded by administrative load. The scarce thing was never the coordination. It was the person willing to be responsible for you, and that person was rationed by paperwork.
 
-Which of the two shapes dominates is an open question, and the honest answer is that both will exist. The solo operator with no manager gets one for the first time. The manager who already has a roster gets a much larger one. Neither requires deciding in advance what the frontier will absorb, which is the whole point of building for legibility rather than for a prediction.
+Both shapes will exist, and what they share is the part worth naming. The solo operator who never had a manager gets one for the first time. The manager who already has a roster gets a much larger one. In neither case does the human relationship come out of the middle, because artists want to be managed by a person and clients want to be counseled by one, and that preference is the whole reason the roster was worth having.
+
+What comes out in both cases is the drudgery, and it comes out for everyone in the chain: the practitioner, the manager, and whoever was re-keying the same information into six systems on their behalf. That is the actual target. Eliminating drudgery for everyone is a goal you can hold without ruling in advance on where the frontier settles, which is why it survives being wrong about the boundary. Legibility is how you hit it.
 
 ## A Day Inside a Painter's Business
 
