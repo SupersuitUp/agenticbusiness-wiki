@@ -58,6 +58,18 @@ The stronger position is that you do not have to predict the boundary. [The Jagg
 
 One consequence is already firm. Management stops being gated by payroll. Getting a competent operations person used to require the business to be able to afford one, which meant most solo operators never got any version of it at all. That part does not depend on winning any prediction about where the boundary settles.
 
+## The Manager Is More Likely Amplified Than Replaced
+
+There is a second shape here, and it may be the one that actually arrives. A legible business does not only let a solo operator be served by an agent. It lets a human manager carry far more people than before.
+
+The reason is a preference, not a capability limit. People want a human in it. An artist wants someone who picked up the phone at a bad moment, who has met the gallery owner, who carries some of the risk alongside them. That want does not go away because the invoicing got automated, and a business model that ignores it is arguing with its own customers.
+
+So run the arithmetic the other way. A manager whose roster is machine-legible stops spending the week holding state, chasing what is stuck, and re-keying the same information into six systems. That was most of the load, and it was the reason a roster of five was already full. Remove it and the same person can carry thirty, with every one of those thirty still having a human who knows their situation and answers when called.
+
+That reframes what the legible business is for. It is capacity for the relationship, not a substitute for it. It also generalizes: the counselor's supervisor, the label's A&R, the agency's account lead, anyone whose job is a small number of deep relationships bounded by administrative load. The scarce thing was never the coordination. It was the person willing to be responsible for you, and that person was rationed by paperwork.
+
+Which of the two shapes dominates is an open question, and the honest answer is that both will exist. The solo operator with no manager gets one for the first time. The manager who already has a roster gets a much larger one. Neither requires deciding in advance what the frontier will absorb, which is the whole point of building for legibility rather than for a prediction.
+
 ## A Day Inside a Painter's Business
 
 Take a working painter. Great with people, strong on camera, sells originals and prints, gets a steady trickle of inbound from social, has no assistant and does not want one. Everything he sells is downstream of hours spent at the easel, and every hour spent on the business is an hour not spent at the easel. His day inside a machine-legible business looks like this.
