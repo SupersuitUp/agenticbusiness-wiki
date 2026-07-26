@@ -39,6 +39,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 - **[Leila Hormozi](/mentors/leila-hormozi)** *(public-teaching source)*: co-founder and CEO of Acquisition.com. Source on operator discipline, management, and the human-execution layer the agentic stack sits on top of.
 - **[Gino Wickman](/mentors/gino-wickman)** *(published-book source)*: creator of the Entrepreneurial Operating System (EOS) and author of Traction. Source on the core operating system this wiki recommends as the default for a growing business, starting with the Accountability Chart, the GWC hiring filter, and the Level 10 Meeting cadence.
 - **[Jon McNeill](/mentors/jon-mcneill)** *(public-teaching source)*: former President of Tesla, built and exited five operating companies, author of *The Algorithm*. Source on order-of-magnitude goal setting, go-and-see operating, and three-sentence executive communication.
+- **[Frank Coyle](/mentors/frank-coyle)** *(public-teaching source)*: computer-science educator at UC Berkeley, 35 years in the field, worked in expert systems through the 1980s boom and the AI winter that followed. Source on reusing published vocabularies rather than modeling a domain from scratch.
 
 ## Further Reading
 
