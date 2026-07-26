@@ -39,6 +39,7 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Order of Magnitude Goal Setting](/principles/order-of-magnitude-goal-setting)**: if you set a five percent improvement goal, you will get three percent. If you set a 10x goal, your team is forced to question the business model itself. Distilled from Jon McNeill.
 - **[Go and See, Two Eyes Two Ears](/principles/go-and-see)**: the leader's most powerful analytical instrument is direct observation of the work. Mystery-shop the funnel, sit at the bottleneck, watch real customers struggle with the real product. Distilled from Jon McNeill.
 - **[Three Sentence Discipline](/principles/three-sentence-discipline)**: every escalation collapses to three sentences. What is the problem, what is the root cause, what is the proposed solution. Distilled from Jon McNeill.
+- **[Steal the Nouns](/principles/steal-the-nouns)**: most of your domain model is generic and already published as a free standard. Adopt those types as-is, and spend every remaining hour on the part no standard will ever cover. Distilled from Frank Coyle.
 
 ## How to read these
 
