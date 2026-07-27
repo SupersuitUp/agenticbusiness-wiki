@@ -13,6 +13,16 @@ image: "/img/comics/the-machine-legible-business.png"
 
 ---
 
+## Legible Is the Prerequisite, Not the Destination
+
+The name says legible and the subject is running. That order is the claim, so it is worth being exact about it.
+
+Legibility is the property you build. A business an agent can run is what you get. The word is doing prerequisite work, not naming the finish line, which is what [Legibility Is the Ceiling on What Your Agent Can Do](https://userexperience.wiki/perspectives/legibility-is-the-ceiling-on-what-your-agent-can-do) means by a ceiling: it bounds what is reachable rather than describing the destination.
+
+This matters because "legible" is easy to hear as readable, and readable is only half of it. A business that can be perfectly read and not acted on is an excellent dashboard, and a dashboard leaves the owner as the integration layer, which is the exact position this page exists to get them out of. That is why the two properties below are read AND act, and why neither one alone earns the name.
+
+The sentence to carry: **an AI-native business is not a business that adopted AI, it is a business that became legible enough for AI to run.**
+
 ## The Unit of Legibility Is the Whole Business
 
 [Legibility Is the Ceiling on What Your Agent Can Do](https://userexperience.wiki/perspectives/legibility-is-the-ceiling-on-what-your-agent-can-do) makes the case at the scale of a single process: an agent can only act on the part of the work it can read, so the readable share of a process is a hard cap on what any agent can do inside it. That is the parent claim of this page and it is correct. What follows escalates the unit.
