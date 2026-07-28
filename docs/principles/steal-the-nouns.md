@@ -115,6 +115,6 @@ An operator running this principle can:
 - [Ontology as Substrate](https://appliedai.wiki/disciplines/ontology-as-substrate): what a domain model is and the craft of building one. This principle is the budgeting decision layered on top.
 - [Neurosymbolic AI](https://appliedai.wiki/concepts/neurosymbolic-ai): why the constraints on top of the vocabulary belong in a formal checker rather than a prompt.
 - [Ontology-Driven Development](https://appliedai.wiki/disciplines/ontology-driven-development): the engineering methodology that turns the model into software.
-- [The Machine-Legible Business](/concepts/the-machine-legible-business): why the business needs a readable model at all, and how much of the operating machinery is undifferentiated.
+- [The Machine-Drivable Business](/concepts/the-machine-drivable-business): why the business needs a readable model at all, and how much of the operating machinery is undifferentiated.
 - [Own the Substrate](/principles/own-the-substrate): the dependency you should own, and the contrast that makes this one safe to rent.
 - [Frank Coyle](/mentors/frank-coyle): the source of this principle.

@@ -61,6 +61,6 @@ Where the insight landed on this wiki:
 ## Further Reading
 
 - [Steal the Nouns](/principles/steal-the-nouns)
-- [The Machine-Legible Business](/concepts/the-machine-legible-business): why a business needs a readable domain model in the first place
+- [The Machine-Drivable Business](/concepts/the-machine-drivable-business): why a business needs a readable domain model in the first place
 - [Mentors](/mentors): the other mentors on this wiki
 - [Principles](/principles): the load-bearing rules of building an agentic business
