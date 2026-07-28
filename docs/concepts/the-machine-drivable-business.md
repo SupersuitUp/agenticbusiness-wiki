@@ -49,6 +49,45 @@ Two things follow, and both are more useful than the north star.
 
 The difference in kind described above, between an assistant on one task and something closer to a general manager, is real and it is what you are heading toward. But it arrives late, and the leverage arrives early. Do not wait for the first to start collecting the second.
 
+## Four Levels, and Two Different Words
+
+Drivable is a property of an ongoing thing. It is the wrong word for a procedure, and using one word at every altitude is why progressive drivability sounded like a slogan rather than a plan.
+
+| Level | The unit | What you say about it | Where you are |
+|---|---|---|---|
+| **Business** | the whole thing | machine-drivable | orchestrating |
+| **Function** | an ongoing responsibility: marketing, grant writing, customer success | machine-drivable | steering |
+| **Workflow, automated** | a procedure, fully machine-driven | automated | out of the loop |
+| **Workflow, streamlined** | a procedure, mostly machine | streamlined | still in one step |
+
+The line between the top half and the bottom half is **completion**. A workflow finishes: make one book, close one month. You reach the end and it stops, so you streamline a procedure. A function never finishes. There is no state in which marketing is done, so you drive it: read its state, work its controls, steer.
+
+That is why two words rather than one. Driving something that completes is a category error, and streamlining something that never completes quietly builds a machine that stops for work that was not going to.
+
+### The ladder this makes
+
+Progressive drivability now has a mechanism and a unit of progress.
+
+**Streamline a workflow.** Usually one skill written once instead of a task re-explained. An hour becomes four minutes, and it pays immediately.
+
+**Automate the ones you can.** A workflow becomes automatable when you have written down what good looks like for its output. Until then it stays streamlined, and that is not a failure.
+
+**The function becomes drivable** once enough of its workflows are streamlined or automated that its state can be read and its controls worked.
+
+**The business becomes drivable** once enough functions are.
+
+You climb from the bottom. Nobody starts at the top, and the leverage is available on the first rung.
+
+### Streamlined versus automated is the same question one altitude down
+
+Streamlined means the machine does most of it and you are still in a step. Automated means you are out.
+
+What stands between them is a definition of good. You can steer a workflow without one, live, applying judgment as you go. You cannot leave it without one, because the standard has to be somewhere when you are not there.
+
+That is worth saying plainly because it sets expectations honestly: **most of your workflows should stay streamlined for a long time**, and the ones that get automated earn it by having their standard written down.
+
+Automated does not mean ungoverned. You left the loop; you did not stop being accountable for the output. The approval step that stays behind is not what keeps you in the loop, it is what lets you leave it: your judgment, encoded, standing where you used to stand.
+
 ## Queryable State, Actuable Controls
 
 A machine-drivable business has two properties, and both have to hold at once. This is the pair the name is about: reading the road, and turning the wheel.
