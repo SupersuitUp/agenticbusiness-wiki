@@ -1,6 +1,96 @@
 {
   "changeEvents": [
     {
+      "id": "mentors/finn-mallery@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "mentors/finn-mallery",
+      "routePath": "/mentors/finn-mallery",
+      "section": "mentors",
+      "title": "Finn Mallery",
+      "description": "Founder of Origami (Y Combinator). Interviewed the ten fastest-growing YC companies and distilled their shared four-step acquisition playbook. Source on customer acquisition in 2026."
+    },
+    {
+      "id": "mentors/max-hodak@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "mentors/max-hodak",
+      "routePath": "/mentors/max-hodak",
+      "section": "mentors",
+      "title": "Max Hodak",
+      "description": "CEO of Science, whose retinal implant restores vision to blind patients. Co-founded Neuralink. Source on infrastructure as the basis of speed, and judgment as the founder's non-delegable load."
+    },
+    {
+      "id": "principles/action-produces-information@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/action-produces-information",
+      "routePath": "/principles/action-produces-information",
+      "section": "principles",
+      "title": "Action Produces Information",
+      "description": "It is very difficult to actually get stuck. The action space is always larger than it appears. When a company stalls, inject action: doing things generates the information that thinking cannot."
+    },
+    {
+      "id": "principles/not-cold-if-they-liked-your-post@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/not-cold-if-they-liked-your-post",
+      "routePath": "/principles/not-cold-if-they-liked-your-post",
+      "section": "principles",
+      "title": "It's Not Cold If They Liked Your Post",
+      "description": "Content converts 5 percent on its own. The other 95 percent saw it, warmed up, and never booked. Hyper-targeted warm outbound to that iceberg replaces cold outreach entirely."
+    },
+    {
+      "id": "principles/pathologically-close-to-the-customer@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/pathologically-close-to-the-customer",
+      "routePath": "/principles/pathologically-close-to-the-customer",
+      "section": "principles",
+      "title": "Get Pathologically Close to the Customer",
+      "description": "Treat the market like a fogged Battleship board. Hundreds of customer conversations burn the fog off and manufacture ten years of intuition in months. Most founders stop at twenty."
+    },
+    {
+      "id": "principles/pick-an-easy-fight@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/pick-an-easy-fight",
+      "routePath": "/principles/pick-an-easy-fight",
+      "section": "principles",
+      "title": "Pick an Easy Fight",
+      "description": "The fastest-growing companies did not outgrind everyone. They picked opponents they could beat: massive dusty industries run on fax machines, instead of software for software people."
+    },
+    {
+      "id": "principles/speed-is-determined-by-infrastructure@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/speed-is-determined-by-infrastructure",
+      "routePath": "/principles/speed-is-determined-by-infrastructure",
+      "section": "principles",
+      "title": "Speed Is Determined by Infrastructure",
+      "description": "Speed determines success and failure, and speed is determined by infrastructure: purchasing, hiring, budgeting, reviews. Deep tech companies rarely die of technology. They die of organization."
+    },
+    {
+      "id": "principles/train-the-algorithm-not-an-audience@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/train-the-algorithm-not-an-audience",
+      "routePath": "/principles/train-the-algorithm-not-an-audience",
+      "section": "principles",
+      "title": "Train the Algorithm, Not an Audience",
+      "description": "Social platforms now push content by interest graph, so followers barely matter. Hyper-specific content aimed at one customer profile turns the algorithm into a free distribution channel."
+    },
+    {
+      "id": "principles/you-cannot-delegate-your-judgment@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
+      "type": "new",
+      "date": "2026-08-08T00:25:23-05:00",
+      "docKey": "principles/you-cannot-delegate-your-judgment",
+      "routePath": "/principles/you-cannot-delegate-your-judgment",
+      "section": "principles",
+      "title": "You Cannot Delegate Your Judgment",
+      "description": "Years in, with everything on the line, there is nobody to ask. Averaging over advice drags you to the class average, and average is not good enough for outlier outcomes."
+    },
+    {
       "id": "concepts/the-machine-drivable-business@ac4714ede6d5e58c61719d046dea8dd5657a6965",
       "type": "updated",
       "date": "2026-07-28T09:33:04-05:00",
