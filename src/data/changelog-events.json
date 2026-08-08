@@ -1,6 +1,66 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/the-machine-drivable-business@ac4714ede6d5e58c61719d046dea8dd5657a6965",
+      "type": "updated",
+      "date": "2026-07-28T09:33:04-05:00",
+      "docKey": "concepts/the-machine-drivable-business",
+      "routePath": "/concepts/the-machine-drivable-business",
+      "section": "concepts",
+      "title": "The Machine-Drivable Business",
+      "description": "A business whose every working part is agent-addressable, so a machine can read its state and work its controls in plain language. Driving needs both. The unit is the whole business, not one process."
+    },
+    {
+      "id": "concepts/the-machine-drivable-business@8887a3a61523bb4c641cb976b4f6f618a03ab50a",
+      "type": "new",
+      "date": "2026-07-28T09:16:49-05:00",
+      "docKey": "concepts/the-machine-drivable-business",
+      "routePath": "/concepts/the-machine-drivable-business",
+      "section": "concepts",
+      "title": "The Machine-Drivable Business",
+      "description": "A business whose every working part is agent-addressable, so a machine can read its state and work its controls in plain language. Driving needs both. The unit is the whole business, not one process."
+    },
+    {
+      "id": "concepts/the-machine-legible-business@8887a3a61523bb4c641cb976b4f6f618a03ab50a",
+      "type": "updated",
+      "date": "2026-07-28T09:16:49-05:00",
+      "docKey": "concepts/the-machine-legible-business",
+      "routePath": "/concepts/the-machine-legible-business",
+      "section": "concepts",
+      "title": "The Machine-Legible Business",
+      "description": "Renamed 2026-07-28 to The Machine-Drivable Business, because legible names only half of what the definition requires."
+    },
+    {
+      "id": "mentors/frank-coyle@8887a3a61523bb4c641cb976b4f6f618a03ab50a",
+      "type": "updated",
+      "date": "2026-07-28T09:16:49-05:00",
+      "docKey": "mentors/frank-coyle",
+      "routePath": "/mentors/frank-coyle",
+      "section": "mentors",
+      "title": "Frank Coyle",
+      "description": "Computer-science educator at UC Berkeley with 35 years in the field and an early career in neuroscience. Worked in expert systems during the 1980s boom and watched them collapse. Source on reusing published vocabularies rather than modeling a domain from scratch."
+    },
+    {
+      "id": "principles/steal-the-nouns@8887a3a61523bb4c641cb976b4f6f618a03ab50a",
+      "type": "updated",
+      "date": "2026-07-28T09:16:49-05:00",
+      "docKey": "principles/steal-the-nouns",
+      "routePath": "/principles/steal-the-nouns",
+      "section": "principles",
+      "title": "Steal the Nouns",
+      "description": "Most of your domain model is generic and already published as a free standard. Adopt those types as-is, and spend every remaining hour of modeling effort on the part no standard will ever cover."
+    },
+    {
+      "id": "concepts/the-machine-legible-business@c56b8c0b19248bbe32603cc865c3fc46dc4165e0",
+      "type": "updated",
+      "date": "2026-07-27T18:01:25-05:00",
+      "docKey": "concepts/the-machine-legible-business",
+      "routePath": "/concepts/the-machine-legible-business",
+      "section": "concepts",
+      "title": "The Machine-Legible Business",
+      "description": "Renamed 2026-07-28 to The Machine-Drivable Business, because legible names only half of what the definition requires."
+    },
+    {
       "id": "mentors/frank-coyle@fff4be590e5de036f7fc04044b5ad2ad52b8ba5f",
       "type": "new",
       "date": "2026-07-25T21:38:43-05:00",
@@ -28,7 +88,7 @@
       "routePath": "/concepts/the-machine-legible-business",
       "section": "concepts",
       "title": "The Machine-Legible Business",
-      "description": "A business whose every working part is agent-addressable, so its state is queryable and its controls are actuable in plain language. The unit of legibility is the whole business, not one process."
+      "description": "Renamed 2026-07-28 to The Machine-Drivable Business, because legible names only half of what the definition requires."
     },
     {
       "id": "concepts/the-machine-legible-business@27b476b7cccb38bf85b51faec672cdb4d911ddc7",
@@ -38,7 +98,7 @@
       "routePath": "/concepts/the-machine-legible-business",
       "section": "concepts",
       "title": "The Machine-Legible Business",
-      "description": "A business whose every working part is agent-addressable, so its state is queryable and its controls are actuable in plain language. The unit of legibility is the whole business, not one process."
+      "description": "Renamed 2026-07-28 to The Machine-Drivable Business, because legible names only half of what the definition requires."
     },
     {
       "id": "concepts/the-machine-legible-business@59accb3320ec2eaf04d3ee4aa9d4bc428956e0f4",
@@ -48,7 +108,7 @@
       "routePath": "/concepts/the-machine-legible-business",
       "section": "concepts",
       "title": "The Machine-Legible Business",
-      "description": "A business whose every working part is agent-addressable, so its state is queryable and its controls are actuable in plain language. The unit of legibility is the whole business, not one process."
+      "description": "Renamed 2026-07-28 to The Machine-Drivable Business, because legible names only half of what the definition requires."
     },
     {
       "id": "concepts/clockworkers@1b5e16b7e9b6310c9aaa6c11848fcebcb299d5c5",

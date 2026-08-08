@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground (#EFE6D2), soft muted blue fill accents (#8FB0CE), warm dark ink line (#3B382F), soft amber glow only from the laptop.\n\nLAYOUT: a MULTIPANEL STRIP of exactly THREE equal panels in one horizontal row, separated by clean cream gutters with NO drawn borders and NO frame lines. One consistent world across all three panels: the same woman, the same desk, the same glowing translucent amber laptop, so the strip reads as a progression in time, left to right.\n\nTHE CAST: one middle-aged woman with short dark hair pinned up, wearing a plain rust-colored cardigan over a cream blouse. The glowing amber laptop is translucent and warm, and its screen is a lit world where small rounded agent figures work. The concept lives INSIDE the laptop screen; the woman's judgment and hands stay in the warm real world outside it.\n\nBEAT ONE (left panel): the woman sits at her desk leaning toward the laptop, concerned. Inside the glowing screen, a gleaming brass flywheel machine stands STILL, jammed behind a tangle of paper gears, cogwheels made of stacked forms and paperwork ribbons meshing badly, while three small rounded agents stand idle beside it, waiting. The jam is inside the screen; her hands are off the keyboard.\n\nBEAT TWO (middle panel): the consequence and the turn. The woman is now engineering: one hand sketching on a notepad beside the laptop, the other on the keyboard. Inside the screen the paper-gear tangle is being DISMANTLED and rebuilt: the same three agents wire the boring systems into one clean connected harness, a neat row of four simple round buttons joined by a single clean amber line that runs to the flywheel. One agent carries loose paper scraps away.\n\nBEAT THREE (right panel): the woman sits back, calm, mug in hand, watching. Inside the screen the brass flywheel now SPINS fast, trailing soft amber motion loops, and it has visibly lapped a second, smaller, dimmer grey machine far behind it on the same circular track inside the screen. The three agents ride the momentum, tending the buttons. The amber glow from the laptop lights her face.\n\nPHYSICS: the laptop screen faces the woman, so we see the screen's world at a three-quarter angle past her shoulder; the flywheel and agents exist only inside the screen's glow, never on the desk. The paper gears mesh like real gears with interlocking teeth. In beat three both machines sit on the same visible track, the grey one clearly far behind the brass one.\n\nTEXT: render each of these strings EXACTLY, in this placement, and NO other text anywhere.\n- Title bar, centered in the cream margin ABOVE the three panels, in caps: \"SPEED IS INFRASTRUCTURE\"\n- Caption under the LEFT panel, in the cream gutter, in caps: \"JAMMED BY PAPERWORK\"\n- Caption under the MIDDLE panel, in the cream gutter, in caps: \"REBUILD THE BORING SYSTEMS\"\n- Caption under the RIGHT panel, in the cream gutter, in caps: \"THE WEEKLY LOOP WINS\"\n- Footer bar, centered in the cream margin BELOW the captions, in caps: \"SPEED DECIDES WHO WINS. INFRASTRUCTURE DECIDES SPEED.\"\nAll text sits in the cream margins and gutters, never over the artwork.\n\nNEGATIVES: no comic-book style, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual. No HUD, no arc-reactor vocabulary, no glossy plastic.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-08T05:23:15.013975+00:00",
+  "sha256": "0bcf9dbece211043c884f2cd204d061f3047cc4ea4371a2f0871501c83e9c81c",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}

@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground (#EFE6D2 to #F5F1E9), muted slate-blue fill accents (#8FB0CE), soft dark-umber painterly line (#3B382F).\n\nLAYOUT: a horizontal strip of THREE equal-width panels in a row, separated by clean cream gutters with NO drawn borders and NO frame lines. ONE consistent world, ONE consistent founder, ONE consistent glowing translucent amber laptop across all three panels (the laptop matches the final reference image). The three panels read left to right as one progression.\n\nSubject: a startup founder learning an unfamiliar market, shown as clearing fog from a Battleship-style grid of squares that glows softly on her laptop screen. Physical relationships: the laptop sits on a wooden desk with its screen facing the founder, angled three-quarters so the viewer can also read the grid; the fog is a soft grey-cream wash lying OVER individual squares of the grid ON the screen; each cleared square lies flat and carries one small dark X mark (a miss); the founder is in the warm real world outside the screen and never inside it. The grid squares carry NO letters, NO numbers, NO coordinates.\n\nBEAT ONE (left panel): the founder sits before the laptop, uncertain, one hesitant fingertip reaching toward the screen. The grid is almost ENTIRELY covered in fog; only a couple of squares in one corner are cleared, each with a small dark X. Her shoulders are tentative, leaning back slightly.\n\nBEAT TWO (middle panel): the consequence of taking the shots. She is mid-call, wearing a phone headset, gesturing as she talks; pinned to the wall beside the desk is a sheet dense with small tally marks, and an open box of donuts sits on the desk edge. On the screen the fog has visibly receded: roughly half the grid is now clear, and most of the cleared squares carry small dark X misses. Same woman, same laptop, same desk.\n\nBEAT THREE (right panel): the grid is nearly ALL clear, only a thin wisp of fog left at one edge. Almost every cleared square carries a small dark X, except ONE single square that glows warm amber and carries no mark. Her hand hovers just above that glowing square, calm and certain, her posture leaning in with quiet confidence.\n\nThe founder is a woman in her late thirties with short dark curly hair and warm brown skin, wearing a rust-colored crewneck sweater, the SAME woman in all three panels, drawn EXACTLY ONCE per panel.\nABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing.\n\nRender each of these strings EXACTLY, in this placement, painted in the soft dark-umber line color:\n- Title bar in the cream margin ABOVE the three panels, centered, in caps: \"PATHOLOGICALLY CLOSE\"\n- Caption in the cream gutter UNDER the left panel: \"THE BOARD STARTS FOGGED\"\n- Caption in the cream gutter UNDER the middle panel: \"EVERY CALL CLEARS A SQUARE\"\n- Caption in the cream gutter UNDER the right panel: \"THE FOG BURNS OFF\"\n- Footer bar in the cream margin BELOW the captions, centered, in caps: \"MOST SHOTS MISS. EVERY MISS CLEARS THE MAP.\"\nNo other text anywhere. Text sits only in the cream margins and gutters, never over the artwork.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-08T05:21:56.785161+00:00",
+  "sha256": "96bf95dfcfa441f45ffeba4304059c0e8eb0251bae842e401429e68f3f9a3b76",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}

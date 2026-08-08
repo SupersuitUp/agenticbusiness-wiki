@@ -40,6 +40,13 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Go and See, Two Eyes Two Ears](/principles/go-and-see)**: the leader's most powerful analytical instrument is direct observation of the work. Mystery-shop the funnel, sit at the bottleneck, watch real customers struggle with the real product. Distilled from Jon McNeill.
 - **[Three Sentence Discipline](/principles/three-sentence-discipline)**: every escalation collapses to three sentences. What is the problem, what is the root cause, what is the proposed solution. Distilled from Jon McNeill.
 - **[Steal the Nouns](/principles/steal-the-nouns)**: most of your domain model is generic and already published as a free standard. Adopt those types as-is, and spend every remaining hour on the part no standard will ever cover. Distilled from Frank Coyle.
+- **[Pick an Easy Fight](/principles/pick-an-easy-fight)**: the fastest-growing companies rebuild massive dusty industries with AI instead of building software for software people. Pick an opponent you can beat. Distilled from Finn Mallery.
+- **[Get Pathologically Close to the Customer](/principles/pathologically-close-to-the-customer)**: the market is a fogged Battleship board. Hundreds of conversations manufacture ten years of intuition in months. Distilled from Finn Mallery.
+- **[Train the Algorithm, Not an Audience](/principles/train-the-algorithm-not-an-audience)**: platforms push by interest graph now. Hyper-specific content aimed at one customer profile turns the algorithm into a free targeted channel. Distilled from Finn Mallery.
+- **[It's Not Cold If They Liked Your Post](/principles/not-cold-if-they-liked-your-post)**: content converts 5 percent on its own. Hyper-targeted warm outbound harvests the 95 percent below the waterline. Distilled from Finn Mallery.
+- **[Speed Is Determined by Infrastructure](/principles/speed-is-determined-by-infrastructure)**: purchasing, hiring, budgeting, and review are the company's operating system, and they set the iteration rate that decides everything. Distilled from Max Hodak.
+- **[Action Produces Information](/principles/action-produces-information)**: it is very difficult to actually get stuck. The action space is always larger than it appears. When stalled, inject action. Distilled from Max Hodak.
+- **[You Cannot Delegate Your Judgment](/principles/you-cannot-delegate-your-judgment)**: years in, the decisive call arrives and there is nobody to ask. Differentiated judgment is the only path to outlier outcomes. Distilled from Max Hodak.
 
 ## How to read these
 

@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground (#EFE6D2 to #F5F1E9), muted slate-blue fill (#8FB0CE) for water and cool passages, soft dark-olive line (#3B382F). The glowing translucent amber laptop from the final reference image appears in every panel, identical each time.\n\nSubject: A THREE-PANEL horizontal strip: three equal panels in one row, separated by clean cream gutters with NO drawn borders and NO frame lines. ONE consistent world, ONE consistent human, ONE consistent glowing amber laptop across all three panels, reading left to right as a progression.\n\nThe human in all three panels is the same person: a middle-aged woman, Black, with short natural gray-flecked hair, wearing a plain rust-orange cardigan over a cream blouse. She sits at a warm wooden desk in the real world, outside the laptop. Everything conceptual happens INSIDE the glowing laptop screen.\n\nPhysical relationships that must read correctly: inside the laptop screen is an iceberg in slate-blue water; the waterline is a clear horizontal line; the small bright tip of the iceberg is ABOVE the waterline and the vast mass is BELOW it; the mass below the waterline is far larger than the tip. The same iceberg, same waterline, in all three panels. The woman is always OUTSIDE the laptop, facing its screen; the screen faces her.\n\nBEAT ONE: The woman sits at her desk looking at the glowing laptop. Inside the screen, the iceberg: a small bright amber-lit tip above the waterline where two or three tiny figures stand waving happily, and below the waterline a vast dim mass where MANY tiny figures float and watch, each faintly warm-lit, waiting, doing nothing.\n\nBEAT TWO: Same desk, same laptop, same iceberg. The woman leans in and reaches one hand toward the screen; from her hand, small warm amber envelopes and speech-bubble notes travel INTO the screen and drift DOWN below the waterline, each one arriving at an individual tiny figure in the submerged mass; the figures receiving them look up and half-raise a hand.\n\nBEAT THREE: Same desk, same laptop. Inside the screen, tiny figures from below the waterline are rising up through the surface into the bright air above the tip, and clean warm amber lines connect each risen figure out of the screen to an open datebook on the woman's desk; she smiles, one hand resting on the datebook, calls booked.\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D, no CGI, no Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nRender each of these strings EXACTLY, in this placement, and NO other text anywhere:\n- Title bar, in the cream margin ABOVE the three panels, in caps: THE 95-5 ICEBERG\n- Caption in the cream margin UNDER the left panel, in caps: THE TIP BOOKS ITSELF\n- Caption in the cream margin UNDER the middle panel, in caps: MESSAGE THE WARM WATCHERS\n- Caption in the cream margin UNDER the right panel, in caps: THE ICEBERG SURFACES\n- Footer bar, in the cream margin BELOW the panels, in caps: CONTENT WARMS THE MANY. WARM OUTBOUND HARVESTS THEM.\nAll text sits in the cream margins, never over the artwork. No other letters or numbers anywhere, including inside the laptop screen.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-08T05:22:24.928594+00:00",
+  "sha256": "f814034db15a2adad63c7255019a805ce9a3b04f17881b0ebd7a192adc1fa332",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}

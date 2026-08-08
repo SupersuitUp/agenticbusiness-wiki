@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground (#EFE6D2), muted blue fill accents (#8FB0CE), soft dark umber line (#3B382F). The final reference image is the glowing translucent amber laptop; reproduce that exact laptop in every panel.\n\nLAYOUT: a horizontal strip of THREE equal panels in a row, separated by clean cream gutters with no drawn borders and no frame lines. One consistent world across all three panels: the same founder, the same wooden desk, the same glowing translucent amber laptop, seen from the same general angle. Everything digital lives INSIDE the laptop's glowing screen; the founder and the room stay in the warm real world outside it.\n\nThe founder is a Black woman in her forties with short natural hair, wearing a plain rust-colored cardigan over a cream blouse.\n\nBEAT ONE (left panel): the viral trap. Inside the laptop's glowing screen, a vast blurry crowd of tiny faceless grey figures roars with applause, filling the whole screen. Outside the laptop, on the desk beside the founder, sits a small open cash box that is completely empty. The founder looks at the roaring screen, unmoved. The crowd exists only inside the screen, never in the room.\n\nBEAT TWO (middle panel): the narrow signal. The founder feeds ONE small glowing amber card (a single hyper-specific post) into the laptop. Inside the screen, a simple funnel-shaped sorting channel catches that one card and routes it along a clean amber line PAST the huge grey crowd (now pushed to the screen's edges, dimmer) toward a small cluster of exactly FOUR figures painted in warm amber, who lean in toward the arriving card. The amber line starts at the card and ends at those four figures, touching no one in the grey crowd.\n\nBEAT THREE (right panel): the trained channel. A thin warm amber path flows OUT of the laptop screen, across the desk, into the room, and along it THREE of those amber-toned customers arrive in the real world at the founder's desk, each holding a rolled paper contract. The founder shakes hands with the first. On the laptop screen behind them, the giant grey crowd has faded to a pale ghost. The cash box on the desk now holds a few warm gold coins.\n\nPHYSICAL RELATIONSHIPS: the laptop sits on the desk with its screen angled toward the founder; we see the screen three-quarters on. The crowd, the funnel, and the fading crowd are images ON the glowing screen, flat within it, never standing in the room. The amber path in beat three flows from the screen outward into the room. Exactly ONE founder in every panel, never duplicated.\n\nRender each of these strings EXACTLY, in this placement, dark umber lettering sitting in the cream margin, never over the artwork:\n- Title bar, centered in the cream margin ABOVE the three panels, in caps: \"TRAIN THE ALGORITHM\"\n- Caption under the LEFT panel, in caps: \"THE ROAR BUYS NOTHING\"\n- Caption under the MIDDLE panel, in caps: \"ONE POST TEACHES THE FEED\"\n- Caption under the RIGHT panel, in caps: \"THE RIGHT FEW ARRIVE\"\n- Footer bar, centered in the cream margin BELOW the panels, in caps: \"TRAIN THE FEED, AND IT DELIVERS YOUR BUYER\"\nNo other text anywhere: no letters or numbers inside the panels, no words on the laptop screen, no logos, no signage.\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing.\nABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-08T05:22:05.958582+00:00",
+  "sha256": "c75edd1149f4f8df326f8b5895fdc437dce31487c7de893be26afba0567f7d5c",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}

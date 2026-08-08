@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground (#EFE6D2), muted blue fills (#8FB0CE), soft dark umber line (#3B382F). The glowing translucent amber laptop from the reference images appears in every panel, identical each time.\n\nLAYOUT: a horizontal strip of THREE equal panels in a single row, separated by clean cream gutters with no drawn borders and no frame lines. One consistent world, one consistent team of people, one consistent glowing amber laptop across all three panels, reading left to right as a progression.\n\nPHYSICAL RELATIONSHIPS that must hold in every panel: a large window sits on the back wall behind the team's table; a small ball is OUTSIDE the window, up in the sky, its flight path drawn as a thin dotted arc; the glowing translucent amber laptop sits open on the table with its screen facing the viewer, and the tiny rounded agent figures exist ONLY INSIDE the laptop screen, never on the table or in the room.\n\nBEAT ONE (left panel): the stall. Four ordinary varied adults sit frozen around a table covered with wordless charts and forecasts, a whiteboard of wordless plans behind them; the glowing amber laptop sits open and idle on the table, the tiny rounded agents inside its screen waiting with nothing to do; through the window the ball glides along one single fixed dotted arc, predictable, teaching nothing.\n\nBEAT TWO (middle panel): the injection of action. One founder stands up and pushes a small rough brown-paper parcel, the ugly first version, INTO the glowing laptop screen; the agents inside the screen catch it and spring into motion; outside the window, at the same moment, the ball's dotted arc is struck and BENDS at a visible elbow toward a new direction. The seated teammates look up, startled.\n\nBEAT THREE (right panel): information pours back. Warm amber lines stream OUT of the laptop screen and across the table, resolving into fresh wordless cards and route-lines the old charts never contained; outside the window the bent arc has opened into several faint branching dotted paths; the team is up out of their chairs, in motion, following one of the new routes.\n\nTEXT: render each of these strings EXACTLY, character for character, in this placement, and no other text anywhere:\n- Title bar in the cream margin ABOVE the panels, in caps: ACTION PRODUCES INFORMATION\n- Caption in the cream gutter under the LEFT panel: STALLED, LEARNING NOTHING\n- Caption in the cream gutter under the MIDDLE panel: INJECT ACTION\n- Caption in the cream gutter under the RIGHT panel: INFORMATION POURS BACK\n- Footer bar in the cream margin BELOW the panels, in caps: WHEN STUCK, ACT; DOING TEACHES WHAT THINKING CANNOT\nAll text sits in the cream margins and gutters, never over the artwork. The charts, forecasts and whiteboard contents are wordless scribbles and shapes, never legible letters or numbers.\n\nThe people are ordinary, varied adults of different ages, hair and ethnicities. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-08T05:22:58.448797+00:00",
+  "sha256": "069574612c1105e901509ff2e3a81ee6dd4d4f768cb698b742e7afd702aef93c",
+  "stylePack": "universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}
