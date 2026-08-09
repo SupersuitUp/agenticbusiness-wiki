@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "A THREE-PANEL HORIZONTAL STRIP, three equal panels in a row separated by clean cream gutters with no drawn borders or frame lines. ONE consistent world, ONE consistent person and ONE consistent glowing amber laptop across all three panels, reading left to right as a progression.\n\nTHE PERSON, the same in every panel: a woman in her late forties, short grey-streaked dark hair, a plain dark crewneck sweater, sleeves pushed up. ABSOLUTELY NOT a denim jacket, not a jean jacket, no chest patch, no smiley-face badge, no enamel pin, no embroidered emblem, no white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nBEAT ONE, calm afternoon: she sits at a warm wooden desk in daylight, turned away from the screen and writing in a notebook, not watching it. INSIDE the glowing amber laptop, a neat vertical stack of identical amber cards is quietly assembling itself, each new card sliding onto the top of the stack on its own. Nobody is touching it. She has not noticed and does not need to.\n\nBEAT TWO, the same desk at night, the room dark and the laptop the only light: the topmost card inside the screen has gone dull and cracked, and a small sub-agent inside is standing back from it. She reaches ONE hand toward the screen and lifts the card directly beneath it back into place with a single unhurried motion. The dull cracked card slides aside. The screen is calm again. Her posture is tired but entirely unpanicked, one movement and done.\n\nBEAT THREE, a close view of ONE amber card lying open like a folder, filling the panel: inside it are small neatly labelled slips resting together, showing that the card holds more than one kind of thing. Her hand rests at the edge of the open card, not lifting it. Quiet, almost reverent, the way you look at something that just saved you.\n\nTEXT FURNITURE, in the cream margins only and never over the artwork, rendered character-exact:\nTitle bar above the panels, in caps: SHIP NOTHING YOU CANNOT ROLL BACK\nCaption in the cream gutter under panel one: SAVED WITHOUT ASKING\nCaption in the cream gutter under panel two: ONE MOVE, AT MIDNIGHT\nCaption in the cream gutter under panel three: A VERSION IS MORE THAN CODE\nFooter bar below the panels, in caps: MADE ON A CALM DAY. USED ON A BAD ONE.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-09T15:15:27.707821+00:00",
+  "sha256": "8c747c128fc71c715bf1a58c13e32fb27126386b3222d079c0ef3ed5d33668b3",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}
