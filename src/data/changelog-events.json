@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "principles/hire-the-independent-implementer@4072bfb2890ad557e55c22b258a4c7b25c389e26",
+      "type": "updated",
+      "date": "2026-08-09T06:12:25-05:00",
+      "docKey": "principles/hire-the-independent-implementer",
+      "routePath": "/principles/hire-the-independent-implementer",
+      "section": "principles",
+      "title": "Hire the Independent Implementer",
+      "description": "If the people building your AI stack make more money when you commit to one foundation-model vendor, they cannot be trusted with the architecture call. Hire the implementer whose paycheck is the same no matter which model you pick."
+    },
+    {
       "id": "mentors/finn-mallery@ef7b1933b69de6a4bf508317e7dda238d4dbf7ce",
       "type": "new",
       "date": "2026-08-08T00:25:23-05:00",
