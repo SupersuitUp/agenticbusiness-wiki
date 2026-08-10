@@ -1,6 +1,26 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/the-machine-drivable-business@7d06d8c5b92b662c9fb698a0a3d3d18c18d87556",
+      "type": "updated",
+      "date": "2026-08-09T20:19:49-05:00",
+      "docKey": "concepts/the-machine-drivable-business",
+      "routePath": "/concepts/the-machine-drivable-business",
+      "section": "concepts",
+      "title": "The Machine-Drivable Business",
+      "description": "A business whose every working part is agent-addressable, so a machine can read its state and work its controls in plain language. Driving needs both. The unit is the whole business, not one process."
+    },
+    {
+      "id": "principles/ship-nothing-you-cannot-roll-back@085f555a50588eb300a272ac5bfd6130965f2157",
+      "type": "new",
+      "date": "2026-08-09T10:19:14-05:00",
+      "docKey": "principles/ship-nothing-you-cannot-roll-back",
+      "routePath": "/principles/ship-nothing-you-cannot-roll-back",
+      "section": "principles",
+      "title": "Ship Nothing You Cannot Roll Back",
+      "description": "The moment software has a second user, a bad change stops being your inconvenience and becomes someone else's outage. Automatic versioning is what makes going back one action instead of an excavation."
+    },
+    {
       "id": "principles/hire-the-independent-implementer@4072bfb2890ad557e55c22b258a4c7b25c389e26",
       "type": "updated",
       "date": "2026-08-09T06:12:25-05:00",
