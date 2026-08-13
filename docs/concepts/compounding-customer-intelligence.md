@@ -55,6 +55,7 @@ The cost story matters for adoption: the collection layer is nearly free to run.
 
 ## Further Reading
 
+- [Continually Improving Products](/concepts/continually-improving-products): what a product becomes when the lake feeds a shipping cadence.
 - [Compounding Customer Agency](/concepts/compounding-customer-agency): the customer-side half of the pair; the visible-consequence loop that keeps people feeding the lake.
 - [Get Pathologically Close to the Customer](/principles/pathologically-close-to-the-customer): the conversation-volume discipline this concept makes permanent and cumulative.
 - [The Machine-Legible Business](/concepts/the-machine-legible-business): the legibility substrate; customer truth is one more thing the machine must be able to read.

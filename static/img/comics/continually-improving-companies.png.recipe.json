@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground, muted blue fill accents, soft dark ink line.\n\nLayout: a THREE-PANEL horizontal strip. Three panels of equal size in one horizontal row, separated by clean cream gutters with NO drawn borders and NO frame lines. A title bar sits in the cream margin above the panels; one short caption sits in the cream gutter under each panel; a footer bar sits in the cream margin below the panels. Text sits only in the cream margins, never over the artwork.\n\nPeople are ordinary and varied; no recurring branded character and no identifiable real individual. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem.\n\nThe glowing translucent amber laptop from the reference image appears in panels two and three only, the SAME laptop both times.\n\nBEAT ONE (left panel): a grand cold corporate lobby in grey-blue tones; behind thick glass a receptionist points one lone customer toward a tiny mail slot in a marble wall; a cutaway at the wall's base reveals the slot's chute dumping paper slips into a sealed bin in a dark basement beside older dusty bins. Cold desaturated palette for this panel only.\n\nBEAT TWO (middle panel): the same lobby transformed, warm and open, the glass gone: varied customers of all ages and skin tones sit easily with staff at one long common table, talking; their words rise as warm amber ribbons into the glowing amber laptop at the table's center, where a small rounded commander figure in a gold military cap routes each ribbon out toward three small lit workshop doors along the back wall, one door bearing a simple wrench icon, one a delivery-truck icon, one a storefront icon, each door glowing as its ribbon arrives. The icons are pictures, not words.\n\nBEAT THREE (right panel): customers and staff stand shoulder to shoulder before a tall warm wall painted with a road that runs from the lower corner into the distance; the road's finished stretches behind them carry small lit milestone lamps, and its NEXT stretch is being painted in live by BOTH a customer's hand and a staff member's hand holding brushes side by side, while the amber laptop glows on a stool at the panel's edge. The wall carries no words, only the painted road and milestones.\n\nPhysical relationships: the beat-one slot chute visibly goes DOWN into a sealed bin (heard by no one); the beat-two ribbons flow FROM people INTO the laptop and OUT to the doors, never the reverse; in beat three the two painting hands work the same unfinished stretch together, customer and staff, and the road extends beyond the wall's edge unfinished on purpose.\n\nRender each of these strings EXACTLY, in this placement, and no other text anywhere:\nTitle bar above the panels, in caps: \"CONTINUALLY IMPROVING COMPANIES\"\nCaption under the left panel, in caps: \"THE COMPANY THAT CANNOT HEAR\"\nCaption under the middle panel, in caps: \"LISTENING BECOMES THE BRAND\"\nCaption under the right panel, in caps: \"CO-CREATING THE FUTURE\"\nFooter bar below the panels, in caps: \"THE CUSTOMERS ARE CO-AUTHORS OF WHAT THE COMPANY BECOMES.\"\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-13T21:31:24.961670+00:00",
+  "sha256": "4e61d013c77cfbd51daad63f77f7ad01927556a8f58bf97e3543c20529122fe0",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}
