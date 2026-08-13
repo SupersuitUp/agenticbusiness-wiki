@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground, muted blue fill accents, soft dark ink line.\n\nLayout: a THREE-PANEL horizontal strip. Three panels of equal size in one horizontal row, separated by clean cream gutters with NO drawn borders and NO frame lines. A title bar sits in the cream margin above the panels; one short caption sits in the cream gutter under each panel; a footer bar sits in the cream margin below the panels. Text sits only in the cream margins, never over the artwork.\n\nPeople are ordinary and varied; no recurring branded character and no identifiable real individual. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem.\n\nThe glowing translucent amber laptop from the reference image appears in panels two and three only, the SAME laptop both times, on a radio-studio desk.\n\nBEAT ONE (left panel): a marketing man in a tan blazer tosses banknotes into a bonfire whose smoke curls into the shape of a large megaphone, while behind him a vast crowd of small faceless silhouettes walks past in soft grey, none of them facing him. Beside him a puzzled analyst woman in a navy sweater holds a completely BLANK clipboard, shrugging. The money burns; nothing comes back.\n\nBEAT TWO (middle panel): a warm community radio studio. A woman host with box braids and headphones leans into a microphone mid-question, smiling. A small wall sign behind her reads exactly \"COMMUNITY RADIO\". Around the edge of the panel, four varied listeners (different ages, skin tones, clothing) hold up phones, each phone emitting a warm amber ribbon of light; the ribbons stream across the panel INTO the glowing translucent amber laptop open on the studio desk. Inside the laptop screen a small rounded commander figure in a gold military cap catches each ribbon and files it into a glowing archive of small drawers that is visibly growing.\n\nBEAT THREE (right panel): the same studio, daytime. A station manager, an older man in a cardigan, leans toward the same glowing amber laptop and speaks to it, hand raised mid-question. The laptop screen answers with a soft luminous map of city neighborhoods dotted with small warm portraits of now-known listeners. At the studio door a visiting sponsor woman in a blazer looks over his shoulder, eyebrows raised, impressed. A small lit sign above the door reads exactly \"ON AIR\".\n\nPhysical relationships: the ribbons in beat two flow FROM the listeners' phones INTO the laptop screen, never the reverse; the archive of drawers inside the screen in beat two is the same archive the map is drawn from in beat three; the crowd in beat one is anonymous and grey precisely because nothing connects them to anyone, in contrast to the known faces on the beat-three map.\n\nRender each of these strings EXACTLY, in this placement, and no other text anywhere (the only in-scene text is the \"COMMUNITY RADIO\" wall sign in the middle panel and the \"ON AIR\" sign in the right panel):\nTitle bar above the panels, in caps: \"COMPOUNDING CUSTOMER INTELLIGENCE\"\nCaption under the left panel, in caps: \"MONEY BURNED, NOTHING LEARNED\"\nCaption under the middle panel, in caps: \"EVERY INTERACTION FEEDS THE LAKE\"\nCaption under the right panel, in caps: \"ASK IT ANYTHING\"\nFooter bar below the panels, in caps: \"STOP PAYING THE BRAND GODS. START COMPOUNDING WHAT YOUR PEOPLE TELL YOU.\"\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-13T19:35:14.567145+00:00",
+  "sha256": "403ab46d62420730806a5f66ba433a472f9224e2ead1466ca781f45a92ee8084",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}
