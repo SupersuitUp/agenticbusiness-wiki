@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/compounding-customer-intelligence@1fad31cf67d81e6860e9a4f70350ef2b4fd153f5",
+      "type": "new",
+      "date": "2026-08-13T14:36:29-05:00",
+      "docKey": "concepts/compounding-customer-intelligence",
+      "routePath": "/concepts/compounding-customer-intelligence",
+      "section": "concepts",
+      "title": "Compounding Customer Intelligence",
+      "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
+    },
+    {
       "id": "concepts/the-machine-drivable-business@d07751f4373c980cd51f8f488be1d4a47e60f75a",
       "type": "updated",
       "date": "2026-08-09T20:19:49-05:00",
