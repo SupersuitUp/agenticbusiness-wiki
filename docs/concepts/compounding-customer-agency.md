@@ -55,4 +55,5 @@ The pairing is the strategy: intelligence on the org side, agency on the custome
 - [Train the Algorithm, Not an Audience](/principles/train-the-algorithm-not-an-audience): the platform asymmetry that agency inverts, on the distribution side.
 - [Get Pathologically Close to the Customer](/principles/pathologically-close-to-the-customer): the founder-side discipline that agency turns into a standing structure.
 - [Customers Sniff the Slop](/principles/customers-sniff-the-slop): why the visible consequences have to be real ones.
+- [Continually Improving Companies](/concepts/continually-improving-companies): the company-level posture where co-creation becomes the brand itself.
 - [Good in Every Sense](/principles/good-in-every-sense): the standard that makes granting agency a strategy rather than a stunt.

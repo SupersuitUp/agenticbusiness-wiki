@@ -1,6 +1,36 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/compounding-customer-intelligence@0ffd33e161fde1cde3d2032741d5e7615aa0d2a5",
+      "type": "updated",
+      "date": "2026-08-13T15:52:31-05:00",
+      "docKey": "concepts/compounding-customer-intelligence",
+      "routePath": "/concepts/compounding-customer-intelligence",
+      "section": "concepts",
+      "title": "Compounding Customer Intelligence",
+      "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
+    },
+    {
+      "id": "concepts/compounding-customer-agency@3c1b143d7b495204898b4551b71cc1d320e86ff9",
+      "type": "new",
+      "date": "2026-08-13T15:23:43-05:00",
+      "docKey": "concepts/compounding-customer-agency",
+      "routePath": "/concepts/compounding-customer-agency",
+      "section": "concepts",
+      "title": "Compounding Customer Agency",
+      "description": "The customer-side complement of compounding customer intelligence: real, growing influence over the organization's future for the people who care about it. Intelligence on the org side, agency on the customer side."
+    },
+    {
+      "id": "concepts/compounding-customer-intelligence@3c1b143d7b495204898b4551b71cc1d320e86ff9",
+      "type": "updated",
+      "date": "2026-08-13T15:23:43-05:00",
+      "docKey": "concepts/compounding-customer-intelligence",
+      "routePath": "/concepts/compounding-customer-intelligence",
+      "section": "concepts",
+      "title": "Compounding Customer Intelligence",
+      "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
+    },
+    {
       "id": "concepts/compounding-customer-intelligence@1fad31cf67d81e6860e9a4f70350ef2b4fd153f5",
       "type": "new",
       "date": "2026-08-13T14:36:29-05:00",
