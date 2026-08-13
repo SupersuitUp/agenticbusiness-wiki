@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "Create a NEW illustration in EXACTLY the visual style of the reference images.\nSTRICT STYLE: warm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults. Warm cream ground, muted blue fill accents, soft dark ink line.\n\nLayout: a THREE-PANEL horizontal strip. Three panels of equal size in one horizontal row, separated by clean cream gutters with NO drawn borders and NO frame lines. A title bar sits in the cream margin above the panels; one short caption sits in the cream gutter under each panel; a footer bar sits in the cream margin below the panels. Text sits only in the cream margins, never over the artwork.\n\nPeople are ordinary and varied; no recurring branded character and no identifiable real individual. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem.\n\nThe SAME LISTENER appears in panels two and three and must be recognizably the same person in both: a man in his thirties with short natural coily hair, glasses, and a burnt-orange henley shirt. The SAME HOST appears in panels two and three: a woman with box braids and headphones in a sage-green top. The glowing translucent amber laptop from the reference image appears in panels two and three only, the SAME laptop both times, on the radio-studio desk.\n\nBEAT ONE (left panel): a devoted customer, a middle-aged woman in a plum coat, speaks earnestly into the slot of a rusted metal mailbox labeled exactly \"FEEDBACK\", bolted to a towering blank grey corporate wall that fills the panel. Her spoken words fall from the slot as small grey paper scraps onto a drift of older, yellowed, unread scraps piled at the wall's base. Her shoulders are starting to drop. Cold, desaturated palette for this panel only.\n\nBEAT TWO (middle panel): a warm community radio studio. The listener (the man in the burnt-orange henley, seen here at home in an armchair at the panel's left edge) speaks into his phone; his words travel as a single warm amber ribbon across the panel INTO the glowing amber laptop on the studio desk, where a small rounded commander figure in a gold military cap catches the ribbon and hands it UP out of the screen to the host at the microphone, who is reading it aloud on air, delighted. Behind the host, a corkboard program schedule of small blank cards shows ONE card actively being swapped, pinned fresh, visibly changed by what he said. The cards are BLANK with no readable words.\n\nBEAT THREE (right panel): the same studio, daytime. The same listener now SITS AT THE STUDIO TABLE with the same host, sleeves rolled up, the two of them together arranging the next season's blank planning cards across the table. On the wall behind them his amber ribbon from beat two hangs framed like a small honor. At the panel's edge the amber laptop glows on, with two new ribbons from other listeners streaming into it. The planning cards are BLANK with no readable words.\n\nPhysical relationships: the ribbon in beat two flows FROM the listener's phone INTO the laptop and then UP to the host, one continuous ribbon; the framed ribbon in beat three is the same ribbon from beat two; the corkboard card that changes in beat two belongs to the same board whose next season is being planned on the table in beat three.\n\nRender each of these strings EXACTLY, in this placement, and no other text anywhere (the only in-scene text is the word \"FEEDBACK\" on the mailbox in the left panel):\nTitle bar above the panels, in caps: \"COMPOUNDING CUSTOMER AGENCY\"\nCaption under the left panel, in caps: \"FEEDBACK INTO THE VOID\"\nCaption under the middle panel, in caps: \"YOUR VOICE VISIBLY STEERS\"\nCaption under the right panel, in caps: \"STANDING COMPOUNDS\"\nFooter bar below the panels, in caps: \"INTELLIGENCE ON THE ORG SIDE. AGENCY ON THE CUSTOMER SIDE.\"\n\nno comic-book, no cartoon mascot, no flat vector, no neon, no 3D/CGI/Pixar, no photoreal, no anime, no identifiable recurring individual's face or signature clothing.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-13T20:23:00.656121+00:00",
+  "sha256": "a537791403bac8c3604dfcdbfbee54bc81c98f97b724f5c735379b34edd0d1c0",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}
