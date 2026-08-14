@@ -59,5 +59,7 @@ That convergence is the opportunity. You do not have to choose between building 
 - [Compounding Customer Agency](/concepts/compounding-customer-agency): the other direction of the loop; the people's power to steer, accumulated visibly.
 - [Continually Improving Companies](/concepts/continually-improving-companies): the end state, where being represented is the ordinary texture of the relationship.
 - [Get Pathologically Close to the Customer](/principles/pathologically-close-to-the-customer): the founder-scale version of the same discipline, before the lake makes it permanent.
+- [Earned Representation](https://agenticcommunity.wiki/concepts/earned-representation): the community-of-humans face of this argument, where compounding what members say earns the standing to speak for them.
+- [Compounding Constituent Intelligence](https://politicalstrategy.wiki/tactics/compounding-constituent-intelligence): the voter-side tactic, where an office that compounds constituent context out-represents one that polls quarterly.
 
 > **Before you claim to speak for people, be able to answer for what you know about them. If your knowledge of your people does not compound, your representation is a slogan.**

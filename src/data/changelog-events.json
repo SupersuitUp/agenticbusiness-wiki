@@ -1,7 +1,7 @@
 {
   "changeEvents": [
     {
-      "id": "concepts/compounding-customer-intelligence@e0c0d9e3feffd954cb1f96d3eee756ef20e0e596",
+      "id": "concepts/compounding-customer-intelligence@65da7401bdab0dc2429996d38257d54b8621515d",
       "type": "updated",
       "date": "2026-08-14T13:09:52-05:00",
       "docKey": "concepts/compounding-customer-intelligence",
@@ -11,7 +11,7 @@
       "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
     },
     {
-      "id": "perspectives/representation-is-a-context-problem@e0c0d9e3feffd954cb1f96d3eee756ef20e0e596",
+      "id": "perspectives/representation-is-a-context-problem@65da7401bdab0dc2429996d38257d54b8621515d",
       "type": "new",
       "date": "2026-08-14T13:09:52-05:00",
       "docKey": "perspectives/representation-is-a-context-problem",
