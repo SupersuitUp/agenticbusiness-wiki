@@ -1,0 +1,31 @@
+{
+  "provider": "gpt-image-2",
+  "model": "gpt-image-2",
+  "prompt": "A THREE-PANEL horizontal strip: three equal-width panels in one row, separated by clean cream gutters with NO drawn borders and NO frame lines. One consistent world, one consistent cast, one consistent laptop across all three panels, reading left to right as a progression.\n\nTHE FIGURE, the same person in all three panels and recognizably the same woman in each: a Black woman in her mid-thirties, short natural hair, a rust-red crewneck sweater and dark trousers. Same face, same hair, same clothing in every panel.\n\nBEAT ONE, left panel: she sits on the near side of a tall glass partition, holding a clipboard and writing. On the FAR side of the glass, beyond her reach, a guest hunches over a small check-in screen on a stand, stuck. On HER side of the glass, on the desk beside her, a laptop sits CLOSED and dark, its lid shut. The glass is a flat pane fully between her and the guest, so nothing she learns can cross it.\n\nBEAT TWO, middle panel: no glass at all. She has pulled her chair right up beside the same guest at the check-in table in a doorway, shoulder to shoulder, both looking at the same small screen where the guest is stuck; the guest's hand is stopped mid-air. Her laptop is now OPEN on the table beside them and glowing translucent amber, and INSIDE its screen a small rounded commander in a gold military cap sends two small agents to redraw that same check-in screen. The amber glow from the open lid falls onto the table and onto her hands.\n\nBEAT THREE, right panel: the guest walks on through the doorway holding the fixed check-in screen, unblocked. She stays at the table with the open glowing laptop, and on a low shelf behind her stands a neat ascending row of small paper version-cards, each one slightly finer than the one before it.\n\nPhysical relationships that must read correctly: in beat one the glass pane stands fully between the two people and her laptop lid is shut so no light comes from it; in beats two and three the laptop lid is open and facing her, so its amber glow lights her side of the table and we see the screen contents over her shoulder; the guest in beat one and the guest in beat two are the same guest.\n\nRender each of these strings EXACTLY, in this placement, and no other text anywhere in the image:\n- In the cream margin ABOVE the panels, a title bar in caps: ITERATE AT THE SPEED OF REVELATION\n- In the cream gutter directly UNDER the left panel, in caps: THE TRUTH STOPS AT THE GLASS\n- In the cream gutter directly UNDER the middle panel, in caps: SIT WHERE IT BREAKS\n- In the cream gutter directly UNDER the right panel, in caps: FIXED BEFORE THEY LEAVE\n- In the cream margin BELOW the panels, a footer bar in caps: SHIP THE FIX IN THE MOMENT THAT REVEALED IT\n\nAll other writable surfaces in the scene are BLANK: the clipboard page is blank, the check-in screens carry only simple shapes and no lettering, the version-cards on the shelf are blank, and there are no signs, no door signage, no banners, no labels and no numbers anywhere.\n\nABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    }
+  ],
+  "timestamp": "2026-08-14T16:07:42.308952+00:00",
+  "sha256": "f3eb4b970e6968d79829c04962d52856b409cb6aea8c92cbe2673b749a8e9c64",
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high"
+}
