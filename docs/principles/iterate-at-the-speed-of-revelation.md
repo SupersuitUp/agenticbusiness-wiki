@@ -61,6 +61,28 @@ Overengineering used to mean gold-plating: too many features, too much abstracti
 
 The discipline is to keep the built thing tethered to the last revelation, and to go get another one before extending further. Ship the smallest change that answers what you just saw, put it in front of the person who showed you, and let their next reaction pay for the next unit of work.
 
+## Supporting voices
+
+[Christopher Pedregal](/mentors/christopher-pedregal), who runs Granola, arrived at the same practice from inside a venture-backed company and stated the threshold precisely. One person's confusion is enough to act on:
+
+> "You don't need to hear the same thing from 10 people. If I put a prototype in front of you and you say this button's super confusing, and I look at it and I'm like, oh I totally understand why you're confused, I don't need 10 other people to tell me that. I should go and I should change that button immediately, so that next time I show it to somebody I learn what the next problem is. And I think this is something that, especially in big companies, that's unheard of."
+>
+> — Christopher Pedregal, 2026-01-14
+
+His argument for why a slow loop is worse than no loop is about the operator rather than the customer. The context that produced the decision expires:
+
+> "If it takes a month to get feedback on it, it's almost not worth doing, because the thinking you had when you made the original decisions, you don't even remember."
+>
+> — Christopher Pedregal, 2026-01-14
+
+He also names the reason overengineering cannot be reasoned away:
+
+> "The right solution is unknowable until you go out and you try it and it gets contact with the world. You can't sit and design the perfect thing. You need to put stuff out there, probe the system, and see how the system probes back."
+>
+> — Christopher Pedregal, 2026-01-14
+
+And he supplies the discipline that keeps embedding from turning into order-taking. Take their context, ignore their requests, and distrust their compliments: "so I categorically ignore all positive things that people say." Watch what the person does, and treat what they ask for as one input among many.
+
 ## Further Reading
 
 - [Go and See, Two Eyes Two Ears](/principles/go-and-see)

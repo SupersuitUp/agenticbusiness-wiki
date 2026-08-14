@@ -42,6 +42,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 - **[Frank Coyle](/mentors/frank-coyle)** *(public-teaching source)*: computer-science educator at UC Berkeley, 35 years in the field, worked in expert systems through the 1980s boom and the AI winter that followed. Source on reusing published vocabularies rather than modeling a domain from scratch.
 - **[Finn Mallery](/mentors/finn-mallery)** *(public-teaching source)*: founder of Origami (Y Combinator). Interviewed the ten fastest-growing YC companies and distilled their shared four-step acquisition playbook. Source on customer acquisition.
 - **[Max Hodak](/mentors/max-hodak)** *(public-teaching source)*: CEO of Science, co-founded Neuralink. Ships implanted medical devices that restore vision to blind patients. Source on infrastructure as the basis of speed, and judgment as the founder's non-delegable load.
+- **[Christopher Pedregal](/mentors/christopher-pedregal)** *(public-teaching source)*: co-founder and CEO of Granola, previously founded Socratic (acquired by Google). Source on shortening the feedback loop until it disappears, and on why the right shape of a product is unknowable in advance.
 
 ## Further Reading
 
