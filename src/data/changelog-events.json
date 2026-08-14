@@ -1,6 +1,126 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/compounding-customer-intelligence@e0c0d9e3feffd954cb1f96d3eee756ef20e0e596",
+      "type": "updated",
+      "date": "2026-08-14T13:09:52-05:00",
+      "docKey": "concepts/compounding-customer-intelligence",
+      "routePath": "/concepts/compounding-customer-intelligence",
+      "section": "concepts",
+      "title": "Compounding Customer Intelligence",
+      "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
+    },
+    {
+      "id": "perspectives/representation-is-a-context-problem@e0c0d9e3feffd954cb1f96d3eee756ef20e0e596",
+      "type": "new",
+      "date": "2026-08-14T13:09:52-05:00",
+      "docKey": "perspectives/representation-is-a-context-problem",
+      "routePath": "/perspectives/representation-is-a-context-problem",
+      "section": "perspectives",
+      "title": "Representation Is a Context Problem",
+      "description": "Anyone who claims to speak for people is only as legitimate as their compounding knowledge of those people. Most representatives run on vibes and old surveys. Compounding customer intelligence is the machinery that makes the claim true."
+    },
+    {
+      "id": "principles/iterate-at-the-speed-of-revelation@10bc6c4209b017b29dae834199dab69657d8d809",
+      "type": "updated",
+      "date": "2026-08-14T11:50:46-05:00",
+      "docKey": "principles/iterate-at-the-speed-of-revelation",
+      "routePath": "/principles/iterate-at-the-speed-of-revelation",
+      "section": "principles",
+      "title": "Iterate at the Speed of Revelation",
+      "description": "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
+    },
+    {
+      "id": "mentors/christopher-pedregal@5ca8f612d7459ceb041b83b0762933381697f602",
+      "type": "updated",
+      "date": "2026-08-14T11:23:34-05:00",
+      "docKey": "mentors/christopher-pedregal",
+      "routePath": "/mentors/christopher-pedregal",
+      "section": "mentors",
+      "title": "Christopher Pedregal",
+      "description": "Co-founder and CEO of Granola, the AI meeting notepad. Previously founded Socratic, acquired by Google. Source on shortening the feedback loop until it disappears, and on why the right product is unknowable in advance."
+    },
+    {
+      "id": "principles/iterate-at-the-speed-of-revelation@5ca8f612d7459ceb041b83b0762933381697f602",
+      "type": "updated",
+      "date": "2026-08-14T11:23:34-05:00",
+      "docKey": "principles/iterate-at-the-speed-of-revelation",
+      "routePath": "/principles/iterate-at-the-speed-of-revelation",
+      "section": "principles",
+      "title": "Iterate at the Speed of Revelation",
+      "description": "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
+    },
+    {
+      "id": "mentors/christopher-pedregal@acceaecd8a40d6249f2e951a48eb56836b604316",
+      "type": "new",
+      "date": "2026-08-14T11:10:26-05:00",
+      "docKey": "mentors/christopher-pedregal",
+      "routePath": "/mentors/christopher-pedregal",
+      "section": "mentors",
+      "title": "Christopher Pedregal",
+      "description": "Co-founder and CEO of Granola, the AI meeting notepad. Previously founded Socratic, acquired by Google. Source on shortening the feedback loop until it disappears, and on why the right product is unknowable in advance."
+    },
+    {
+      "id": "principles/iterate-at-the-speed-of-revelation@acceaecd8a40d6249f2e951a48eb56836b604316",
+      "type": "updated",
+      "date": "2026-08-14T11:10:26-05:00",
+      "docKey": "principles/iterate-at-the-speed-of-revelation",
+      "routePath": "/principles/iterate-at-the-speed-of-revelation",
+      "section": "principles",
+      "title": "Iterate at the Speed of Revelation",
+      "description": "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
+    },
+    {
+      "id": "principles/iterate-at-the-speed-of-revelation@f8d8f3c1a81978deb1be8d8b2777c82c368d8506",
+      "type": "new",
+      "date": "2026-08-14T11:08:35-05:00",
+      "docKey": "principles/iterate-at-the-speed-of-revelation",
+      "routePath": "/principles/iterate-at-the-speed-of-revelation",
+      "section": "principles",
+      "title": "Iterate at the Speed of Revelation",
+      "description": "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
+    },
+    {
+      "id": "concepts/compounding-customer-agency@855890c8d40f7d7876c1edee0ed82424e81bcb44",
+      "type": "updated",
+      "date": "2026-08-13T16:39:11-05:00",
+      "docKey": "concepts/compounding-customer-agency",
+      "routePath": "/concepts/compounding-customer-agency",
+      "section": "concepts",
+      "title": "Compounding Customer Agency",
+      "description": "The customer-side complement of compounding customer intelligence: real, growing influence over the organization's future for the people who care about it. Intelligence on the org side, agency on the customer side."
+    },
+    {
+      "id": "concepts/compounding-customer-intelligence@855890c8d40f7d7876c1edee0ed82424e81bcb44",
+      "type": "updated",
+      "date": "2026-08-13T16:39:11-05:00",
+      "docKey": "concepts/compounding-customer-intelligence",
+      "routePath": "/concepts/compounding-customer-intelligence",
+      "section": "concepts",
+      "title": "Compounding Customer Intelligence",
+      "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
+    },
+    {
+      "id": "concepts/continually-improving-companies@855890c8d40f7d7876c1edee0ed82424e81bcb44",
+      "type": "new",
+      "date": "2026-08-13T16:39:11-05:00",
+      "docKey": "concepts/continually-improving-companies",
+      "routePath": "/concepts/continually-improving-companies",
+      "section": "concepts",
+      "title": "Continually Improving Companies",
+      "description": "A company where listening is so ingrained in the brand that another feedback moment reads as another chance to improve your own experience, and the customers are co-creating the company's continually evolving future. The improvers are still human; the cadence is what changed."
+    },
+    {
+      "id": "concepts/continually-improving-products@855890c8d40f7d7876c1edee0ed82424e81bcb44",
+      "type": "new",
+      "date": "2026-08-13T16:39:11-05:00",
+      "docKey": "concepts/continually-improving-products",
+      "routePath": "/concepts/continually-improving-products",
+      "section": "concepts",
+      "title": "Continually Improving Products",
+      "description": "A product built so that using it makes it better: every interaction feeds an owned learning loop, a team of humans and agents turns the signal into shipped upgrades, and the customer can feel the cadence. Every show teaches the next show."
+    },
+    {
       "id": "concepts/compounding-customer-intelligence@0ffd33e161fde1cde3d2032741d5e7615aa0d2a5",
       "type": "updated",
       "date": "2026-08-13T15:52:31-05:00",

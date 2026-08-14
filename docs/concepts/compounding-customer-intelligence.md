@@ -55,6 +55,7 @@ The cost story matters for adoption: the collection layer is nearly free to run.
 
 ## Further Reading
 
+- [Representation Is a Context Problem](/perspectives/representation-is-a-context-problem): the stance this concept implies; anyone claiming to speak for people is only as legitimate as their compounding knowledge of them.
 - [Continually Improving Products](/concepts/continually-improving-products): what a product becomes when the lake feeds a shipping cadence.
 - [Compounding Customer Agency](/concepts/compounding-customer-agency): the customer-side half of the pair; the visible-consequence loop that keeps people feeding the lake.
 - [Get Pathologically Close to the Customer](/principles/pathologically-close-to-the-customer): the conversation-volume discipline this concept makes permanent and cumulative.
