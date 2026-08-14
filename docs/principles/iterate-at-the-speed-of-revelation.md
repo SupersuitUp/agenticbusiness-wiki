@@ -9,7 +9,7 @@ image: "/img/comics/iterate-at-the-speed-of-revelation.png"
 
 *Sit beside the customer while they are using the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are structured to act on, and the structure that can keep up is one or two people.*
 
-![Three panels, one woman in a rust-red sweater throughout. One, captioned THE TRUTH STOPS AT THE GLASS: she sits behind a tall glass partition writing on a clipboard while a guest on the far side is stuck at a small check-in screen, and the laptop on her own desk sits closed and dark. Two, captioned SIT WHERE IT BREAKS: the glass is gone and she has pulled her chair up beside the same guest at the check-in table, both looking at the screen where the guest's hand has stopped, while her open laptop glows amber beside them and a small commander in a gold cap sends two agents to redraw that screen inside it. Three, captioned FIXED BEFORE THEY LEAVE: the guest walks on through the doorway with the working screen, and behind her a low shelf holds an ascending row of blank version cards.](/img/comics/iterate-at-the-speed-of-revelation.png)
+![Three panels at one wooden table, the same two people throughout: an operator in a rust-red sweater and a customer in an olive jacket holding his own plain tablet, with her glowing amber laptop open at her side, a small commander in a gold cap and two agents at work inside its screen. One, captioned WATCH THEIR HANDS: he works on his tablet with a stalled expression while she sits turned toward him, hands still, saying nothing. Two, captioned TELL YOUR AGENTS: he is still on his tablet, not looking up, while she gestures toward her own laptop and the agents inside pull apart and rebuild a small panel of shapes. Three, captioned NOW REFRESH: she points at his tablet, he taps it, and his hand moves on freely. He never touches or looks at the glowing laptop in any panel.](/img/comics/iterate-at-the-speed-of-revelation.png)
 
 ---
 
@@ -21,7 +21,7 @@ At large companies the practice hardened into a job. Dedicated user researchers 
 
 Every part of that arrangement was rational when a change cost weeks. Batching the learning made sense because acting on it was expensive. Now that a change costs minutes, batching the learning is the expensive part. The research calendar is the bottleneck, and it is a bottleneck that exists for no reason other than habit.
 
-## Revelation is the input, and proximity is what produces it
+## Observed use is the input, and proximity is what produces it
 
 Rename the thing being harvested and the practice changes. You are not collecting feedback. You are reading usage: watching a real person try to accomplish something real with your product, and seeing in what they do the thing you could not have reasoned your way to. Call what you take away revelation, and keep track of where it came from. It is produced by their behavior, and only rarely by their commentary.
 
@@ -39,7 +39,7 @@ The check-in software for a live event went through twenty shipped iterations ac
 
 The operator stood where the software met the guests. Each version answered something a real person had just done in front of him: a field nobody understood, a step that took one tap too many, a state the flow had not anticipated because no one imagined a hallway that crowded. He changed it, redeployed, and watched the next arrival meet the new version.
 
-Nothing about that evening required a large team, a research plan, or a roadmap. It required proximity, an operator who could ship, and a willingness to treat the twentieth version as the point rather than the first one. The interesting number is not twenty. It is that the distance between seeing the problem and shipping the fix was short enough that the same person could hold both ends of it.
+Nothing about that evening required a large team, a research plan, or a roadmap. It required proximity, an operator who could ship, and a willingness to treat the twentieth version as the point rather than the first one. What matters is the distance: seeing the problem and shipping the fix sat close enough together that the same person could hold both ends of it.
 
 ## Pick the person who is desperate for it
 
@@ -50,6 +50,16 @@ Embed with the customer who was already trying to use your product in its uglies
 That person gives you their time for a reason that has nothing to do with helping you. Your product is carrying them toward something they actually want, and every fix you ship in front of them moves them further along it. The exchange is honest on both sides: you are getting usage worth watching, and they are getting the only thing that would justify sitting next to a founder all evening, which is progress on their own mission.
 
 The deeper reason to pick this person is that only they generate usage worth reading. A user who does not need what you are building will move through it politely, avoid the hard paths, and produce a clean session that teaches you nothing. A user who needs it will push until something breaks, because the wall is in their way and they want it gone. Their frustration is data you cannot get any other way, and it shows up in their hands before it shows up in their mouth.
+
+## Pick a problem that does not need a mobile app
+
+The loop has a hard dependency most people discover late: your iteration speed is capped by your slowest path to production, and on mobile that path runs through Apple.
+
+A web app can go from observed problem to shipped fix in the length of a pause in conversation. Change it, deploy, tell the person to refresh. A native mobile app cannot do that. Every change goes through a build, a submission, and a review queue owned by someone else, and this practice collapses when the person sitting beside you cannot see the fix until next week. On mobile the twenty-versions-in-one-night evening is structurally unavailable, not merely harder.
+
+So treat the platform as a choice you make in service of the loop. When picking what to work on, favor problems a web app can carry, and be suspicious of an idea whose first version has to be native. The question that matters early is which platform lets you change the product while the customer is still sitting in front of it.
+
+If the problem genuinely demands a native app, know that you are buying the review queue and plan around it: prove the shape on the web first, and port once the shape has stopped moving.
 
 ## The team that can run this is very small
 
