@@ -24,13 +24,13 @@ He also supplies the counterweight to fast building. Granola went unlaunched for
 
 ## Principles contributed to this wiki
 
-- **[Iterate at the Speed of Revelation](/principles/iterate-at-the-speed-of-revelation)**: sit beside the customer while they use the product, ship each fix in the moment that revealed it, and stop treating one user's confusion as something that needs nine more confirmations.
+- **[Iterate at the Speed of Revelation](/principles/iterate-at-the-speed-of-revelation)**: sit beside the customer while they use the product, read what their usage reveals rather than what they report, and stop treating one user's confusion as something that needs nine more confirmations.
 
 ## Field Notes
 
 ### 2026-01-14 — "How to Build a Product that Hits PMF on Day 1" (EO, video interview)
 
-A sixteen-minute interview that is mostly about loop latency. Lifted here: the one-person threshold for acting on a usability defect, the month-long feedback loop as worthless because the thinking behind the decision has already evaporated, proximity as something to systematize rather than schedule, the Socratic standing-room arrangement, the explore-then-exploit split with its warning about polishing the wrong shape, and the discipline of ignoring what users say they want while taking their context seriously.
+A sixteen-minute interview that is mostly about loop latency. Lifted here: the one-person threshold for acting on a usability defect, the month-long feedback loop as worthless because the thinking behind the decision has already evaporated, proximity as something to systematize rather than schedule, the Socratic standing-room arrangement, the explore-then-exploit split with its warning about polishing the wrong shape, the square-block-in-the-square-hole recording as the case for reading behavior over commentary, and the discipline of ignoring what users say they want while taking their context seriously.
 
 > "You don't need to hear the same thing from 10 people. If I put a prototype in front of you and you say this button's super confusing, and I look at it and I'm like, oh I totally understand why you're confused, I don't need 10 other people to tell me that. I should go and I should change that button immediately, so that next time I show it to somebody I learn what the next problem is. And I think this is something that, especially in big companies, that's unheard of."
 >
@@ -49,6 +49,10 @@ A sixteen-minute interview that is mostly about loop latency. Lifted here: the o
 > — Christopher Pedregal, 2026-01-14
 
 > "So I categorically ignore all positive things that people say."
+>
+> — Christopher Pedregal, 2026-01-14
+
+> "You see the user grab the square and put it into the square hole. The designer's like, yes. And then you see the user grab the circle and put it in the square hole, and the user's like, what? And then you just see basically completely misunderstanding the product in front of them."
 >
 > — Christopher Pedregal, 2026-01-14
 

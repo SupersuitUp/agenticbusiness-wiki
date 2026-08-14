@@ -1,13 +1,13 @@
 ---
 title: "Iterate at the Speed of Revelation"
 slug: /principles/iterate-at-the-speed-of-revelation
-description: "Sit with the customer while they use the product, and ship each fix in the moment that revealed it. Revelation about what to improve now arrives faster than most teams are built to act on it."
+description: "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
 image: "/img/comics/iterate-at-the-speed-of-revelation.png"
 ---
 
 # Iterate at the Speed of Revelation
 
-*Sit beside the customer while they are using the product, and ship each fix in the moment that revealed it. Revelation about what to improve now arrives faster than most teams are structured to act on, and the structure that can keep up is one or two people.*
+*Sit beside the customer while they are using the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are structured to act on, and the structure that can keep up is one or two people.*
 
 ![Three panels, one woman in a rust-red sweater throughout. One, captioned THE TRUTH STOPS AT THE GLASS: she sits behind a tall glass partition writing on a clipboard while a guest on the far side is stuck at a small check-in screen, and the laptop on her own desk sits closed and dark. Two, captioned SIT WHERE IT BREAKS: the glass is gone and she has pulled her chair up beside the same guest at the check-in table, both looking at the screen where the guest's hand has stopped, while her open laptop glows amber beside them and a small commander in a gold cap sends two agents to redraw that screen inside it. Three, captioned FIXED BEFORE THEY LEAVE: the guest walks on through the doorway with the working screen, and behind her a low shelf holds an ascending row of blank version cards.](/img/comics/iterate-at-the-speed-of-revelation.png)
 
@@ -23,11 +23,15 @@ Every part of that arrangement was rational when a change cost weeks. Batching t
 
 ## Revelation is the input, and proximity is what produces it
 
-Rename the thing being harvested and the practice changes. You are not collecting feedback. You are waiting on revelation: the specific moment a real person, trying to accomplish something real, shows you the thing about your product you could not have reasoned your way to.
+Rename the thing being harvested and the practice changes. You are not collecting feedback. You are reading usage: watching a real person try to accomplish something real with your product, and seeing in what they do the thing you could not have reasoned your way to. Call what you take away revelation, and keep track of where it came from. It is produced by their behavior, and only rarely by their commentary.
 
 Revelation does not arrive on a schedule and it does not survive transport. It happens at a particular second, on a particular screen, with a particular person's face doing a particular thing. If you are in the room, you see it. If you are reading a report, you get the sentence that survived four rounds of paraphrase.
 
-So the practice is embedding: be physically or virtually present while the customer works, watch them hit the wall, change the product, and hand it back before they have left the wall behind. The question you ask is not whether they like it. It is whether the change unblocked them: is this fixing your problem, and does it get you to the next step of what you were trying to do. That question has an answer within seconds, and the answer either ships or it does not.
+So the practice is embedding: be physically or virtually present while the customer works, watch them hit the wall, change the product, and hand it back before they have left the wall behind. The strong signal is the wall itself. Where their hand hesitated, which step they did twice, what they abandoned and worked around, how long the screen held them before anything happened.
+
+What they say about the product is a weaker signal than what their hands did with it, and it is weaker in a specific way: people narrate their experience through what they think you want to hear, and they are not reliable narrators of their own confusion. A person can tell you a screen was fine ten seconds after failing at it. The recording of what they actually did carries no such distortion.
+
+So ask, but ask about the wall you just watched rather than about the product in general: did that change unblock you, and does it get you to the next step of what you were doing. That question has an answer within seconds, and the answer either ships or it does not.
 
 ## The worked case: twenty versions in one night
 
@@ -43,11 +47,13 @@ The practice depends entirely on who you embed with, and the selection rule is n
 
 Embed with the customer who was already trying to use your product in its ugliest, most unfinished form. Not the friendly one, not the prestigious logo, not the person who agreed to a call because they are polite. The one who wanted the thing badly enough to fight your prototype for it.
 
-That person gives you their time for a reason that has nothing to do with helping you. Your product is carrying them toward something they actually want, and every fix you ship in front of them moves them further along it. The exchange is honest on both sides: you are getting revelation, and they are getting the only thing that would justify sitting next to a founder all evening, which is progress on their own mission. A user who does not need what you are building will be gracious, and gracious is worthless. A user who needs it will tell you the truth without being asked, because the wall is in their way and they want it gone.
+That person gives you their time for a reason that has nothing to do with helping you. Your product is carrying them toward something they actually want, and every fix you ship in front of them moves them further along it. The exchange is honest on both sides: you are getting usage worth watching, and they are getting the only thing that would justify sitting next to a founder all evening, which is progress on their own mission.
+
+The deeper reason to pick this person is that only they generate usage worth reading. A user who does not need what you are building will move through it politely, avoid the hard paths, and produce a clean session that teaches you nothing. A user who needs it will push until something breaks, because the wall is in their way and they want it gone. Their frustration is data you cannot get any other way, and it shows up in their hands before it shows up in their mouth.
 
 ## The team that can run this is very small
 
-Now count the handoffs. Someone must watch the customer. Someone must decide what the observation means. Someone must make the change. In the old arrangement those are three people in three functions, and each handoff adds a translation loss plus a scheduling delay, which is exactly why the loop was measured in quarters.
+Now count the handoffs. Someone must watch the customer use it. Someone must decide what the observed behavior means. Someone must make the change. In the old arrangement those are three people in three functions, and each handoff adds a translation loss plus a scheduling delay, which is exactly why the loop was measured in quarters.
 
 Run all three inside one head and the loop closes in the length of one conversation. The product person is the engineer. The researcher is the person shipping. There is no writeup, because there is no one to write it up for.
 
@@ -57,9 +63,9 @@ This is where the practice turns into a claim about company shape. An agentic bu
 
 The failure mode this principle exists to prevent is building past your last revelation.
 
-Overengineering used to mean gold-plating: too many features, too much abstraction, too clever an architecture. The definition has moved. Overengineering now means any work you did beyond the last thing a real user actually showed you, because that work is a bet placed with no information at a moment when information was cheap and available. The more capable your tools, the more of it you can produce, which is why the risk is higher than it was, not lower. Ability to build fast is not the same as license to build far.
+Overengineering used to mean gold-plating: too many features, too much abstraction, too clever an architecture. The definition has moved. Overengineering now means any work you did beyond the last thing you actually watched a user do, because that work is a bet placed with no information at a moment when information was cheap and available. The more capable your tools, the more of it you can produce, which is why the risk is higher than it was, not lower. Ability to build fast is not the same as license to build far.
 
-The discipline is to keep the built thing tethered to the last revelation, and to go get another one before extending further. Ship the smallest change that answers what you just saw, put it in front of the person who showed you, and let their next reaction pay for the next unit of work.
+The discipline is to keep the built thing tethered to the last observed session, and to go watch another one before extending further. Ship the smallest change that answers what you just saw happen, put it back in front of the person whose usage produced it, and let what they do next pay for the next unit of work.
 
 ## Supporting voices
 
@@ -81,7 +87,13 @@ He also names the reason overengineering cannot be reasoned away:
 >
 > — Christopher Pedregal, 2026-01-14
 
-And he supplies the discipline that keeps embedding from turning into order-taking. Take their context, ignore their requests, and distrust their compliments: "so I categorically ignore all positive things that people say." Watch what the person does, and treat what they ask for as one input among many.
+His clearest illustration of why watching beats asking is a usability recording he describes: the user fits the square block into the square hole, the designer is delighted, and then the user picks up the circle and pushes it at the square hole too. Nothing in that session had to be said out loud for the product's real problem to be visible.
+
+> "You just see basically completely misunderstanding the product in front of them."
+>
+> — Christopher Pedregal, 2026-01-14
+
+And he supplies the discipline that keeps embedding from turning into order-taking. Take their context, ignore their requests, and distrust their compliments: "so I categorically ignore all positive things that people say." His rule for a session is to never ask someone whether they would use a thing, or to ask and then discard the answer, and to probe any stated intention from the negative side instead. Read the behavior, weigh the commentary, and let your own judgment decide what gets built.
 
 ## Further Reading
 

@@ -46,7 +46,7 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[It's Not Cold If They Liked Your Post](/principles/not-cold-if-they-liked-your-post)**: content converts 5 percent on its own. Hyper-targeted warm outbound harvests the 95 percent below the waterline. Distilled from Finn Mallery.
 - **[Speed Is Determined by Infrastructure](/principles/speed-is-determined-by-infrastructure)**: purchasing, hiring, budgeting, and review are the company's operating system, and they set the iteration rate that decides everything. Distilled from Max Hodak.
 - **[Action Produces Information](/principles/action-produces-information)**: it is very difficult to actually get stuck. The action space is always larger than it appears. When stalled, inject action. Distilled from Max Hodak.
-- **[Iterate at the Speed of Revelation](/principles/iterate-at-the-speed-of-revelation)**: embed with the customer who is desperate for the product, ship each fix in the moment that revealed it, and keep the team small enough that the loop never crosses a boundary between people.
+- **[Iterate at the Speed of Revelation](/principles/iterate-at-the-speed-of-revelation)**: embed with the customer who is desperate for the product, read what their usage reveals rather than what they report, and keep the team small enough that the loop never crosses a boundary between people.
 - **[You Cannot Delegate Your Judgment](/principles/you-cannot-delegate-your-judgment)**: years in, the decisive call arrives and there is nobody to ask. Differentiated judgment is the only path to outlier outcomes. Distilled from Max Hodak.
 
 ## How to read these
