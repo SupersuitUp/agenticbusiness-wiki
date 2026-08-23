@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "perspectives/representation-is-a-context-problem@6f69d2c4c21903b874e39e567db0927259824e09",
+      "type": "updated",
+      "date": "2026-08-14T13:50:08-05:00",
+      "docKey": "perspectives/representation-is-a-context-problem",
+      "routePath": "/perspectives/representation-is-a-context-problem",
+      "section": "perspectives",
+      "title": "Representation Is a Context Problem",
+      "description": "Anyone who claims to speak for people is only as legitimate as their compounding knowledge of those people. Most representatives run on vibes and old surveys. Compounding customer intelligence is the machinery that makes the claim true."
+    },
+    {
       "id": "concepts/compounding-customer-intelligence@65da7401bdab0dc2429996d38257d54b8621515d",
       "type": "updated",
       "date": "2026-08-14T13:09:52-05:00",
