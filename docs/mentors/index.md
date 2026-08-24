@@ -43,6 +43,7 @@ The wiki is selective on purpose. Adding a mentor is a credibility statement.
 - **[Finn Mallery](/mentors/finn-mallery)** *(public-teaching source)*: founder of Origami (Y Combinator). Interviewed the ten fastest-growing YC companies and distilled their shared four-step acquisition playbook. Source on customer acquisition.
 - **[Max Hodak](/mentors/max-hodak)** *(public-teaching source)*: CEO of Science, co-founded Neuralink. Ships implanted medical devices that restore vision to blind patients. Source on infrastructure as the basis of speed, and judgment as the founder's non-delegable load.
 - **[Christopher Pedregal](/mentors/christopher-pedregal)** *(public-teaching source)*: co-founder and CEO of Granola, previously founded Socratic (acquired by Google). Source on shortening the feedback loop until it disappears, and on why the right shape of a product is unknowable in advance.
+- **[The Boutique Corporate Attorney](/mentors/the-boutique-corporate-attorney)** *(private-conversation archetype)*: runs a small general-corporate law practice organized around matters, at the moment of deciding what to do about an agentic transition. Source of the principle on version-controlling the work product, and the practitioner the Firm Super Suit concept was worked out against.
 
 ## Further Reading
 

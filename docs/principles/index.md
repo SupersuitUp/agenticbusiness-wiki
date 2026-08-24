@@ -48,6 +48,7 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Action Produces Information](/principles/action-produces-information)**: it is very difficult to actually get stuck. The action space is always larger than it appears. When stalled, inject action. Distilled from Max Hodak.
 - **[Iterate at the Speed of Revelation](/principles/iterate-at-the-speed-of-revelation)**: embed with the customer who is desperate for the product, read what their usage reveals rather than what they report, and keep the team small enough that the loop never crosses a boundary between people.
 - **[You Cannot Delegate Your Judgment](/principles/you-cannot-delegate-your-judgment)**: years in, the decisive call arrives and there is nobody to ask. Differentiated judgment is the only path to outlier outcomes. Distilled from Max Hodak.
+- **[Version Control the Work Product](/principles/version-control-the-work-product)**: put every document the business produces into a private repository along with the reasoning that produced it, so the archive becomes a corpus its agents can mine. Distilled from The Boutique Corporate Attorney.
 
 ## How to read these
 
