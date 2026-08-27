@@ -1,6 +1,36 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/the-firm-super-suit@cfcb5d7d2c2e2fd1dc26aad6a64ec5937c66f008",
+      "type": "new",
+      "date": "2026-08-24T13:26:29-04:00",
+      "docKey": "concepts/the-firm-super-suit",
+      "routePath": "/concepts/the-firm-super-suit",
+      "section": "concepts",
+      "title": "The Firm Super Suit",
+      "description": "The company's judgment encoded as a system its people plug into and drive. It appreciates every time the owner corrects it, it transfers when the business sells, and an employee can use it without being able to take it."
+    },
+    {
+      "id": "mentors/the-boutique-corporate-attorney@cfcb5d7d2c2e2fd1dc26aad6a64ec5937c66f008",
+      "type": "new",
+      "date": "2026-08-24T13:26:29-04:00",
+      "docKey": "mentors/the-boutique-corporate-attorney",
+      "routePath": "/mentors/the-boutique-corporate-attorney",
+      "section": "mentors",
+      "title": "The Boutique Corporate Attorney",
+      "description": "Corporate lawyer running a small general-corporate practice, organized around matters, working out what changes when the firm's judgment and work product become version-controlled assets. Source of the principle on version-controlling the work product."
+    },
+    {
+      "id": "principles/version-control-the-work-product@cfcb5d7d2c2e2fd1dc26aad6a64ec5937c66f008",
+      "type": "new",
+      "date": "2026-08-24T13:26:29-04:00",
+      "docKey": "principles/version-control-the-work-product",
+      "routePath": "/principles/version-control-the-work-product",
+      "section": "principles",
+      "title": "Version Control the Work Product",
+      "description": "Put every document the business produces into a private repository, along with the reasoning that produced it. A commit log shows what changed. The reasoning is what makes the archive usable by an agent later."
+    },
+    {
       "id": "perspectives/representation-is-a-context-problem@6f69d2c4c21903b874e39e567db0927259824e09",
       "type": "updated",
       "date": "2026-08-14T13:50:08-05:00",
