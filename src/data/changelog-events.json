@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "principles/own-the-incentive-loop@8879610722a772149d0bca3b2b1ad1e727b35462",
+      "type": "updated",
+      "date": "2026-08-29T17:24:36-05:00",
+      "docKey": "principles/own-the-incentive-loop",
+      "routePath": "/principles/own-the-incentive-loop",
+      "section": "principles",
+      "title": "Own the Incentive Loop",
+      "description": "An incentive loop pays people in product for a verifiable public action. Renting one costs you the customer graph. The API is cheap now and the software is a day of building, so build it."
+    },
+    {
       "id": "principles/own-the-incentive-loop@8e8f65a841c00f5c739e4452b5f8e3cfc6d9ec72",
       "type": "new",
       "date": "2026-08-29T17:22:09-05:00",

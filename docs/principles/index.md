@@ -50,6 +50,12 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[You Cannot Delegate Your Judgment](/principles/you-cannot-delegate-your-judgment)**: years in, the decisive call arrives and there is nobody to ask. Differentiated judgment is the only path to outlier outcomes. Distilled from Max Hodak.
 - **[Version Control the Work Product](/principles/version-control-the-work-product)**: put every document the business produces into a private repository along with the reasoning that produced it, so the archive becomes a corpus its agents can mine. Distilled from The Boutique Corporate Attorney.
 - **[Own the Incentive Loop](/principles/own-the-incentive-loop)**: rewarding people for spreading your launch no longer requires renting a quest platform that keeps a copy of your customer graph. The API is cheap, you own the account, and the claim page is a day of building.
+- **[Own the Substrate](/principles/own-the-substrate)**: an agentic business running on someone else's closed API is borrowing capability that can change overnight. Own the weights, own the prompts, own the version, or accept that the substrate is not yours. Articulated by The Sovereign AI Pioneer.
+- **[Customer Financed Acquisition](/principles/customer-financed-acquisition)**: run the acquisition loop so it pays for itself. Lower CAC, raise lifetime gross profit, shorten payback. When all three are tuned, growth funds growth. Distilled from Alex Hormozi.
+- **[Customers Sniff the Slop](/principles/customers-sniff-the-slop)**: customers can tell when an operator puts less effort into them. AI ships slop unless coached extremely. Coach the AI; protect the human touchpoints.
+- **[Ship Nothing You Cannot Roll Back](/principles/ship-nothing-you-cannot-roll-back)**: the moment software has a second user, a bad change stops being your inconvenience and becomes someone else's outage. Automatic versioning makes going back one action instead of an excavation.
+- **[Good in Every Sense](/principles/good-in-every-sense)**: evaluate a business by whether it is useful, moral, lasting, profitable, and contributing at once. Building for any single sense in isolation produces an operation that fails the others.
+- **[Eat the Frog First](/principles/eat-the-frog-first)**: do your hardest, highest-leverage task first, before email and chat consume your sharpest hours. Distilled from Leila Hormozi.
 
 ## How to read these
 
