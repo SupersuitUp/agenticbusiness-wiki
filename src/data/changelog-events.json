@@ -1,6 +1,496 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/clockworkers@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/clockworkers",
+      "routePath": "/concepts/clockworkers",
+      "section": "concepts",
+      "title": "Clockworkers",
+      "description": "Specialized craftspeople who fine-tune well-tested processes. Lawyers, accountants, PE modelers, niche engineers, operations experts. The portfolio's deployable mastery layer. Pairs with the Imago Dei Unicorn to let an anointed creator scale."
+    },
+    {
+      "id": "concepts/compounding-customer-agency@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/compounding-customer-agency",
+      "routePath": "/concepts/compounding-customer-agency",
+      "section": "concepts",
+      "title": "Compounding Customer Agency",
+      "description": "The customer-side complement of compounding customer intelligence: real, growing influence over the organization's future for the people who care about it. Intelligence on the org side, agency on the customer side."
+    },
+    {
+      "id": "concepts/compounding-customer-intelligence@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/compounding-customer-intelligence",
+      "routePath": "/concepts/compounding-customer-intelligence",
+      "section": "concepts",
+      "title": "Compounding Customer Intelligence",
+      "description": "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
+    },
+    {
+      "id": "concepts/continually-improving-companies@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/continually-improving-companies",
+      "routePath": "/concepts/continually-improving-companies",
+      "section": "concepts",
+      "title": "Continually Improving Companies",
+      "description": "A company where listening is so ingrained in the brand that another feedback moment reads as another chance to improve your own experience, and the customers are co-creating the company's continually evolving future. The improvers are still human; the cadence is what changed."
+    },
+    {
+      "id": "concepts/continually-improving-products@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/continually-improving-products",
+      "routePath": "/concepts/continually-improving-products",
+      "section": "concepts",
+      "title": "Continually Improving Products",
+      "description": "A product built so that using it makes it better: every interaction feeds an owned learning loop, a team of humans and agents turns the signal into shipped upgrades, and the customer can feel the cadence. Every show teaches the next show."
+    },
+    {
+      "id": "concepts/creative-infrastructure@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/creative-infrastructure",
+      "routePath": "/concepts/creative-infrastructure",
+      "section": "concepts",
+      "title": "Creative Infrastructure",
+      "description": "A type of agentic business worth building: the technical stack born only because a cultural-creative vision required it. The Lucas Pattern. The infrastructure becomes load-bearing for a whole category, because one founder refused to shrink their vision to fit the tools that already existed."
+    },
+    {
+      "id": "concepts/imago-dei-unicorn@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/imago-dei-unicorn",
+      "routePath": "/concepts/imago-dei-unicorn",
+      "section": "concepts",
+      "title": "Imago Dei Unicorn",
+      "description": "The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement."
+    },
+    {
+      "id": "concepts/the-firm-super-suit@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/the-firm-super-suit",
+      "routePath": "/concepts/the-firm-super-suit",
+      "section": "concepts",
+      "title": "The Firm Super Suit",
+      "description": "The company's judgment encoded as a system its people plug into and drive. It appreciates every time the owner corrects it, it transfers when the business sells, and an employee can use it without being able to take it."
+    },
+    {
+      "id": "concepts/the-machine-drivable-business@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/the-machine-drivable-business",
+      "routePath": "/concepts/the-machine-drivable-business",
+      "section": "concepts",
+      "title": "The Machine-Drivable Business",
+      "description": "A business whose every working part is agent-addressable, so a machine can read its state and work its controls in plain language. Driving needs both. The unit is the whole business, not one process."
+    },
+    {
+      "id": "concepts/the-token-profit-squeeze@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "concepts/the-token-profit-squeeze",
+      "routePath": "/concepts/the-token-profit-squeeze",
+      "section": "concepts",
+      "title": "The Token-Profit Squeeze",
+      "description": "A structural pattern in agentic businesses. Per-seat revenue stays roughly flat as a heavy AI-using employee scales their work, while per-token compute cost climbs exponentially. The gap closes, then crosses, then collapses the margin on the seat."
+    },
+    {
+      "id": "perspectives/representation-is-a-context-problem@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "perspectives/representation-is-a-context-problem",
+      "routePath": "/perspectives/representation-is-a-context-problem",
+      "section": "perspectives",
+      "title": "Representation Is a Context Problem",
+      "description": "Anyone who claims to speak for people is only as legitimate as their compounding knowledge of those people. Most representatives run on vibes and old surveys. Compounding customer intelligence is the machinery that makes the claim true."
+    },
+    {
+      "id": "principles/action-produces-information@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/action-produces-information",
+      "routePath": "/principles/action-produces-information",
+      "section": "principles",
+      "title": "Action Produces Information",
+      "description": "It is very difficult to actually get stuck. The action space is always larger than it appears. When a company stalls, inject action: doing things generates the information that thinking cannot."
+    },
+    {
+      "id": "principles/chips-not-cash@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/chips-not-cash",
+      "routePath": "/principles/chips-not-cash",
+      "section": "principles",
+      "title": "Chips Not Cash",
+      "description": "Convert know-how into equity in the vehicles applying it. Cash is consumed; equity in niches compounds. Especially urgent now while AI know-how is a real comparative advantage."
+    },
+    {
+      "id": "principles/customer-financed-acquisition@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/customer-financed-acquisition",
+      "routePath": "/principles/customer-financed-acquisition",
+      "section": "principles",
+      "title": "Customer Financed Acquisition",
+      "description": "Run the customer-acquisition loop so it pays for itself. Three levers: lower CAC, raise lifetime gross profit, shorten payback period. When all three are tuned, growth funds growth and outside capital becomes optional."
+    },
+    {
+      "id": "principles/customers-sniff-the-slop@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/customers-sniff-the-slop",
+      "routePath": "/principles/customers-sniff-the-slop",
+      "section": "principles",
+      "title": "Customers Sniff the Slop",
+      "description": "Customers can tell when an operator puts less effort into them. AI ships slop unless coached extremely. Warm touchpoints cannot be replaced with bots. Coach the AI; protect the human."
+    },
+    {
+      "id": "principles/dinosaurs-versus-native@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/dinosaurs-versus-native",
+      "routePath": "/principles/dinosaurs-versus-native",
+      "section": "principles",
+      "title": "Dinosaurs Versus Native",
+      "description": "Working with old industries requires commercial-sales skill and patience for slow-moving customers. Working in AI-native lanes moves fast but the basis of competition is intense. Pick which game you are playing, and play it on purpose."
+    },
+    {
+      "id": "principles/eat-the-frog-first@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/eat-the-frog-first",
+      "routePath": "/principles/eat-the-frog-first",
+      "section": "principles",
+      "title": "Eat the Frog First",
+      "description": "Do your hardest, highest-leverage task first thing in the morning, before email and chat consume your sharpest hours. Everything else feels easy once the frog is eaten."
+    },
+    {
+      "id": "principles/eight-questions-two-pages@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/eight-questions-two-pages",
+      "routePath": "/principles/eight-questions-two-pages",
+      "section": "principles",
+      "title": "Eight Questions, Two Pages",
+      "description": "A leadership team's entire vision and execution plan fits on two pages. Answer eight questions, agree as a team, and the document becomes the substrate every operating decision is checked against. If it doesn't fit on two pages, the vision isn't yet clear."
+    },
+    {
+      "id": "principles/five-bullets-per-seat@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/five-bullets-per-seat",
+      "routePath": "/principles/five-bullets-per-seat",
+      "section": "principles",
+      "title": "Five Bullets Per Seat",
+      "description": "Every seat in the org is defined by no more than five outcome-bullets, what the person is responsible for. The tasks they use to deliver those outcomes are theirs to figure out. Compression is the price of accountability."
+    },
+    {
+      "id": "principles/go-and-see@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/go-and-see",
+      "routePath": "/principles/go-and-see",
+      "section": "principles",
+      "title": "Go and See, Two Eyes Two Ears",
+      "description": "The leader's most powerful analytical instrument is direct observation of the work. Mystery-shop the funnel, sit at the bottleneck, watch real customers struggle with the real product. The insight arrives faster than any dashboard can deliver it."
+    },
+    {
+      "id": "principles/good-in-every-sense@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/good-in-every-sense",
+      "routePath": "/principles/good-in-every-sense",
+      "section": "principles",
+      "title": "Good in Every Sense",
+      "description": "Evaluate a business by whether it is good in every sense of the word at once: useful, moral, lasting, profitable, contributing. Building for any single sense in isolation produces an unbalanced operation that fails the others."
+    },
+    {
+      "id": "principles/gwc-the-seat@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/gwc-the-seat",
+      "routePath": "/principles/gwc-the-seat",
+      "section": "principles",
+      "title": "GWC the Seat",
+      "description": "Every seat-holder must Get it, Want it, and have the Capacity to do it. Three yes-or-no questions. A 'no' on any one means the seat is wrong for the person. Skill, comp, ego, and longevity cannot cover the gap."
+    },
+    {
+      "id": "principles/hire-the-independent-implementer@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/hire-the-independent-implementer",
+      "routePath": "/principles/hire-the-independent-implementer",
+      "section": "principles",
+      "title": "Hire the Independent Implementer",
+      "description": "If the people building your AI stack make more money when you commit to one foundation-model vendor, they cannot be trusted with the architecture call. Hire the implementer whose paycheck is the same no matter which model you pick."
+    },
+    {
+      "id": "principles/ids-the-issue@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/ids-the-issue",
+      "routePath": "/principles/ids-the-issue",
+      "section": "principles",
+      "title": "IDS the Issue",
+      "description": "Most teams discuss endlessly, identify rarely, and solve almost nothing. Reverse the ratio. Spend the most time identifying the real problem, the stated problem is almost never the real one. Discussion and solution then take minutes. Identify, Discuss, Solve."
+    },
+    {
+      "id": "principles/inversion@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/inversion",
+      "routePath": "/principles/inversion",
+      "section": "principles",
+      "title": "Inversion: Magic Before Finance",
+      "description": "Do not start with the business plan or the financials. Start with the magic moment. The financials emerge from the magic, not the other way around."
+    },
+    {
+      "id": "principles/iterate-at-the-speed-of-revelation@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/iterate-at-the-speed-of-revelation",
+      "routePath": "/principles/iterate-at-the-speed-of-revelation",
+      "section": "principles",
+      "title": "Iterate at the Speed of Revelation",
+      "description": "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
+    },
+    {
+      "id": "principles/leverage-and-chokepoints@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/leverage-and-chokepoints",
+      "routePath": "/principles/leverage-and-chokepoints",
+      "section": "principles",
+      "title": "Leverage and Chokepoints",
+      "description": "Every industry has a structure. Be the chokepoint or build the workaround. Never operate without a point of leverage."
+    },
+    {
+      "id": "principles/minimum-proofpoint@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/minimum-proofpoint",
+      "routePath": "/principles/minimum-proofpoint",
+      "section": "principles",
+      "title": "Minimum Proofpoint",
+      "description": "Prove the value at the unit of one before scaling anything. If you cannot make it work for one user, the system does not exist."
+    },
+    {
+      "id": "principles/missionary-and-mercenary@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/missionary-and-mercenary",
+      "routePath": "/principles/missionary-and-mercenary",
+      "section": "principles",
+      "title": "Missionary and Mercenary",
+      "description": "Care about the work like a missionary, run the business like an operator. Neither alone holds up."
+    },
+    {
+      "id": "principles/niche-domination@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/niche-domination",
+      "routePath": "/principles/niche-domination",
+      "section": "principles",
+      "title": "Niche Domination",
+      "description": "The coral reef versus the blue ocean. Most of the life is in the small niches because the big fish cannot fit. Wildly profitable small businesses beat scrappy positions in crowded markets."
+    },
+    {
+      "id": "principles/not-cold-if-they-liked-your-post@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/not-cold-if-they-liked-your-post",
+      "routePath": "/principles/not-cold-if-they-liked-your-post",
+      "section": "principles",
+      "title": "It's Not Cold If They Liked Your Post",
+      "description": "Content converts 5 percent on its own. The other 95 percent saw it, warmed up, and never booked. Hyper-targeted warm outbound to that iceberg replaces cold outreach entirely."
+    },
+    {
+      "id": "principles/order-of-magnitude-goal-setting@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/order-of-magnitude-goal-setting",
+      "routePath": "/principles/order-of-magnitude-goal-setting",
+      "section": "principles",
+      "title": "Order of Magnitude Goal Setting",
+      "description": "If you set a five percent improvement goal, you will get three percent. If you set a 10x goal, your team is forced to question the business model itself. The goal is the lever."
+    },
+    {
+      "id": "principles/own-the-substrate@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/own-the-substrate",
+      "routePath": "/principles/own-the-substrate",
+      "section": "principles",
+      "title": "Own the Substrate",
+      "description": "An agentic business that runs on someone else's closed API is borrowing capability that can change overnight. Own the weights, own the prompts, own the version, or accept that the substrate is not yours."
+    },
+    {
+      "id": "principles/pathologically-close-to-the-customer@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/pathologically-close-to-the-customer",
+      "routePath": "/principles/pathologically-close-to-the-customer",
+      "section": "principles",
+      "title": "Get Pathologically Close to the Customer",
+      "description": "Treat the market like a fogged Battleship board. Hundreds of customer conversations burn the fog off and manufacture ten years of intuition in months. Most founders stop at twenty."
+    },
+    {
+      "id": "principles/pick-an-easy-fight@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/pick-an-easy-fight",
+      "routePath": "/principles/pick-an-easy-fight",
+      "section": "principles",
+      "title": "Pick an Easy Fight",
+      "description": "The fastest-growing companies did not outgrind everyone. They picked opponents they could beat: massive dusty industries run on fax machines, instead of software for software people."
+    },
+    {
+      "id": "principles/relinquish-control-for-leverage@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/relinquish-control-for-leverage",
+      "routePath": "/principles/relinquish-control-for-leverage",
+      "section": "principles",
+      "title": "Relinquish Control for Leverage",
+      "description": "You unlock leverage by giving up control. The entrepreneurial journey is unlearning the very thing that got you to quit your job: doing every job yourself."
+    },
+    {
+      "id": "principles/rocks-before-sand@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/rocks-before-sand",
+      "routePath": "/principles/rocks-before-sand",
+      "section": "principles",
+      "title": "Rocks Before Sand",
+      "description": "Every quarter, the leadership team commits to three to seven Rocks (specific, measurable, time-bound priorities, each owned by one person). No new priorities get added mid-quarter. The Rocks go in the jar first, everything else fills in around them."
+    },
+    {
+      "id": "principles/ship-nothing-you-cannot-roll-back@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/ship-nothing-you-cannot-roll-back",
+      "routePath": "/principles/ship-nothing-you-cannot-roll-back",
+      "section": "principles",
+      "title": "Ship Nothing You Cannot Roll Back",
+      "description": "The moment software has a second user, a bad change stops being your inconvenience and becomes someone else's outage. Automatic versioning is what makes going back one action instead of an excavation."
+    },
+    {
+      "id": "principles/speed-is-determined-by-infrastructure@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/speed-is-determined-by-infrastructure",
+      "routePath": "/principles/speed-is-determined-by-infrastructure",
+      "section": "principles",
+      "title": "Speed Is Determined by Infrastructure",
+      "description": "Speed determines success and failure, and speed is determined by infrastructure: purchasing, hiring, budgeting, reviews. Deep tech companies rarely die of technology. They die of organization."
+    },
+    {
+      "id": "principles/steal-the-nouns@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/steal-the-nouns",
+      "routePath": "/principles/steal-the-nouns",
+      "section": "principles",
+      "title": "Steal the Nouns",
+      "description": "Most of your domain model is generic and already published as a free standard. Adopt those types as-is, and spend every remaining hour of modeling effort on the part no standard will ever cover."
+    },
+    {
+      "id": "principles/stop-selling-from-your-own-wallet@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/stop-selling-from-your-own-wallet",
+      "routePath": "/principles/stop-selling-from-your-own-wallet",
+      "section": "principles",
+      "title": "Stop Selling From Your Own Wallet",
+      "description": "You price your offer for the version of you who cannot afford it. Price it for the customer who has the money, and stop taking money advice from people who have none."
+    },
+    {
+      "id": "principles/the-level-10-meeting@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/the-level-10-meeting",
+      "routePath": "/principles/the-level-10-meeting",
+      "section": "principles",
+      "title": "The Level 10 Meeting",
+      "description": "The leadership team meets weekly, same day, same time, same one-page agenda. Ninety minutes. Sixty of those minutes belong to solving issues. Start on time, end on time, rate the meeting an 8 or higher every week."
+    },
+    {
+      "id": "principles/the-magic-moment@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/the-magic-moment",
+      "routePath": "/principles/the-magic-moment",
+      "section": "principles",
+      "title": "The Magic Moment",
+      "description": "Every business has one specific moment where the customer experiences the value. Create that moment first, by hand, for one real customer. Everything else is downstream."
+    },
+    {
+      "id": "principles/the-weekly-scorecard@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/the-weekly-scorecard",
+      "routePath": "/principles/the-weekly-scorecard",
+      "section": "principles",
+      "title": "The Weekly Scorecard",
+      "description": "Five to fifteen activity-based numbers, reviewed every week. Each number owned by one person. The Scorecard predicts the P&L; the P&L confirms it after the fact. Without a Scorecard, you are flying blind between financial statements."
+    },
+    {
+      "id": "principles/three-sentence-discipline@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/three-sentence-discipline",
+      "routePath": "/principles/three-sentence-discipline",
+      "section": "principles",
+      "title": "Three Sentence Discipline",
+      "description": "Every escalation, every status update, every decision request collapses to three sentences. What is the problem. What is the root cause. What is the proposed solution. The discipline sharpens the sender's thinking as much as it conserves the receiver's time."
+    },
+    {
+      "id": "principles/train-the-algorithm-not-an-audience@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/train-the-algorithm-not-an-audience",
+      "routePath": "/principles/train-the-algorithm-not-an-audience",
+      "section": "principles",
+      "title": "Train the Algorithm, Not an Audience",
+      "description": "Social platforms now push content by interest graph, so followers barely matter. Hyper-specific content aimed at one customer profile turns the algorithm into a free distribution channel."
+    },
+    {
+      "id": "principles/version-control-the-work-product@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/version-control-the-work-product",
+      "routePath": "/principles/version-control-the-work-product",
+      "section": "principles",
+      "title": "Version Control the Work Product",
+      "description": "Put every document the business produces into a private repository, along with the reasoning that produced it. A commit log shows what changed. The reasoning is what makes the archive usable by an agent later."
+    },
+    {
+      "id": "principles/you-cannot-delegate-your-judgment@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "principles/you-cannot-delegate-your-judgment",
+      "routePath": "/principles/you-cannot-delegate-your-judgment",
+      "section": "principles",
+      "title": "You Cannot Delegate Your Judgment",
+      "description": "Years in, with everything on the line, there is nobody to ask. Averaging over advice drags you to the class average, and average is not good enough for outlier outcomes."
+    },
+    {
+      "id": "start-here/what-is-an-agentic-business@aae1831783b8d7bdbf427e83fda1fe1edd099301",
+      "type": "updated",
+      "date": "2026-08-29T07:30:23-04:00",
+      "docKey": "start-here/what-is-an-agentic-business",
+      "routePath": "/start-here/what-is-an-agentic-business",
+      "section": "start-here",
+      "title": "What is an Agentic Business",
+      "description": "A business that runs on applied AI. The founder sets direction, AI handles the operations that can be handed off, and the humans do the work that only humans can do."
+    },
+    {
       "id": "concepts/the-firm-super-suit@cfcb5d7d2c2e2fd1dc26aad6a64ec5937c66f008",
       "type": "new",
       "date": "2026-08-24T13:26:29-04:00",

@@ -49,6 +49,7 @@ Each principle here is sourced from a specific conversation with a specific ment
 - **[Iterate at the Speed of Revelation](/principles/iterate-at-the-speed-of-revelation)**: embed with the customer who is desperate for the product, read what their usage reveals rather than what they report, and keep the team small enough that the loop never crosses a boundary between people.
 - **[You Cannot Delegate Your Judgment](/principles/you-cannot-delegate-your-judgment)**: years in, the decisive call arrives and there is nobody to ask. Differentiated judgment is the only path to outlier outcomes. Distilled from Max Hodak.
 - **[Version Control the Work Product](/principles/version-control-the-work-product)**: put every document the business produces into a private repository along with the reasoning that produced it, so the archive becomes a corpus its agents can mine. Distilled from The Boutique Corporate Attorney.
+- **[Own the Incentive Loop](/principles/own-the-incentive-loop)**: rewarding people for spreading your launch no longer requires renting a quest platform that keeps a copy of your customer graph. The API is cheap, you own the account, and the claim page is a day of building.
 
 ## How to read these
 
