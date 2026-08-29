@@ -43,16 +43,38 @@ The campaigns that sourced this principle ran on GUILD.xyz, they reached hundred
 
 Every participant who follows, retweets, and claims is a deposit. Owning the loop means the deposit lands in your [compounding customer intelligence](/concepts/compounding-customer-intelligence). Renting the loop means it lands in somebody else's, and yours gets a copy.
 
+## Manual verification is where the loop dies
+
+Under launch pressure there is a third option operators reach for, and it is worse than either renting or building. Ask people to paste a link to their comment. Have someone on the team open each link and confirm it. Apply the discount by hand.
+
+The reflex is close to universal, and it kills the loop three ways.
+
+**It does not survive volume.** The campaign exists to produce more claims than a person can look at. Succeeding at the campaign is what breaks the process, so the failure arrives at the exact hour it costs the most.
+
+**It puts a human between the action and the reward.** The person retweeted because they were in the moment. A review queue delivers the reward hours or days later, after they have moved on. Instant is most of the power here, and the queue spends it.
+
+**A discretionary reward reads as discretionary.** Someone who did the work and is waiting on a human to bless it is the person who posts about being stiffed. An automated check is a promise the software keeps on its own. A queue is a promise a busy team keeps when it gets to it.
+
+The counterargument is real and worth stating plainly. At launch nobody has bandwidth, and "we will verify manually" is what a stretched team says when the automation sounds like a week of work. It is a day. The manual queue costs more than a day inside the launch week alone, and it charges that cost at the worst possible hour. Build the automated check first, and keep a human review queue only as the fallback for the edge cases the check cannot settle.
+
 ## The reward should be your own product
 
 Pay in product. Three free months of the thing you just launched costs you marginal inference and storage instead of dollars, and it does two jobs where cash does one. It buys the public action, and it puts the person inside the product with a habit starting to form. A cash bounty buys the action alone, from someone who takes the money and leaves.
 
-Tier the reward by who is claiming:
+Tier the reward by who is claiming, and start with the people you already have.
 
-- **New users** get the trial that onboards them. The reward is the top of your funnel, paid for with capacity you already have.
-- **Existing users** get an extension on what they already pay for. The reward is retention, and it costs you a delayed renewal rather than a check.
+- **Existing customers are the first audience, not the afterthought.** They have an account, a payment relationship already on file, and the strongest reason of anyone to claim. They are also the only audience you can reach on purpose: fire a prompt inside the product dashboard at the moment the announcement posts, instead of hoping they stumble across the campaign somewhere else. Their reward is an extension on what they already pay for, which costs you a delayed renewal rather than a check and buys retention on top of the public action.
+- **New users are the second surface.** The public claim page catches the traffic the retweets bring in. Their reward is the trial that onboards them, paid for with capacity you already have.
 
-Same campaign, two different jobs, one budget line that is measured in compute rather than currency. The sibling principle [Chips Not Cash](/principles/chips-not-cash) makes the same trade from the other side of the table: take the asset that compounds, not the currency that gets consumed.
+Same campaign, two different jobs, one budget line measured in compute rather than currency. The sibling principle [Chips Not Cash](/principles/chips-not-cash) makes the same trade from the other side of the table: take the asset that compounds, not the currency that gets consumed.
+
+## The claim window has to close
+
+A reward with no deadline converts a fraction of what the same reward converts with one.
+
+The loop is not up against a rival offer. It is up against the intention to do it later, which is where these campaigns go to die. Someone reads the announcement, agrees with every word, means to retweet it after the meeting, and never does. No amount of extra reward fixes that. A closing window does.
+
+So say the window out loud and keep it short. Act today and the month is on us. The deadline is what converts an audience that agrees with you into an audience that acted.
 
 ## What the loop actually looks like
 
@@ -63,7 +85,7 @@ The whole artifact, end to end, from the launch this principle was proven on:
 3. **Step one: follow the company account.** The page verifies the follow against the company's own follower data.
 4. **Step two: follow the founder's account.** Verified the same way.
 5. **Step three: retweet the announcement.** Verified against that specific post ID, so a retweet of some other post does not count.
-6. **Claim.** With all three green, the page grants a coupon good for three free months.
+6. **Claim.** With all three green, the page grants a coupon good for three free months, and it says plainly on the way in that the window closes today.
 
 Two details carry more weight than they look like they do. Each step is a persisted state on the participant's record, so a person who drops out at step two comes back to step two instead of starting over. And each verification reads your own account's data, which is why none of this requires a third party to sit in the middle holding the participant list.
 
@@ -73,7 +95,17 @@ That is the artifact this principle produces. A page, a table, and a coupon gran
 
 The mechanics above are the cheap half. They get the reward into the right hands. They do nothing to make the retweet travel past the people you rewarded.
 
-What makes it travel is that the post says something the sharer actually wants their name on. The launch this spec came from was built around a claim before it was built around a reward: people have a legitimate right to write with AI assistance. It ran at a moment when detection tools were being used to punish AI-assisted writing, and the people who spread it were people who had been on the wrong end of that or expected to be. The reward bought speed and volume on an opinion they already held.
+What makes it travel is that the post says something the sharer actually wants their name on. The launch this spec came from was built around a claim before it was built around a reward, and the claim had a line:
+
+> Protect your right to co-write.
+
+Two things in that line are doing real work.
+
+The first is who it is addressed to. It speaks to people who have already changed how they work. Once you have co-written with AI and watched it make your work better and faster, you will defend it without anyone having to persuade you. The campaign hands people who already crossed that line something to stand behind, which is a far shorter distance to travel than recruiting a stranger to a cause.
+
+The second is the generalization, and it is the sharp end. Co-design is uncontroversial. Co-working is uncontroversial. The word is already in ordinary use for every other kind of assisted work. Singling writing out of that set and treating assistance there as suspect is an inconsistency in the norm. Naming the inconsistency is a stance about authorship, and it gives the sharer an argument they can defend in their own replies, which is the real test of whether a post travels past the first ring.
+
+It ran at a moment when AI-assisted writing was widely treated as something to be caught and punished, and the people who spread it were people who had been on the wrong end of that or expected to be. The reward bought speed and volume on an opinion they already held.
 
 The test, before you spend anything:
 
