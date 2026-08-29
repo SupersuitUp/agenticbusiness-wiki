@@ -2,14 +2,14 @@
 title: "Pick an Easy Fight"
 slug: /principles/pick-an-easy-fight
 description: "The fastest-growing companies did not outgrind everyone. They picked opponents they could beat: massive dusty industries run on fax machines, instead of software for software people."
-image: "/img/comics/pick-an-easy-fight.png"
+image: "/img/comics/pick-an-easy-fight.webp"
 ---
 
 # Pick an Easy Fight
 
 *The fastest-growing companies are not the ones grinding hardest. They are the ones that chose an opponent they could beat: a massive, dusty, ancient industry, instead of the smartest and best-funded builders on the planet.*
 
-![Three warm editorial panels. One: a cramped little arena packed with builders elbowing shoulder to shoulder, each hunched over an identical grey laptop, while a woman in a sage-green sweater stands at the edge with her amber-glowing laptop closed under her arm, turning away; caption EVERYONE FIGHTS THE BEST. Two: she stands small before an enormous ancient hall of an old industry next door, its open doors revealing towering shelves of yellowed paperwork, a fax machine, and cobwebs, with the crowded arena tiny in the distance behind her; caption THE GIANT NEXT DOOR. Three: inside the vast hall she sits calm and alone at a desk with the amber laptop open, and inside its screen small glowing agents sort and file the paperwork under their gold-capped chief while warm light fills the hall; caption THE ONLY MODERN OPERATOR. Title bar PICK AN EASY FIGHT; footer NEVER FIGHT THE SMARTEST. REBUILD WHAT THEY IGNORE.](/img/comics/pick-an-easy-fight.png)
+![Three warm editorial panels. One: a cramped little arena packed with builders elbowing shoulder to shoulder, each hunched over an identical grey laptop, while a woman in a sage-green sweater stands at the edge with her amber-glowing laptop closed under her arm, turning away; caption EVERYONE FIGHTS THE BEST. Two: she stands small before an enormous ancient hall of an old industry next door, its open doors revealing towering shelves of yellowed paperwork, a fax machine, and cobwebs, with the crowded arena tiny in the distance behind her; caption THE GIANT NEXT DOOR. Three: inside the vast hall she sits calm and alone at a desk with the amber laptop open, and inside its screen small glowing agents sort and file the paperwork under their gold-capped chief while warm light fills the hall; caption THE ONLY MODERN OPERATOR. Title bar PICK AN EASY FIGHT; footer NEVER FIGHT THE SMARTEST. REBUILD WHAT THEY IGNORE.](/img/comics/pick-an-easy-fight.webp)
 
 ---
 

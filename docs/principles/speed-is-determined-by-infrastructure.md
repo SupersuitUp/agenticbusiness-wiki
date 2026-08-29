@@ -2,14 +2,14 @@
 title: "Speed Is Determined by Infrastructure"
 slug: /principles/speed-is-determined-by-infrastructure
 description: "Speed determines success and failure, and speed is determined by infrastructure: purchasing, hiring, budgeting, reviews. Deep tech companies rarely die of technology. They die of organization."
-image: "/img/comics/speed-is-determined-by-infrastructure.png"
+image: "/img/comics/speed-is-determined-by-infrastructure.webp"
 ---
 
 # Speed Is Determined by Infrastructure
 
 *Speed determines success and failure, and speed is determined by infrastructure. How the company buys, hires, budgets, and reviews is its operating system, and companies rarely die of technology. They die of organization.*
 
-![Three panels under the title SPEED IS INFRASTRUCTURE. One: a woman leans toward the glowing amber laptop; inside its screen a gleaming brass flywheel machine stands jammed behind tangled gears made of paperwork while three small rounded agents wait idle; caption JAMMED BY PAPERWORK. Two: she sketches and types while the agents inside the screen rebuild the paper gears into one clean harness, a row of simple buttons joined by a single amber line running to the flywheel; caption REBUILD THE BORING SYSTEMS. Three: she sits back with a mug as the flywheel spins fast inside the screen, lapping a smaller dim grey machine far behind on the same track; caption THE WEEKLY LOOP WINS. Footer: SPEED DECIDES WHO WINS. INFRASTRUCTURE DECIDES SPEED.](/img/comics/speed-is-determined-by-infrastructure.png)
+![Three panels under the title SPEED IS INFRASTRUCTURE. One: a woman leans toward the glowing amber laptop; inside its screen a gleaming brass flywheel machine stands jammed behind tangled gears made of paperwork while three small rounded agents wait idle; caption JAMMED BY PAPERWORK. Two: she sketches and types while the agents inside the screen rebuild the paper gears into one clean harness, a row of simple buttons joined by a single amber line running to the flywheel; caption REBUILD THE BORING SYSTEMS. Three: she sits back with a mug as the flywheel spins fast inside the screen, lapping a smaller dim grey machine far behind on the same track; caption THE WEEKLY LOOP WINS. Footer: SPEED DECIDES WHO WINS. INFRASTRUCTURE DECIDES SPEED.](/img/comics/speed-is-determined-by-infrastructure.webp)
 
 ---
 

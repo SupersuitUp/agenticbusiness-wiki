@@ -2,14 +2,14 @@
 title: "Iterate at the Speed of Revelation"
 slug: /principles/iterate-at-the-speed-of-revelation
 description: "Sit with the customer while they use the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are built to act on."
-image: "/img/comics/iterate-at-the-speed-of-revelation.png"
+image: "/img/comics/iterate-at-the-speed-of-revelation.webp"
 ---
 
 # Iterate at the Speed of Revelation
 
 *Sit beside the customer while they are using the product, read what their usage reveals rather than what they report, and ship each fix in the moment that produced it. Observed use arrives faster than most teams are structured to act on, and the structure that can keep up is one or two people.*
 
-![Three panels at one wooden table, the same two people throughout: an operator in a rust-red sweater and a customer in an olive jacket holding his own plain tablet, with her glowing amber laptop open at her side, a small commander in a gold cap and two agents at work inside its screen. One, captioned WATCH THEIR HANDS: he works on his tablet with a stalled expression while she sits turned toward him, hands still, saying nothing. Two, captioned TELL YOUR AGENTS: he is still on his tablet, not looking up, while she gestures toward her own laptop and the agents inside pull apart and rebuild a small panel of shapes. Three, captioned NOW REFRESH: she points at his tablet, he taps it, and his hand moves on freely. He never touches or looks at the glowing laptop in any panel.](/img/comics/iterate-at-the-speed-of-revelation.png)
+![Three panels at one wooden table, the same two people throughout: an operator in a rust-red sweater and a customer in an olive jacket holding his own plain tablet, with her glowing amber laptop open at her side, a small commander in a gold cap and two agents at work inside its screen. One, captioned WATCH THEIR HANDS: he works on his tablet with a stalled expression while she sits turned toward him, hands still, saying nothing. Two, captioned TELL YOUR AGENTS: he is still on his tablet, not looking up, while she gestures toward her own laptop and the agents inside pull apart and rebuild a small panel of shapes. Three, captioned NOW REFRESH: she points at his tablet, he taps it, and his hand moves on freely. He never touches or looks at the glowing laptop in any panel.](/img/comics/iterate-at-the-speed-of-revelation.webp)
 
 ---
 

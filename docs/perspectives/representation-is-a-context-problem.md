@@ -2,14 +2,14 @@
 title: "Representation Is a Context Problem"
 slug: /perspectives/representation-is-a-context-problem
 description: "Anyone who claims to speak for people is only as legitimate as their compounding knowledge of those people. Most representatives run on vibes and old surveys. Compounding customer intelligence is the machinery that makes the claim true."
-image: "/img/comics/representation-is-a-context-problem.png"
+image: "/img/comics/representation-is-a-context-problem.webp"
 ---
 
 # Representation Is a Context Problem
 
 *Anyone who claims to speak for people, a brand for its customers, a station for its listeners, a leader for members, a politician for constituents, is only as legitimate as their compounding knowledge of those people. Most representatives hold nothing that accumulates. [Compounding customer intelligence](/concepts/compounding-customer-intelligence) is the machinery that makes the claim true.*
 
-![Three-panel warm editorial strip titled REPRESENTATION IS A CONTEXT PROBLEM. One, caption SPEAKING FOR STRANGERS: a woman in a rust blazer speaks from a lectern holding an open folder of blank pages while the crowd behind her is only pale unfinished outlines, a translucent amber laptop closed and unlit on the lectern shelf. Two, caption EVERY VOICE COMPOUNDS: the same laptop now open and glowing between her and the crowd; each person's words travel as warm amber ribbons into the screen, where a small holographic commander in a gold admiral hat files them into a wall of luminous drawers, and the crowd members whose ribbons have landed take on full color and detail. Three, caption SPEAKING WITH RECEIPTS: back at the lectern with the glowing laptop beside her, she speaks holding up a single amber ribbon as evidence, the crowd now fully painted and individual, one raised hand sending a new ribbon that visibly slides a card on the program board beside her. Footer: IF YOUR KNOWLEDGE DOES NOT COMPOUND, YOUR REPRESENTATION IS A SLOGAN.](/img/comics/representation-is-a-context-problem.png)
+![Three-panel warm editorial strip titled REPRESENTATION IS A CONTEXT PROBLEM. One, caption SPEAKING FOR STRANGERS: a woman in a rust blazer speaks from a lectern holding an open folder of blank pages while the crowd behind her is only pale unfinished outlines, a translucent amber laptop closed and unlit on the lectern shelf. Two, caption EVERY VOICE COMPOUNDS: the same laptop now open and glowing between her and the crowd; each person's words travel as warm amber ribbons into the screen, where a small holographic commander in a gold admiral hat files them into a wall of luminous drawers, and the crowd members whose ribbons have landed take on full color and detail. Three, caption SPEAKING WITH RECEIPTS: back at the lectern with the glowing laptop beside her, she speaks holding up a single amber ribbon as evidence, the crowd now fully painted and individual, one raised hand sending a new ribbon that visibly slides a card on the program board beside her. Footer: IF YOUR KNOWLEDGE DOES NOT COMPOUND, YOUR REPRESENTATION IS A SLOGAN.](/img/comics/representation-is-a-context-problem.webp)
 
 ---
 

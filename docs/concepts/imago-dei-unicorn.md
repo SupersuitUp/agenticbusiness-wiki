@@ -2,14 +2,14 @@
 title: "Imago Dei Unicorn"
 slug: /concepts/imago-dei-unicorn
 description: "The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement."
-image: "/img/comics/imago-dei-unicorn.png"
+image: "/img/comics/imago-dei-unicorn.webp"
 ---
 
 # Imago Dei Unicorn
 
 *The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement.*
 
-![Single-panel splash comic featuring the canonical Blasian supersuited operator (mid-30s, matte navy Supersuit with vivid orange seam accents, helmet off, single unified gold spiral halo glowing brightly above his head). The leader stands center in a confident grounded pose. Above the halo a chunky inked banner reads ANOINTED AT THE SOURCE. Around him a halo arrangement of inked-frame icons radiates outward in cyan-and-gold beams, each labeled with a gift: TASTE (with a culinary plate), VOICE (with a microphone), VISION (with a cityscape), MORAL SERIOUSNESS (with scales), CULTURAL TEXTURE (with artistic faces), CUSTOMER FEEL (with a heart). Below the leader, a "THE COMPANY THE GIFT MADE" banner with four small artifact icons (PRODUCTS, CULTURE, CUSTOMER, TEAM). In the lower-right of the panel a small inset shows clockworker figures at a workbench labeled CLOCKWORKERS SCALE THE GIFT. Floor marker: ONE LEADER. ONE GIFT. ONE COMPANY UNMISTAKABLY THEIRS. Title bar: IMAGO DEI UNICORN. Footer bar: ANOINTED AT THE SOURCE. NEEDS SCALING. NEVER REPLACEMENT.](/img/comics/imago-dei-unicorn.png)
+![Single-panel splash comic featuring the canonical Blasian supersuited operator (mid-30s, matte navy Supersuit with vivid orange seam accents, helmet off, single unified gold spiral halo glowing brightly above his head). The leader stands center in a confident grounded pose. Above the halo a chunky inked banner reads ANOINTED AT THE SOURCE. Around him a halo arrangement of inked-frame icons radiates outward in cyan-and-gold beams, each labeled with a gift: TASTE (with a culinary plate), VOICE (with a microphone), VISION (with a cityscape), MORAL SERIOUSNESS (with scales), CULTURAL TEXTURE (with artistic faces), CUSTOMER FEEL (with a heart). Below the leader, a "THE COMPANY THE GIFT MADE" banner with four small artifact icons (PRODUCTS, CULTURE, CUSTOMER, TEAM). In the lower-right of the panel a small inset shows clockworker figures at a workbench labeled CLOCKWORKERS SCALE THE GIFT. Floor marker: ONE LEADER. ONE GIFT. ONE COMPANY UNMISTAKABLY THEIRS. Title bar: IMAGO DEI UNICORN. Footer bar: ANOINTED AT THE SOURCE. NEEDS SCALING. NEVER REPLACEMENT.](/img/comics/imago-dei-unicorn.webp)
 
 ---
 

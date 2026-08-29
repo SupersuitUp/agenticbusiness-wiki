@@ -2,14 +2,14 @@
 title: "You Cannot Delegate Your Judgment"
 slug: /principles/you-cannot-delegate-your-judgment
 description: "Years in, with everything on the line, there is nobody to ask. Averaging over advice drags you to the class average, and average is not good enough for outlier outcomes."
-image: "/img/comics/you-cannot-delegate-your-judgment.png"
+image: "/img/comics/you-cannot-delegate-your-judgment.webp"
 ---
 
 # You Cannot Delegate Your Judgment
 
 *Years into the company, with everything on the line, a decision arrives that only you can make, and there is nobody to ask. Averaging over advice drags you toward the class average, and the successful companies are the exceptions.*
 
-![Three-panel strip titled THE LONELY CALL. One: a young founder sits at a desk with a glowing amber laptop while a warm crowd of advisers leans in around her offering answers; caption EVERY QUESTION HAS ANSWERS. Two: years later the same founder turns from the same desk to ask the room, but the advisers have faded to pale faceless silhouettes and nobody answers; caption THE ROOM IS EMPTY. Three: the founder stands alone at a wall chart, drawing a bold amber line that branches off the faint flat average line and climbs away, the laptop glowing behind her; caption YOU MAKE THE CALL. Footer: DELEGATE EVERYTHING ELSE. JUDGMENT NEVER TRANSFERS.](/img/comics/you-cannot-delegate-your-judgment.png)
+![Three-panel strip titled THE LONELY CALL. One: a young founder sits at a desk with a glowing amber laptop while a warm crowd of advisers leans in around her offering answers; caption EVERY QUESTION HAS ANSWERS. Two: years later the same founder turns from the same desk to ask the room, but the advisers have faded to pale faceless silhouettes and nobody answers; caption THE ROOM IS EMPTY. Three: the founder stands alone at a wall chart, drawing a bold amber line that branches off the faint flat average line and climbs away, the laptop glowing behind her; caption YOU MAKE THE CALL. Footer: DELEGATE EVERYTHING ELSE. JUDGMENT NEVER TRANSFERS.](/img/comics/you-cannot-delegate-your-judgment.webp)
 
 ---
 

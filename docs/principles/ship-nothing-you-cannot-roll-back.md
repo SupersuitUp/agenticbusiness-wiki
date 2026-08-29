@@ -2,14 +2,14 @@
 title: "Ship Nothing You Cannot Roll Back"
 slug: /principles/ship-nothing-you-cannot-roll-back
 description: "The moment software has a second user, a bad change stops being your inconvenience and becomes someone else's outage. Automatic versioning is what makes going back one action instead of an excavation."
-image: "/img/comics/ship-nothing-you-cannot-roll-back.png"
+image: "/img/comics/ship-nothing-you-cannot-roll-back.webp"
 ---
 
 # Ship Nothing You Cannot Roll Back
 
 *Automatic versioning stops being a nicety the moment somebody other than you depends on the software. Every deploy leaves behind an immutable version you can return to in one action, because the hour you need that is the hour you are least able to build it.*
 
-![Three panels. One, a calm afternoon: a woman at a warm wooden desk writes in a notebook, turned away from the glowing amber laptop where a neat stack of identical cards is quietly assembling itself, one sliding onto the top of the stack on its own, untouched and unnoticed. Two, the same desk at night with the laptop the only light: the top card has gone dull and cracked and a sub-agent has stepped back from it, and she reaches one tired unhurried hand in and lifts the card beneath it back into place. Three, close on one card lying open like a folder, holding small labelled slips resting together, code and data and environment and decisions and notes, her hand at the edge of it and not lifting it.](/img/comics/ship-nothing-you-cannot-roll-back.png)
+![Three panels. One, a calm afternoon: a woman at a warm wooden desk writes in a notebook, turned away from the glowing amber laptop where a neat stack of identical cards is quietly assembling itself, one sliding onto the top of the stack on its own, untouched and unnoticed. Two, the same desk at night with the laptop the only light: the top card has gone dull and cracked and a sub-agent has stepped back from it, and she reaches one tired unhurried hand in and lifts the card beneath it back into place. Three, close on one card lying open like a folder, holding small labelled slips resting together, code and data and environment and decisions and notes, her hand at the edge of it and not lifting it.](/img/comics/ship-nothing-you-cannot-roll-back.webp)
 
 ---
 

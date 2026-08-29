@@ -2,14 +2,14 @@
 title: "Continually Improving Companies"
 slug: /concepts/continually-improving-companies
 description: "A company where listening is so ingrained in the brand that another feedback moment reads as another chance to improve your own experience, and the customers are co-creating the company's continually evolving future. The improvers are still human; the cadence is what changed."
-image: "/img/comics/continually-improving-companies.png"
+image: "/img/comics/continually-improving-companies.webp"
 ---
 
 # Continually Improving Companies
 
 *A company whose products, operations, and brand promise all run improvement loops, so customers feel the whole enterprise getting better and know their voice is part of why. Listening is ingrained in the brand itself, and the customers are co-creating the company's continually evolving future. The improvers are still human; what changed is the cadence.*
 
-![Three-panel warm editorial strip titled CONTINUALLY IMPROVING COMPANIES. One, caption THE COMPANY THAT CANNOT HEAR: a grand corporate lobby where a receptionist behind thick glass points a lone customer toward a tiny suggestion slot in the wall, the slot's chute visibly dumping slips into a sealed basement bin among older dusty bins. Two, caption LISTENING BECOMES THE BRAND: the same lobby transformed warm and open; varied customers chat easily with staff at a long common table while their words rise as warm ribbons into a glowing translucent amber laptop at the table's center, a small rounded commander in a gold cap routing ribbons out to little workshop doors marked by icons of a wrench, a truck and a storefront, each door glowing as its team receives; caption three, CO-CREATING THE FUTURE: customers and staff stand shoulder to shoulder before a tall wall where a road drawn on the wall extends forward under their joined hands, the road's next stretch being painted in live by both groups together, the finished stretches behind them lined with small lit milestones. Footer: THE CUSTOMERS ARE CO-AUTHORS OF WHAT THE COMPANY BECOMES.](/img/comics/continually-improving-companies.png)
+![Three-panel warm editorial strip titled CONTINUALLY IMPROVING COMPANIES. One, caption THE COMPANY THAT CANNOT HEAR: a grand corporate lobby where a receptionist behind thick glass points a lone customer toward a tiny suggestion slot in the wall, the slot's chute visibly dumping slips into a sealed basement bin among older dusty bins. Two, caption LISTENING BECOMES THE BRAND: the same lobby transformed warm and open; varied customers chat easily with staff at a long common table while their words rise as warm ribbons into a glowing translucent amber laptop at the table's center, a small rounded commander in a gold cap routing ribbons out to little workshop doors marked by icons of a wrench, a truck and a storefront, each door glowing as its team receives; caption three, CO-CREATING THE FUTURE: customers and staff stand shoulder to shoulder before a tall wall where a road drawn on the wall extends forward under their joined hands, the road's next stretch being painted in live by both groups together, the finished stretches behind them lined with small lit milestones. Footer: THE CUSTOMERS ARE CO-AUTHORS OF WHAT THE COMPANY BECOMES.](/img/comics/continually-improving-companies.webp)
 
 ---
 

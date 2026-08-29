@@ -2,14 +2,14 @@
 title: "Train the Algorithm, Not an Audience"
 slug: /principles/train-the-algorithm-not-an-audience
 description: "Social platforms now push content by interest graph, so followers barely matter. Hyper-specific content aimed at one customer profile turns the algorithm into a free distribution channel."
-image: "/img/comics/train-the-algorithm-not-an-audience.png"
+image: "/img/comics/train-the-algorithm-not-an-audience.webp"
 ---
 
 # Train the Algorithm, Not an Audience
 
 *Social platforms push content by interest graph now, so follower counts barely matter. Hyper-specific content aimed at one customer profile teaches the algorithm exactly who to deliver you to, for free.*
 
-![Three panels titled "Train the Algorithm." One: a founder at a desk watches her glowing amber laptop, its screen packed edge to edge with a vast roaring crowd of tiny faceless figures, while the open cash box beside her sits empty; caption "The roar buys nothing." Two: she feeds one small amber card into the laptop, and inside the screen a funnel routes it on a clean amber line past the dimmed grey crowd to a small cluster of glowing amber figures; caption "One post teaches the feed." Three: a warm amber path flows out of the screen and three customers arrive at her desk holding rolled contracts as she shakes the first one's hand, the crowd on the screen faded to a ghost and the cash box holding gold coins; caption "The right few arrive." Footer: "Train the feed, and it delivers your buyer."](/img/comics/train-the-algorithm-not-an-audience.png)
+![Three panels titled "Train the Algorithm." One: a founder at a desk watches her glowing amber laptop, its screen packed edge to edge with a vast roaring crowd of tiny faceless figures, while the open cash box beside her sits empty; caption "The roar buys nothing." Two: she feeds one small amber card into the laptop, and inside the screen a funnel routes it on a clean amber line past the dimmed grey crowd to a small cluster of glowing amber figures; caption "One post teaches the feed." Three: a warm amber path flows out of the screen and three customers arrive at her desk holding rolled contracts as she shakes the first one's hand, the crowd on the screen faded to a ghost and the cash box holding gold coins; caption "The right few arrive." Footer: "Train the feed, and it delivers your buyer."](/img/comics/train-the-algorithm-not-an-audience.webp)
 
 ---
 

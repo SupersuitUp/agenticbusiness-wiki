@@ -2,14 +2,14 @@
 title: "Clockworkers"
 slug: /concepts/clockworkers
 description: "Specialized craftspeople who fine-tune well-tested processes. Lawyers, accountants, PE modelers, niche engineers, operations experts. The portfolio's deployable mastery layer. Pairs with the Imago Dei Unicorn to let an anointed creator scale."
-image: "/img/comics/clockworkers.png"
+image: "/img/comics/clockworkers.webp"
 ---
 
 # Clockworkers
 
 *Specialized craftspeople who fine-tune well-tested processes. Lawyers, accountants, PE modelers, niche engineers, operations experts. The portfolio's deployable mastery layer. Pairs with the [Imago Dei Unicorn](/concepts/imago-dei-unicorn) to let an anointed creator scale.*
 
-![Single-panel splash comic. Center: a large ornate grandfather clock in three-quarter perspective with intricate visible inner mechanisms (gears, escapement, balance wheel, pendulum, springs), labeled at the top THE STARTUP. Four diverse specialized craftspeople work at the mechanisms in workshop-craftsman attire, each at their own focused workbench with precision tools: a Latina PE MODELER with an LBO model spreadsheet, an East-Asian woman with glasses labeled SECURITIES ATTORNEY adjusting a gear, an older Black man with grey beard labeled FRACTIONAL CFO reading a ledger, a white European man labeled COMPLIANCE LEAD tightening a screw. Cyan-and-gold tool-precision glows emanate from each specialist's hands. Above the central clock, a small distant figure with a faint gold spiral halo above their head is labeled IMAGO DEI UNICORN, indicating the source the clockwork serves. In the background, three smaller fading grandfather clocks are labeled PORTFOLIO COMPANY 2, PORTFOLIO COMPANY 3, PORTFOLIO COMPANY 4, indicating that the clockworkers deploy across the portfolio. Floor marker: DEEP CRAFT. PORTFOLIO LEVERAGE. Title bar: CLOCKWORKERS. Footer bar: THEY DO NOT WRITE THE SONG. THEY KEEP THE TIME.](/img/comics/clockworkers.png)
+![Single-panel splash comic. Center: a large ornate grandfather clock in three-quarter perspective with intricate visible inner mechanisms (gears, escapement, balance wheel, pendulum, springs), labeled at the top THE STARTUP. Four diverse specialized craftspeople work at the mechanisms in workshop-craftsman attire, each at their own focused workbench with precision tools: a Latina PE MODELER with an LBO model spreadsheet, an East-Asian woman with glasses labeled SECURITIES ATTORNEY adjusting a gear, an older Black man with grey beard labeled FRACTIONAL CFO reading a ledger, a white European man labeled COMPLIANCE LEAD tightening a screw. Cyan-and-gold tool-precision glows emanate from each specialist's hands. Above the central clock, a small distant figure with a faint gold spiral halo above their head is labeled IMAGO DEI UNICORN, indicating the source the clockwork serves. In the background, three smaller fading grandfather clocks are labeled PORTFOLIO COMPANY 2, PORTFOLIO COMPANY 3, PORTFOLIO COMPANY 4, indicating that the clockworkers deploy across the portfolio. Floor marker: DEEP CRAFT. PORTFOLIO LEVERAGE. Title bar: CLOCKWORKERS. Footer bar: THEY DO NOT WRITE THE SONG. THEY KEEP THE TIME.](/img/comics/clockworkers.webp)
 
 ---
 

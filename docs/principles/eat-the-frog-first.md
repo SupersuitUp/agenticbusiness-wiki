@@ -2,14 +2,14 @@
 title: "Eat the Frog First"
 slug: /principles/eat-the-frog-first
 description: "Do your hardest, highest-leverage task first thing in the morning, before email and chat consume your sharpest hours. Everything else feels easy once the frog is eaten."
-image: "/img/comics/eat-the-frog-first.png"
+image: "/img/comics/eat-the-frog-first.webp"
 ---
 
 # Eat the Frog First
 
 *Do your hardest, highest-leverage task first thing in the morning, before email and chat consume your sharpest hours. Everything else feels easy once the frog is eaten.*
 
-![Three-panel neo-comic action-zine on cream paper, navy supersuit with orange seams, crimson + cobalt + gold + cyan. Title bar: EAT THE FROG FIRST. Panel 1, THE SWARM WANTS YOUR MORNING: the hyperagent at his dawn workstation as a swarm of translucent cyan-and-gold holographic notification constructs labeled INBOX, CHAT, REVIEW QUEUE, ALERTS tugs at him; a big green frog tagged THE HARD DECISION sits on the desk; banner SHARPEST HOUR OF THE DAY. Caption: 'The reactive swarm is easy to touch, and happy to take your morning.' Panel 2, HARDEST BITE FIRST: first-person helmet-visor POV looking down at the frog on a plate, gauntleted hands with fork and knife, the notification swarm held back behind a cyan HUD barrier, HUD stamp NOTHING ELSE UNTIL THE FROG IS EATEN. Caption: 'Hardest bite first. Before email, before chat, before the queue.' Panel 3, FROG EATEN. DAY COMPOUNDS.: the resolved hyperagent with a single gold spiral halo, an empty plate, the swarm now tiny under an afternoon clock, HYPERCONTEXT LOADED stamp. Caption: 'Peak cognition spent on the one task that needed it. The rest fills in easy.' Footer bar: HARDEST TASK GOES FIRST.](/img/comics/eat-the-frog-first.png)
+![Three-panel neo-comic action-zine on cream paper, navy supersuit with orange seams, crimson + cobalt + gold + cyan. Title bar: EAT THE FROG FIRST. Panel 1, THE SWARM WANTS YOUR MORNING: the hyperagent at his dawn workstation as a swarm of translucent cyan-and-gold holographic notification constructs labeled INBOX, CHAT, REVIEW QUEUE, ALERTS tugs at him; a big green frog tagged THE HARD DECISION sits on the desk; banner SHARPEST HOUR OF THE DAY. Caption: 'The reactive swarm is easy to touch, and happy to take your morning.' Panel 2, HARDEST BITE FIRST: first-person helmet-visor POV looking down at the frog on a plate, gauntleted hands with fork and knife, the notification swarm held back behind a cyan HUD barrier, HUD stamp NOTHING ELSE UNTIL THE FROG IS EATEN. Caption: 'Hardest bite first. Before email, before chat, before the queue.' Panel 3, FROG EATEN. DAY COMPOUNDS.: the resolved hyperagent with a single gold spiral halo, an empty plate, the swarm now tiny under an afternoon clock, HYPERCONTEXT LOADED stamp. Caption: 'Peak cognition spent on the one task that needed it. The rest fills in easy.' Footer bar: HARDEST TASK GOES FIRST.](/img/comics/eat-the-frog-first.webp)
 
 ---
 

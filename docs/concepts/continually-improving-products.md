@@ -2,14 +2,14 @@
 title: "Continually Improving Products"
 slug: /concepts/continually-improving-products
 description: "A product built so that using it makes it better: every interaction feeds an owned learning loop, a team of humans and agents turns the signal into shipped upgrades, and the customer can feel the cadence. Every show teaches the next show."
-image: "/img/comics/continually-improving-products.png"
+image: "/img/comics/continually-improving-products.webp"
 ---
 
 # Continually Improving Products
 
 *A product built so that using it makes it better: every interaction feeds an owned learning loop, a team of humans and agents turns the signal into shipped upgrades, and the customer can feel the cadence. The name is chosen carefully: continually names how often it improves, never who improves it.*
 
-![Three-panel warm editorial strip titled CONTINUALLY IMPROVING PRODUCTS. One, caption SHIPPED, THEN STRANDED: a proud maker sets a finished product box on a pedestal under glass while behind the pedestal the product's users mill about holding small unheard speech ribbons that dissolve into grey dust; the box never changes. Two, caption USE FEEDS THE LOOP: the same product now sits open on a workbench beside a glowing translucent amber laptop; users' warm ribbons stream into the laptop, where a small rounded commander in a gold cap sorts them into a rising spiral of upgrade cards, and a craftswoman lifts the top card with her own hands to work it into the product. Three, caption THE SEVENTH IS BETTER THAN THE FIRST: a shelf of seven versions of the product ascending left to right, each visibly finer and warmer than the last, with the loop of ribbons still flowing behind the seventh, and delighted users gathered close. Footer: EVERY VERSION TEACHES THE NEXT ONE.](/img/comics/continually-improving-products.png)
+![Three-panel warm editorial strip titled CONTINUALLY IMPROVING PRODUCTS. One, caption SHIPPED, THEN STRANDED: a proud maker sets a finished product box on a pedestal under glass while behind the pedestal the product's users mill about holding small unheard speech ribbons that dissolve into grey dust; the box never changes. Two, caption USE FEEDS THE LOOP: the same product now sits open on a workbench beside a glowing translucent amber laptop; users' warm ribbons stream into the laptop, where a small rounded commander in a gold cap sorts them into a rising spiral of upgrade cards, and a craftswoman lifts the top card with her own hands to work it into the product. Three, caption THE SEVENTH IS BETTER THAN THE FIRST: a shelf of seven versions of the product ascending left to right, each visibly finer and warmer than the last, with the loop of ribbons still flowing behind the seventh, and delighted users gathered close. Footer: EVERY VERSION TEACHES THE NEXT ONE.](/img/comics/continually-improving-products.webp)
 
 ---
 

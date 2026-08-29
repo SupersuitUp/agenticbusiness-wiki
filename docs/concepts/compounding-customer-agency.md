@@ -2,14 +2,14 @@
 title: "Compounding Customer Agency"
 slug: /concepts/compounding-customer-agency
 description: "The customer-side complement of compounding customer intelligence: real, growing influence over the organization's future for the people who care about it. Intelligence on the org side, agency on the customer side."
-image: "/img/comics/compounding-customer-agency.png"
+image: "/img/comics/compounding-customer-agency.webp"
 ---
 
 # Compounding Customer Agency
 
 *The customer-side complement of [compounding customer intelligence](/concepts/compounding-customer-intelligence): real, growing influence over the organization's decisions for the people who care about it most, earned contribution by contribution. Intelligence is what the org accumulates; agency is what the customer accumulates. The two compound each other, and some teams shorten the pair to CCI and CCA.*
 
-![Three-panel warm editorial strip titled COMPOUNDING CUSTOMER AGENCY. One, caption FEEDBACK INTO THE VOID: a devoted customer speaks earnestly into a rusted mailbox slot labeled FEEDBACK bolted to a towering blank corporate wall; her words drift down as grey paper scraps into a pile of older unread scraps at the base, her expression falling. Two, caption YOUR VOICE VISIBLY STEERS: in a warm community radio studio a listener speaks into his phone and his words travel as a warm amber ribbon into a glowing translucent amber laptop where a small rounded commander in a gold cap hands the ribbon up to the host at the mic, who reads it on air, while a program board behind her visibly changes one card; caption three, STANDING COMPOUNDS: the same listener now sits at the studio table among the team, sleeves rolled, helping arrange the next season's cards with the host, his earlier ribbon framed on the wall, new listeners' ribbons streaming into the laptop behind them. Footer: INTELLIGENCE ON THE ORG SIDE. AGENCY ON THE CUSTOMER SIDE.](/img/comics/compounding-customer-agency.png)
+![Three-panel warm editorial strip titled COMPOUNDING CUSTOMER AGENCY. One, caption FEEDBACK INTO THE VOID: a devoted customer speaks earnestly into a rusted mailbox slot labeled FEEDBACK bolted to a towering blank corporate wall; her words drift down as grey paper scraps into a pile of older unread scraps at the base, her expression falling. Two, caption YOUR VOICE VISIBLY STEERS: in a warm community radio studio a listener speaks into his phone and his words travel as a warm amber ribbon into a glowing translucent amber laptop where a small rounded commander in a gold cap hands the ribbon up to the host at the mic, who reads it on air, while a program board behind her visibly changes one card; caption three, STANDING COMPOUNDS: the same listener now sits at the studio table among the team, sleeves rolled, helping arrange the next season's cards with the host, his earlier ribbon framed on the wall, new listeners' ribbons streaming into the laptop behind them. Footer: INTELLIGENCE ON THE ORG SIDE. AGENCY ON THE CUSTOMER SIDE.](/img/comics/compounding-customer-agency.webp)
 
 ---
 

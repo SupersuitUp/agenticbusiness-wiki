@@ -2,14 +2,14 @@
 title: "Version Control the Work Product"
 slug: /principles/version-control-the-work-product
 description: "Put every document the business produces into a private repository, along with the reasoning that produced it. A commit log shows what changed. The reasoning is what makes the archive usable by an agent later."
-image: "/img/comics/version-control-the-work-product.png"
+image: "/img/comics/version-control-the-work-product.webp"
 ---
 
 # Version Control the Work Product
 
 *Put every document the business produces into a private repository, along with the reasoning that produced it. The commit log shows what changed; the reasoning is what turns the archive into something an agent can learn from.*
 
-![Three-panel warm editorial strip on cream paper. Title bar: VERSION CONTROL THE WORK PRODUCT. Panel one, captioned "THE FOLDER GOES COLD": a woman in her thirties with a short blonde bob and a burgundy turtleneck slides a thick finished document into a plain grey filing drawer, a faint chill settling over the dull metal, while the amber laptop sits closed on the desk. Panel two, captioned "COMMIT THE REASONING TOO": she has taken the document back out and lays it beside a small notebook where she writes her reasoning, and a warm amber thread ties the two together and travels into the now open glowing laptop where a rounded agent in a gold military cap waits. Panel three, captioned "YOUR OWN PRECEDENT, MINED": inside the glowing laptop the agent stands before a tall orderly wall of many such tied pairs, drawing threads out of them and weaving a single new clean sheet, which she holds in her hands outside the screen. Footer bar: A DIFF SHOWS WHAT CHANGED. WRITE DOWN WHY.](/img/comics/version-control-the-work-product.png)
+![Three-panel warm editorial strip on cream paper. Title bar: VERSION CONTROL THE WORK PRODUCT. Panel one, captioned "THE FOLDER GOES COLD": a woman in her thirties with a short blonde bob and a burgundy turtleneck slides a thick finished document into a plain grey filing drawer, a faint chill settling over the dull metal, while the amber laptop sits closed on the desk. Panel two, captioned "COMMIT THE REASONING TOO": she has taken the document back out and lays it beside a small notebook where she writes her reasoning, and a warm amber thread ties the two together and travels into the now open glowing laptop where a rounded agent in a gold military cap waits. Panel three, captioned "YOUR OWN PRECEDENT, MINED": inside the glowing laptop the agent stands before a tall orderly wall of many such tied pairs, drawing threads out of them and weaving a single new clean sheet, which she holds in her hands outside the screen. Footer bar: A DIFF SHOWS WHAT CHANGED. WRITE DOWN WHY.](/img/comics/version-control-the-work-product.webp)
 
 ---
 

@@ -2,14 +2,14 @@
 title: "Compounding Customer Intelligence"
 slug: /concepts/compounding-customer-intelligence
 description: "A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so understanding accumulates instead of evaporating. The alternative to burning marketing money on faith."
-image: "/img/comics/compounding-customer-intelligence.png"
+image: "/img/comics/compounding-customer-intelligence.webp"
 ---
 
 # Compounding Customer Intelligence
 
 *A shared, growing body of truth about the people you serve, fed by every interaction and queryable in plain language, so the organization's understanding of its customers accumulates instead of evaporating. Works the same whether the people are customers, listeners, members, or voters; some teams shorten it to CCI. Its customer-side complement is [compounding customer agency](/concepts/compounding-customer-agency): intelligence on the org side, agency on the customer side.*
 
-![Three-panel warm editorial strip titled COMPOUNDING CUSTOMER INTELLIGENCE. One, caption MONEY BURNED, NOTHING LEARNED: a marketer tosses banknotes into a bonfire shaped like a megaphone while a vast faceless crowd walks past in the background, none of them known, a puzzled analyst holding an empty clipboard. Two, caption EVERY INTERACTION FEEDS THE LAKE: under a wall sign reading COMMUNITY RADIO, a live host with box braids and headphones asks a question at the mic while varied listeners answer on their phones; their responses stream as warm ribbons into a glowing translucent amber laptop on the studio desk, where a small rounded commander in a gold cap files each ribbon into a growing archive of luminous drawers. Three, caption ASK IT ANYTHING: under a lit ON AIR sign, the station manager leans toward the same glowing laptop asking a plain question while the screen answers with a map of neighborhoods dotted with the small portraits of now-known listeners, a visiting sponsor watching from the door, impressed. Footer: STOP PAYING THE BRAND GODS. START COMPOUNDING WHAT YOUR PEOPLE TELL YOU.](/img/comics/compounding-customer-intelligence.png)
+![Three-panel warm editorial strip titled COMPOUNDING CUSTOMER INTELLIGENCE. One, caption MONEY BURNED, NOTHING LEARNED: a marketer tosses banknotes into a bonfire shaped like a megaphone while a vast faceless crowd walks past in the background, none of them known, a puzzled analyst holding an empty clipboard. Two, caption EVERY INTERACTION FEEDS THE LAKE: under a wall sign reading COMMUNITY RADIO, a live host with box braids and headphones asks a question at the mic while varied listeners answer on their phones; their responses stream as warm ribbons into a glowing translucent amber laptop on the studio desk, where a small rounded commander in a gold cap files each ribbon into a growing archive of luminous drawers. Three, caption ASK IT ANYTHING: under a lit ON AIR sign, the station manager leans toward the same glowing laptop asking a plain question while the screen answers with a map of neighborhoods dotted with the small portraits of now-known listeners, a visiting sponsor watching from the door, impressed. Footer: STOP PAYING THE BRAND GODS. START COMPOUNDING WHAT YOUR PEOPLE TELL YOU.](/img/comics/compounding-customer-intelligence.webp)
 
 ---
 

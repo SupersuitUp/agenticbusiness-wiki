@@ -2,14 +2,14 @@
 title: "It's Not Cold If They Liked Your Post"
 slug: /principles/not-cold-if-they-liked-your-post
 description: "Content converts 5 percent on its own. The other 95 percent saw it, warmed up, and never booked. Hyper-targeted warm outbound to that iceberg replaces cold outreach entirely."
-image: "/img/comics/not-cold-if-they-liked-your-post.png"
+image: "/img/comics/not-cold-if-they-liked-your-post.webp"
 ---
 
 # It's Not Cold If They Liked Your Post
 
 *Content converts about 5 percent of the people it warms. The other 95 percent saw you, trust you a little, and never booked. Outbound aimed at that iceberg is not cold outreach; it is harvesting.*
 
-![Three panels titled THE 95-5 ICEBERG. One: a founder at a warm desk faces the glowing amber laptop; inside its screen an iceberg sits in slate-blue water, a small bright tip above the waterline where a few tiny figures wave, and a vast dim mass below where many warm-lit figures float and watch. Caption: THE TIP BOOKS ITSELF. Two: the founder reaches toward the screen and small amber envelopes travel into it and drift below the waterline, each landing on an individual figure who looks up and half-raises a hand. Caption: MESSAGE THE WARM WATCHERS. Three: figures rise from below the waterline up through the surface, and warm amber lines connect each risen figure out of the screen to the open datebook under the founder's hand. Caption: THE ICEBERG SURFACES. Footer: CONTENT WARMS THE MANY. WARM OUTBOUND HARVESTS THEM.](/img/comics/not-cold-if-they-liked-your-post.png)
+![Three panels titled THE 95-5 ICEBERG. One: a founder at a warm desk faces the glowing amber laptop; inside its screen an iceberg sits in slate-blue water, a small bright tip above the waterline where a few tiny figures wave, and a vast dim mass below where many warm-lit figures float and watch. Caption: THE TIP BOOKS ITSELF. Two: the founder reaches toward the screen and small amber envelopes travel into it and drift below the waterline, each landing on an individual figure who looks up and half-raises a hand. Caption: MESSAGE THE WARM WATCHERS. Three: figures rise from below the waterline up through the surface, and warm amber lines connect each risen figure out of the screen to the open datebook under the founder's hand. Caption: THE ICEBERG SURFACES. Footer: CONTENT WARMS THE MANY. WARM OUTBOUND HARVESTS THEM.](/img/comics/not-cold-if-they-liked-your-post.webp)
 
 ---
 

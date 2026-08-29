@@ -2,14 +2,14 @@
 title: "Get Pathologically Close to the Customer"
 slug: /principles/pathologically-close-to-the-customer
 description: "Treat the market like a fogged Battleship board. Hundreds of customer conversations burn the fog off and manufacture ten years of intuition in months. Most founders stop at twenty."
-image: "/img/comics/pathologically-close-to-the-customer.png"
+image: "/img/comics/pathologically-close-to-the-customer.webp"
 ---
 
 # Get Pathologically Close to the Customer
 
 *The market is a fogged Battleship board. Every customer conversation clears one square. Hundreds of conversations manufacture ten years of intuition in a couple of months, and almost nobody has the stomach to run that many.*
 
-![Three panels. One: a founder at her desk faces a glowing amber laptop whose screen shows a Battleship-style grid almost entirely covered in fog, one hesitant fingertip reaching toward a lone cleared square marked with an X; caption reads THE BOARD STARTS FOGGED. Two: the same founder mid-call in a phone headset, a sheet dense with tally marks pinned to the wall and an open donut box on the desk, while the fog on the screen has receded from half the grid and most cleared squares carry small X misses; caption reads EVERY CALL CLEARS A SQUARE. Three: the grid is nearly all clear, X misses everywhere except one square glowing warm amber and unmarked, her hand hovering over it with calm certainty; caption reads THE FOG BURNS OFF. Footer reads MOST SHOTS MISS. EVERY MISS CLEARS THE MAP.](/img/comics/pathologically-close-to-the-customer.png)
+![Three panels. One: a founder at her desk faces a glowing amber laptop whose screen shows a Battleship-style grid almost entirely covered in fog, one hesitant fingertip reaching toward a lone cleared square marked with an X; caption reads THE BOARD STARTS FOGGED. Two: the same founder mid-call in a phone headset, a sheet dense with tally marks pinned to the wall and an open donut box on the desk, while the fog on the screen has receded from half the grid and most cleared squares carry small X misses; caption reads EVERY CALL CLEARS A SQUARE. Three: the grid is nearly all clear, X misses everywhere except one square glowing warm amber and unmarked, her hand hovering over it with calm certainty; caption reads THE FOG BURNS OFF. Footer reads MOST SHOTS MISS. EVERY MISS CLEARS THE MAP.](/img/comics/pathologically-close-to-the-customer.webp)
 
 ---
 

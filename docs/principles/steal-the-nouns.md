@@ -2,14 +2,14 @@
 title: "Steal the Nouns"
 slug: /principles/steal-the-nouns
 description: "Most of your domain model is generic and already published as a free standard. Adopt those types as-is, and spend every remaining hour of modeling effort on the part no standard will ever cover."
-image: "/img/comics/steal-the-nouns.png"
+image: "/img/comics/steal-the-nouns.webp"
 ---
 
 # Steal the Nouns
 
 *Most of your domain model is generic and was standardized years ago by someone else. Adopt those types as-is, extend where your business is genuinely different, and spend every remaining hour on the part no standard will ever cover.*
 
-![A warm editorial plate on a wooden workbench. A glowing translucent amber laptop sits open on the left; inside its screen the Chief of Agents, a small rounded figure in a gold peaked cap, lifts a ready-made shape down from a tall shelf of identical stock bowls, blocks, and discs, with a neat stack of the same shapes already gathered at his feet. Outside the laptop, in the real world on the right, a pair of ordinary human hands leans in with a fine engraving tool and cuts notches into one small irregular hand-carved piece unlike anything on the shelf, wood shavings scattered across the bench. No text anywhere in the image.](/img/comics/steal-the-nouns.png)
+![A warm editorial plate on a wooden workbench. A glowing translucent amber laptop sits open on the left; inside its screen the Chief of Agents, a small rounded figure in a gold peaked cap, lifts a ready-made shape down from a tall shelf of identical stock bowls, blocks, and discs, with a neat stack of the same shapes already gathered at his feet. Outside the laptop, in the real world on the right, a pair of ordinary human hands leans in with a fine engraving tool and cuts notches into one small irregular hand-carved piece unlike anything on the shelf, wood shavings scattered across the bench. No text anywhere in the image.](/img/comics/steal-the-nouns.webp)
 
 ---
 

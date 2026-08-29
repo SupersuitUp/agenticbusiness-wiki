@@ -2,14 +2,14 @@
 title: "Action Produces Information"
 slug: /principles/action-produces-information
 description: "It is very difficult to actually get stuck. The action space is always larger than it appears. When a company stalls, inject action: doing things generates the information that thinking cannot."
-image: "/img/comics/action-produces-information.png"
+image: "/img/comics/action-produces-information.webp"
 ---
 
 # Action Produces Information
 
 *It is very difficult to actually get stuck: the action space is always larger than it appears. When the company stalls, inject action, because doing things generates information that more thinking never will.*
 
-![Three panels. One: a team sits frozen around a table of wordless charts, a glowing amber laptop idle on the table with tiny agents waiting inside its screen, while a ball outside the window glides along a single fixed dotted arc. Two: a founder stands and pushes a rough brown-paper parcel into the laptop screen, the agents inside spring into motion, and the ball's arc outside bends at a sharp elbow toward a new direction. Three: warm amber lines stream out of the laptop across the table, the bent arc outside branches into several new dotted paths, and the team is up out of their chairs following one of the new routes.](/img/comics/action-produces-information.png)
+![Three panels. One: a team sits frozen around a table of wordless charts, a glowing amber laptop idle on the table with tiny agents waiting inside its screen, while a ball outside the window glides along a single fixed dotted arc. Two: a founder stands and pushes a rough brown-paper parcel into the laptop screen, the agents inside spring into motion, and the ball's arc outside bends at a sharp elbow toward a new direction. Three: warm amber lines stream out of the laptop across the table, the bent arc outside branches into several new dotted paths, and the team is up out of their chairs following one of the new routes.](/img/comics/action-produces-information.webp)
 
 ---
 

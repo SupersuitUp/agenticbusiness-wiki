@@ -2,14 +2,14 @@
 title: "The Firm Super Suit"
 slug: /concepts/the-firm-super-suit
 description: "The company's judgment encoded as a system its people plug into and drive. It appreciates every time the owner corrects it, it transfers when the business sells, and an employee can use it without being able to take it."
-image: "/img/comics/the-firm-super-suit.png"
+image: "/img/comics/the-firm-super-suit.webp"
 ---
 
 # The Firm Super Suit
 
 *The company's judgment encoded as a system its people plug into and drive. It appreciates every time the owner corrects it, it transfers when the business sells, and an employee can use it without being able to take it.*
 
-![Three-panel warm editorial strip on cream paper. Title bar: THE FIRM SUPER SUIT. Panel one, captioned "THE JUDGMENT LIVES IN ONE HEAD": a founder in his fifties in a navy sweater sits alone at the desk holding a small dense knot of warm amber light close to his chest, and the glowing amber laptop is closed. Panel two, captioned "THE TEAM DRIVES IT": the knot has become a bound volume on the desk feeding a clean amber line into the now open laptop, a younger colleague in a mustard cardigan works at it with both hands while a rounded agent in a gold military cap and two smaller agents build steadily from the volume, and the founder stands behind her with arms folded, watching. Panel three, captioned "THEY LEAVE. IT STAYS.": she walks out of frame carrying only her coat and bag, the volume and the laptop and the working agents are exactly as they were, and a new person is already sitting down at the same desk. Footer bar: PAYROLL DEPRECIATES. THE CORPUS APPRECIATES.](/img/comics/the-firm-super-suit.png)
+![Three-panel warm editorial strip on cream paper. Title bar: THE FIRM SUPER SUIT. Panel one, captioned "THE JUDGMENT LIVES IN ONE HEAD": a founder in his fifties in a navy sweater sits alone at the desk holding a small dense knot of warm amber light close to his chest, and the glowing amber laptop is closed. Panel two, captioned "THE TEAM DRIVES IT": the knot has become a bound volume on the desk feeding a clean amber line into the now open laptop, a younger colleague in a mustard cardigan works at it with both hands while a rounded agent in a gold military cap and two smaller agents build steadily from the volume, and the founder stands behind her with arms folded, watching. Panel three, captioned "THEY LEAVE. IT STAYS.": she walks out of frame carrying only her coat and bag, the volume and the laptop and the working agents are exactly as they were, and a new person is already sitting down at the same desk. Footer bar: PAYROLL DEPRECIATES. THE CORPUS APPRECIATES.](/img/comics/the-firm-super-suit.webp)
 
 ---
 
