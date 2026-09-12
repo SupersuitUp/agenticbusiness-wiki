@@ -71,6 +71,10 @@ The backing thesis has three moves.
 
 The canonical case to study, when it surfaces, is Black women in cultural production: a disproportionate share of load-bearing culture (music, dance, fashion, language, hospitality, taste) carried by anointed operators the dominant capital pool historically could not price. The pattern generalizes. Anointed operators across every demographic carry gifts the market structurally misprices. The agentic-business backer's job is to learn to see all of them.
 
+## The artist instance
+
+The smallest real case of the pairing is an artist. The Unicorn is the artist, whose gift is the product and who does nothing but make it. The clockwork layer collapses to one person: a manager who is a serious entertainment dealmaker and an athlete at applied AI, running the eight jobs that used to sit between the artist and the world as agents on a Freedom-class system. What the artist keeps is a veto over every recommendation, and a written file of values the system reads before it acts. The full treatment, including what has to be true for two seats to be enough, is [The Two-Seat Artist Team](https://agenticart.wiki/concepts/the-two-seat-artist-team) on agenticart.wiki.
+
 ## Why this matters now
 
 For most of capital's history, the cost of building the scaling layer around an anointed operator was prohibitive. Specialist hires, expensive enterprise tooling, and slow operational ramps meant that a Unicorn either had to be an institutional figure already (with the capital pool that recognized them) or operate at a fraction of their gift's range.
@@ -84,3 +88,4 @@ Applied AI changes the math. A small backer can now provide an Imago Dei Unicorn
 - [Clockworkers](/concepts/clockworkers): the specialized scaling layer that pairs with the Unicorn.
 - [What is an Agentic Business](/start-here/what-is-an-agentic-business): the operational substrate that lets a small team support a Unicorn at scale.
 - [Creative Infrastructure](/concepts/creative-infrastructure): the Lucas Pattern. The kind of business a Unicorn often ends up building because their vision required it.
+- [The Two-Seat Artist Team](https://agenticart.wiki/concepts/the-two-seat-artist-team): the pairing at its smallest, an artist and one applied-AI-athlete manager.
