@@ -1,0 +1,268 @@
+{
+  "provider": "gpt-image-2.5-sunburst",
+  "model": "gpt-image-2.5-sunburst",
+  "modelSource": "adapter-default",
+  "prompt": "A THREE-PANEL horizontal strip, three equal panels in one row separated by clean cream gutters with no drawn borders or frame lines, each panel one beat of the same story, read left to right. ONE consistent world, ONE consistent cast, ONE consistent glowing translucent amber laptop across every panel.\n\nTHE OPERATOR: a woman in her thirties, Black, short natural hair, wearing a plain olive crewneck sweater and dark trousers. The same woman appears in all three panels and must be recognizably the same person in each. ABSOLUTELY NOT: a denim jacket, a jean jacket, any chest patch, any smiley-face badge, any enamel pin, any embroidered emblem, a white tee under an open jacket. No recurring branded character and no identifiable real individual.\n\nTHE SETTING: a small warm workshop office with a wooden desk, a window with soft daylight, a shelf, a potted plant. The glowing translucent amber laptop sits open on the desk. PHYSICS, every panel: the camera is behind the operator's right shoulder; the laptop is on the far side of the operator from the camera, its screen facing the operator and therefore facing us, so we see the screen and the back of her head and shoulder. The wrong version is the operator behind the laptop with its lid toward the camera. There are no signs, posters or lettering anywhere in the room; the shelf holds unlabeled books and objects.\n\nTHE CARDS: exactly THREE index cards, each carrying one word, ONBOARD, INVOICE, SHIP. These three cards appear in every panel, always exactly three, never more.\n\nBEAT ONE: the woman sits at the desk doing the work by hand: the three index cards ONBOARD, INVOICE, SHIP are pinned to a corkboard on the wall beside her, and she is bent over paper with a pen, tired. Inside the glowing laptop screen the Chief of Agents (the rounded figure in the gold military cap) stands idle with empty hands, waiting, no sub-agents around him. Caption under this panel: THE VERBS LIVE IN HER HEAD.\n\nBEAT TWO: the consequence. The corkboard is now empty. Inside the glowing laptop screen the Chief of Agents holds a small open wooden crate labeled PLUGIN, and the same three index cards ONBOARD, INVOICE, SHIP are slotted upright inside the crate; three small sub-agents beside him are each carrying out one card's work. Outside the laptop, the woman leans back with a mug of tea, watching the screen, relaxed, hands off the keyboard. Caption under this panel: THE VERBS LIVE IN THE PLUGIN.\n\nBEAT THREE: the handoff. A second person now sits in the operator's chair at the same desk: a man in his fifties, East Asian, grey hair, wearing a plain grey cardigan over a collared shirt, camera still behind his right shoulder, the screen facing him and us. The woman stands beside the desk, one hand resting on the back of the chair, smiling, handing the business over. Inside the glowing laptop screen the Chief of Agents still holds the same crate labeled PLUGIN with the same three cards ONBOARD, INVOICE, SHIP inside, and the sub-agents are still working, unchanged. Caption under this panel: THE PLUGIN STAYS WITH THE BUSINESS.\n\nTEXT FURNITURE, character-exact, in the cream margin and never over the artwork: a title bar above the panels reading THE BUSINESS PLUGIN. Under each panel, in the cream gutter, its caption exactly as declared above. A footer bar below the panels reading PACKAGE THE VERBS. THE BUSINESS KEEPS THEM. In-scene lettering is ONLY the three card words ONBOARD, INVOICE, SHIP and the crate label PLUGIN. No other text, letters or numbers anywhere.\n\nPUNCTUATION, exact: the title bar reads THE BUSINESS PLUGIN with NO period after it. Each caption ends with NO period: THE VERBS LIVE IN HER HEAD and THE VERBS LIVE IN THE PLUGIN and THE PLUGIN STAYS WITH THE BUSINESS, none of them followed by a full stop. The only full stops in the whole image are the two inside the footer bar PACKAGE THE VERBS. THE BUSINESS KEEPS THEM.\n\nwarm editorial illustration, soft painterly line and gentle shading, muted natural palette on a warm cream ground, grounded and human, picture-book register for adults\n\nDo NOT render it in any of these styles: comic-book, cartoon mascot, flat vector, neon, 3D/CGI/Pixar, photoreal, anime, any identifiable recurring individual's face or signature clothing.\n\nThese are LOCKED canonical traits of the subject(s). They are not stylistic suggestions and must survive the render exactly: clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet; the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen; glow-colour-is-the-colour-of-the-agent-supercharging-it; screen-FACE-is-visible-to-the-viewer; never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time; casts-light-not-shadow; warm-editorial-register; it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open; the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it; it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more; the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide; small-blocky-clay-coral-orange-mascot; translucent-holographic-digital-being; grand-ornate-gold-admiral-hat; gold-epaulettes; warm-rounded-dot-eyes-with-tiny-catchlights; two-stubby-legs; short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars; never-LIVES-in-the-real-world-soft-crossing-allowed-only-at-delivery-leaning-through-the-screen-body-mostly-inside; never-over-anthropomorphized; never-does-task-work-only-listens-commands-delivers; warm-editorial-register-not-comic; holographic-white-sailor-cap-white-suffused-with-orange-glow; no-gold-anywhere; does-the-hands-on-task-work; carries-work-as-PAPERS-stack-or-messy-fan-or-blueprint-roll-interchangeably-NEVER-a-box-or-parcel; finished-work-always-flows-TO-the-chief-never-directly-to-the-human-or-her-laptop; NEVER-crosses-into-the-real-world-stays-inside-the-digital-space-behind-the-screen; never-the-ONLY-agent-in-a-scene-a-lone-agent-is-always-the-chief; when-shown-mid-journey-a-thin-dotted-glowing-tether-arcs-from-the-sub-agent-to-the-chief.\n\nColour is meaning: orange means Claude Code / the Chief of Agents is running on it; sage-green means Grantwell is; deep indigo means Storywell is. Never mix two agent colours on one machine. The ordinary, un-supercharged laptop stays a plain grey object; the glow is what marks the turn.\n\nIdentity of record is reference/chief-of-agents/master.png. Derive EVERY new pose from it (pass master as the FIRST input image), one pose per render; NEVER a multi-pose sheet in a single generation (that drifts the body composition). Keep it a SMALL blocky mascot: clay-coral Anthropic orange (~#D97757), two dot-eyes, two stubby legs, a grand ornate GOLD admiral hat + gold epaulettes (this is what makes it the Chief; sub-agents wear plain white sailor caps, no gold). It is a DIGITAL being: translucent, holographic, glowing, casts LIGHT not shadow, lives inside the computer / the agentverse. Do NOT over-anthropomorphize \u2014 no big arms, no human proportions (that was the rejected creepy variant). It never does task work; it only listens, commands, and delivers. CROSSING LAW (Gary 2026-07-16, clarified same day): the Chief never LIVES in the real world; it never stands on a real desk, sits in a real chair, or walks a real room as a free-standing body. The one permitted SOFT CROSSING is delivery: leaning through the screen plane, body mostly inside, to hand an artifact to the human or receive one; artifacts themselves may pass through the glass. Delivery may equally be drawn as work materializing on the screen. emerging.png and delivering.png depict the soft-crossing grammar and remain canon references. LONE-AGENT LAW (Gary 2026-07-16): when a scene shows exactly ONE agent, it is the Chief.\n\nIdentity of record is reference/sub-agent/master.png, derived from the Chief of Agents v2 master (warm catchlight eyes, short rounded MITTEN nub arms) so the family body is identical. Derive EVERY new pose from the sub-agent master (pass it as the FIRST input image), one pose per render; sheets are composited from locked pose files with an image tool, never generated. States locked: idle (at the ready), working (heads-down at a centered, correctly-proportioned holographic laptop, mitten stubs on the keys), and THREE interchangeable carrying variants (Gary 2026-07-16: keep all, rotate freely): carrying-stack (neat squared pile of glowing papers), carrying-messy (fanned armful, one sheet fluttering loose), carrying-roll (one large blueprint-style rolled bundle). The work it carries is always PAPERS, never a box, parcel, or envelope. DELIVERY DIRECTION (Gary 2026-07-16): finished work always flows UP to the Chief of Agents, never directly to the human or her laptop; only the Chief delivers to the human, and only as work materializing on the screen. Three locked en-route variants (en-route-to-chief-a/b/c, all approved, rotate freely) show the sub-agent mid-stride carrying its papers toward the waiting Chief with a thin DOTTED glowing tether arcing between them; use that dotted-tether grammar whenever a scene shows work in transit. The moment of transfer is locked as handoff-to-chief.png (Gary picked it 2026-07-16): a three-quarter view, the sub-agent tipping its fanned papers forward off its short mitten stubs while the Chief catches the fan with both short mitten stubs, both arms staying stubby, the Chief only very slightly taller. The cap is mostly white but HOLOGRAPHIC: translucent glowing white suffused with warm orange light and a faint grid, part of the same digital being, never solid real-world cloth. Keep it a DIGITAL being: translucent, holographic, glowing, casts light not shadow. The moment any gold appears it has become the Chief; that is the defect to guard against. CROSSING LAW (Gary 2026-07-16): the sub-agent never crosses into the real world at all, not even the soft delivery crossing the Chief is allowed; it never stands on a real desk or appears in the room. It exists only inside the glowing digital space. LONE-AGENT LAW (Gary 2026-07-16): a sub-agent never appears as the only agent in a scene; if a scene shows exactly ONE agent, that agent is the Chief of Agents. Sub-agents appear only in the Chief's command structure.\n\nDEVICE ANATOMY, NON-NEGOTIABLE: any phone, laptop, tablet or monitor is anatomically correct. The GLOWING DISPLAY is on the SCREEN side, and that side FACES ITS USER. A person looking at a device sees its screen; the viewer therefore sees the device's BACK or EDGE plus the light it throws onto the user's face and hands. NEVER put the screen image on the back of a phone, on a laptop's outer lid, or on a monitor's rear. NEVER show a screen facing the camera while the person using it looks at the opposite side. If both the user's face and the screen content must be visible, shoot it over the user's shoulder.\n\nREADABLE SURFACES ARE ORIENTED FOR THEIR READER, NEVER FOR THE CAMERA. Any book, page, letter, card, note, ledger, document, sign or map that a character is reading, writing on or holding belongs to THAT PERSON, so it is oriented to THEM: its TOP EDGE points AWAY from them and its lines run the direction they read. From wherever the camera happens to stand, it is therefore foreshortened, tilted, or partly upside down. NEVER rotate a surface flat and square to the lens so the viewer can read it comfortably. That is the single most common failure on this rule and it reads as staged the instant anyone notices it. IF THE SCENE SPECIFIES EXACT TEXT THAT MUST BE LEGIBLE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THE PAGE: move the camera round to the reader's OWN side, over their shoulder or beside their head and looking down as they look down, so the writing is legible AND still correctly oriented for them. Legibility and correct orientation are never in conflict; a page squared up to the lens means the camera was put in the wrong place. Handwriting the scene does NOT specify is abstract handwriting-like line work with no real readable letters. Text the scene DOES specify as an exact quoted string is designed lettering and must be spelled exactly as quoted.\n\nANYONE RIDING IN A MOVING VEHICLE FACES THE DIRECTION OF TRAVEL. A seat in a car, truck, cart, carriage, boat, sled, or a motorcycle SIDECAR is FIXED and points forward, so every occupant's torso is square to the way the vehicle is going. A passenger may TURN THEIR HEAD to speak to whoever is beside them; the body does not swivel, and nobody rides facing backward. IF THE SCENE NEEDS A RIDER'S FACE, SOLVE IT WITH THE CAMERA AND NEVER BY TURNING THEM ROUND: put the camera AHEAD of the vehicle looking BACK at it, so the rider faces the lens AND faces forward at the same time. The ground they are travelling toward is then behind the camera, and what is visible receding behind THEM is the country they have already passed. A rider whose face is square to the camera while the road recedes into the distance behind them is physically impossible: that composition puts the camera in front of them and the road ahead of them at the same time. Drivers keep both hands on the wheel or the bars and their eyes on the road.\n\nTWO-HANDER STAGING, NON-NEGOTIABLE: two people at one table are NEVER staged as two equal whole figures at the same distance, flat and side-on to the lens. That is a line-up, not a camera position. ONE OF THEM IS NEAR AND ONE IS FAR. The NEAR figure sits at the OUTER EDGE of their seat closest to the camera, is LARGE in the frame, is CROPPED by the frame edge, is softly OUT OF FOCUS, and is very often seen FROM BEHIND; their lap, legs and feet fall outside the picture and are not drawn. The FAR figure is the SHARP SUBJECT, seen from the waist up. AND THE TORSO FOLLOWS THE HEAD: each person is turned toward the other, so a near figure whose HEAD is turned across the table has their CHEST turned across the table too, away from the lens. The camera behind them therefore sees the BACK AND OUTER SIDE of one shoulder, the back of the head, and at most a sliver of cheek; that person's CHEST AND SHIRT FRONT ARE NOT IN FRAME. NEVER rotate a head ninety degrees on a chest that is still square to the camera. No relaxed person holds that posture and it reads as wrong instantly.\n\nSEATED ANATOMY AT A TABLE, NON-NEGOTIABLE: a seated person is a WHOLE BODY resting ON a seat, and the table passes IN FRONT OF them, never THROUGH them. Their SHOULDERS AND CHEST are ABOVE the tabletop, their WAIST, LAP AND THIGHS are BELOW it and IN FRONT of the seat, and the trunk continues DOWN BEHIND the near edge of the table to that seat. There is a VISIBLE GAP between the front edge of the table and the person's chest and stomach. NEVER paint a torso emerging directly out of a tabletop with no waist, no lap and no seat beneath it. NEVER let the table's edge, apron or slab cut across a body as though the body were part of the furniture, and never let a thigh, hip or knee merge into the table. If the camera cannot see the seat itself, the body must still read as supported by one. Every seated figure has somewhere to sit and that seat is under them.\n\nNO USER INTERFACE ANYWHERE: no windows, menu bars, buttons, icons, toolbars, panels, form fields, cursors, floating rectangles or screenshot-like elements. Screens carry only soft glow or vague painterly shapes.",
+  "specVersion": "0.6",
+  "refs": [
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/green.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/orange.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/supercharged-laptop/scale.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/commanding.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/delivering.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/emerging.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/listening.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/master.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/chief-of-agents/sheet.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/carrying-messy.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/carrying-roll.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/carrying-stack.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/en-route-to-chief-a.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/en-route-to-chief-b.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/en-route-to-chief-c.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/handoff-to-chief.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/idle.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/master.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/sheet.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/sub-agent/working.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/warm-editorial-swatch.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-land.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-feast.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-make.png"
+    },
+    {
+      "path": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled/refs/ref-object.png"
+    }
+  ],
+  "timestamp": "2026-09-13T23:42:46.071923+00:00",
+  "sha256": "c325a8c70e664c79e3e5b2e3856e5f5025addf0bcfe74f5739644f65ba979242",
+  "entities": [
+    {
+      "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+      "id": "supercharged-laptop",
+      "look": null,
+      "photoStackDeclared": [],
+      "photoStackPassed": [],
+      "sheets": {
+        "green": "reference/supercharged-laptop/green.png",
+        "orange": "reference/supercharged-laptop/orange.png",
+        "scale": "reference/supercharged-laptop/scale.png"
+      },
+      "invariants": [
+        "clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
+        "the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
+        "glow-colour-is-the-colour-of-the-agent-supercharging-it",
+        "screen-FACE-is-visible-to-the-viewer",
+        "never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
+        "casts-light-not-shadow",
+        "warm-editorial-register",
+        "it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
+        "the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
+        "it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
+        "the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide"
+      ]
+    },
+    {
+      "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+      "id": "chief-of-agents",
+      "look": null,
+      "photoStackDeclared": [],
+      "photoStackPassed": [],
+      "sheets": {
+        "commanding": "reference/chief-of-agents/commanding.png",
+        "delivering": "reference/chief-of-agents/delivering.png",
+        "emerging": "reference/chief-of-agents/emerging.png",
+        "listening": "reference/chief-of-agents/listening.png",
+        "master": "reference/chief-of-agents/master.png",
+        "sheet": "reference/chief-of-agents/sheet.png"
+      },
+      "invariants": [
+        "small-blocky-clay-coral-orange-mascot",
+        "translucent-holographic-digital-being",
+        "casts-light-not-shadow",
+        "grand-ornate-gold-admiral-hat",
+        "gold-epaulettes",
+        "warm-rounded-dot-eyes-with-tiny-catchlights",
+        "two-stubby-legs",
+        "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+        "never-LIVES-in-the-real-world-soft-crossing-allowed-only-at-delivery-leaning-through-the-screen-body-mostly-inside",
+        "never-over-anthropomorphized",
+        "never-does-task-work-only-listens-commands-delivers",
+        "warm-editorial-register-not-comic"
+      ]
+    },
+    {
+      "universe": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe",
+      "id": "sub-agent",
+      "look": null,
+      "photoStackDeclared": [],
+      "photoStackPassed": [],
+      "sheets": {
+        "carrying-messy": "reference/sub-agent/carrying-messy.png",
+        "carrying-roll": "reference/sub-agent/carrying-roll.png",
+        "carrying-stack": "reference/sub-agent/carrying-stack.png",
+        "en-route-a": "reference/sub-agent/en-route-to-chief-a.png",
+        "en-route-b": "reference/sub-agent/en-route-to-chief-b.png",
+        "en-route-c": "reference/sub-agent/en-route-to-chief-c.png",
+        "handoff-to-chief": "reference/sub-agent/handoff-to-chief.png",
+        "idle": "reference/sub-agent/idle.png",
+        "master": "reference/sub-agent/master.png",
+        "sheet": "reference/sub-agent/sheet.png",
+        "working": "reference/sub-agent/working.png"
+      },
+      "invariants": [
+        "small-blocky-clay-coral-orange-mascot",
+        "translucent-holographic-digital-being",
+        "casts-light-not-shadow",
+        "holographic-white-sailor-cap-white-suffused-with-orange-glow",
+        "no-gold-anywhere",
+        "warm-rounded-dot-eyes-with-tiny-catchlights",
+        "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+        "two-stubby-legs",
+        "does-the-hands-on-task-work",
+        "carries-work-as-PAPERS-stack-or-messy-fan-or-blueprint-roll-interchangeably-NEVER-a-box-or-parcel",
+        "finished-work-always-flows-TO-the-chief-never-directly-to-the-human-or-her-laptop",
+        "NEVER-crosses-into-the-real-world-stays-inside-the-digital-space-behind-the-screen",
+        "never-the-ONLY-agent-in-a-scene-a-lone-agent-is-always-the-chief",
+        "when-shown-mid-journey-a-thin-dotted-glowing-tether-arcs-from-the-sub-agent-to-the-chief",
+        "warm-editorial-register-not-comic"
+      ]
+    }
+  ],
+  "entityGate": [
+    {
+      "id": "supercharged-laptop",
+      "look": null,
+      "invariants": [
+        "clamshell-laptop-form-with-a-visible-physical-keyboard-NEVER-a-tablet",
+        "the-WHOLE-laptop-glows-as-a-translucent-holographic-object-not-just-the-screen",
+        "glow-colour-is-the-colour-of-the-agent-supercharging-it",
+        "screen-FACE-is-visible-to-the-viewer",
+        "never-show-the-back-of-the-lid-and-the-screen-face-at-the-same-time",
+        "casts-light-not-shadow",
+        "warm-editorial-register",
+        "it-is-a-14-INCH-NOTEBOOK-33cm-wide-23cm-deep-21cm-of-screen-when-open",
+        "the-open-screen-is-about-TWO-AND-A-QUARTER-TIMES-the-height-of-a-mug-beside-it",
+        "it-occupies-about-ONE-QUARTER-of-the-width-of-a-120cm-desk-NEVER-half-NEVER-more",
+        "the-lid-is-about-ONE-AND-THREE-QUARTER-SPREAD-HANDS-wide"
+      ]
+    },
+    {
+      "id": "chief-of-agents",
+      "look": null,
+      "invariants": [
+        "small-blocky-clay-coral-orange-mascot",
+        "translucent-holographic-digital-being",
+        "casts-light-not-shadow",
+        "grand-ornate-gold-admiral-hat",
+        "gold-epaulettes",
+        "warm-rounded-dot-eyes-with-tiny-catchlights",
+        "two-stubby-legs",
+        "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+        "never-LIVES-in-the-real-world-soft-crossing-allowed-only-at-delivery-leaning-through-the-screen-body-mostly-inside",
+        "never-over-anthropomorphized",
+        "never-does-task-work-only-listens-commands-delivers",
+        "warm-editorial-register-not-comic"
+      ]
+    },
+    {
+      "id": "sub-agent",
+      "look": null,
+      "invariants": [
+        "small-blocky-clay-coral-orange-mascot",
+        "translucent-holographic-digital-being",
+        "casts-light-not-shadow",
+        "holographic-white-sailor-cap-white-suffused-with-orange-glow",
+        "no-gold-anywhere",
+        "warm-rounded-dot-eyes-with-tiny-catchlights",
+        "short-stubby-nub-arms-end-in-rounded-MITTEN-stubs-NEVER-fingers-hands-tubes-or-bars",
+        "two-stubby-legs",
+        "does-the-hands-on-task-work",
+        "carries-work-as-PAPERS-stack-or-messy-fan-or-blueprint-roll-interchangeably-NEVER-a-box-or-parcel",
+        "finished-work-always-flows-TO-the-chief-never-directly-to-the-human-or-her-laptop",
+        "NEVER-crosses-into-the-real-world-stays-inside-the-digital-space-behind-the-screen",
+        "never-the-ONLY-agent-in-a-scene-a-lone-agent-is-always-the-chief",
+        "when-shown-mid-journey-a-thin-dotted-glowing-tether-arcs-from-the-sub-agent-to-the-chief",
+        "warm-editorial-register-not-comic"
+      ]
+    }
+  ],
+  "stylePack": "/Users/garysheng/Documents/github-repos/hyperagentic-age/universe/reference/style/warm-editorial-titled",
+  "size": "1536x1024",
+  "quality": "high",
+  "guards": [
+    "device-anatomy",
+    "readable-surface",
+    "vehicle-seat-facing",
+    "two-hander-staging",
+    "seated-at-table",
+    "no-ui-chrome"
+  ],
+  "guardGate": [
+    "DEVICE FACING: for EVERY phone, laptop, tablet or monitor in frame, crop-zoom the device together with the person using it. The glowing display is on the side that faces its user. If the viewer can see the screen's content AND the user is on the far side of the device (the device sits between the camera and the user's face), the screen is on the wrong side of the device: DEFECT. A visible screen passes only when the shot is over the user's shoulder, or when nobody in frame is using the device.",
+    "READABLE SURFACE: every page, card, sign, letter or other writing surface is oriented for the person reading it in the scene, not rotated flat to the lens. A surface whose reader is looking at it from the wrong side, or whose writing faces the camera while its reader faces away: DEFECT.",
+    "VEHICLE SEAT FACING: every rider or passenger in a moving vehicle faces the direction of travel unless the scene says otherwise. A rider facing backward in a forward-moving vehicle: DEFECT.",
+    "TWO-HANDER STAGING: two people at one table are staged near and far, never as two equal whole figures side-on at the same distance, and the near figure's chest is turned with their head. Two figures in a flat line-up, or a head turned ninety degrees on a chest square to the camera: DEFECT.",
+    "SEATED ANATOMY: every seated figure has a waist, a lap and a seat under them, with the table in front of the body. A torso emerging from the tabletop with nothing beneath it: DEFECT.",
+    "NO UI CHROME: no screen or surface carries invented interface furniture, menus, buttons, status bars or lettering the caller did not declare. Any such chrome: DEFECT."
+  ],
+  "asset": "static/img/comics/the-business-plugin.webp",
+  "transforms": [
+    {
+      "tool": "scripts/optimize-images.py",
+      "op": "webp",
+      "quality": 80,
+      "maxWidth": 1536,
+      "from": "static/img/comics/the-business-plugin.png",
+      "fromSha256": "c325a8c70e664c79e3e5b2e3856e5f5025addf0bcfe74f5739644f65ba979242",
+      "at": "2026-09-13T23:43:41.851802+00:00"
+    }
+  ]
+}
