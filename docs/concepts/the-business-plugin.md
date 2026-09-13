@@ -37,6 +37,12 @@ A verb that lives only in the owner's head is not a verb the business has. Each 
 
 Then the loop. A verb that ran wrong, ran twice, or needed a hand-fix is a verb telling you what it is missing, at the only moment anyone knows what that is. The rule inside a business plugin is that the improvement gets filed into the skill on the first occurrence, in the same session, because the second occurrence is a different day and a different agent who does not know there was a first. The verbs improve on every call, and the improvement is versioned with the plugin, so the whole business gets it the next time anyone runs the verb. This is what makes the company a [continually improving company](/concepts/continually-improving-companies) in the operational sense rather than the aspirational one.
 
+## The default verb is improve the plugin
+
+Before a business plugin holds any verb of its own, it holds one that every plugin shares: **improve the plugin**. Add a skill for the thing you just did by hand for the second time. Fix the skill that ran wrong today, in the same session, with a test that fails without the fix. Ship the plugin so the fix reaches everyone who runs it, and confirm the version moved on your own machine. Continental Works carries this as two skills, one that creates a skill and one that ships the plugin release, and neither is optional: they are what make every other verb improve rather than merely repeat.
+
+So the first verb to install is the one that installs the rest. A plugin with ten verbs and no improve verb is a snapshot; a plugin with one verb and an improve verb is a business that gets more valuable every week.
+
 ## The plugin is enterprise value
 
 Most small businesses are worth less than their revenue suggests because the business is the owner. The [hub-and-spoke owner](https://exitstrategy.wiki/concepts/the-hub-and-spoke-owner) holds every verb personally, and a buyer knows that the verbs leave with them. [Owner dependence](https://exitstrategy.wiki/concepts/owner-dependence) is the discount, and it is the single largest one.
@@ -52,25 +58,26 @@ Continental Works runs on a private team plugin, installed into both partners' p
 - **activate an operator**: bring one named person onto the product so they use it for their own reasons
 - **draft an operator profile**: write a new operator's profile from what the company already knows about them
 - **process a client session** and **file a client session**: turn a recorded session into the shared client record either partner can pick up cold
-- **ship freedom** and **ship a cw upgrade**: release the product and release the plugin itself, through gates that refuse a release that would reach nobody
+- **ship freedom**: release the product, through gates that refuse a release that would reach nobody
 - **triage and fix user reports**: work the whole queue of reports to a conclusion and tell each person what happened
 - **file a win** and **file a kudos**: put a customer's win, or a hand-typed thanks to a contributor, on the public boards
 - **text the team**: post to the team's chat in the operator's own register
 - **check deploys**, **audit coherence**, **optimize performance**: the practices that keep the stack honest
 - **offboard an operator**: cut someone off across every surface and verify it took
-- **create a skill**: add the next verb, mapped first, tested, shipped through the same release script
+- **create a skill** and **ship a cw upgrade**: the improve-the-plugin verb, in two halves; add the next verb, mapped first, tested, and release it so the other partner runs it the next morning
 
 Every one of those carries a map. Several of them were rewritten this month because a run did not go the way the map said, and the rewrite shipped as a version the other partner installed the next morning. That is the loop working. A third partner joining tomorrow would install one plugin and have every verb the company has ever learned.
 
 ## How to start one
 
-1. **Name the verbs.** Ten or fewer to begin. The ones that, if they stopped, would stop revenue or break trust, and each one sized so a single agent session can run it start to finish.
-2. **Map one.** Write the SOP for the verb you run most often, as a map with steps, refusals and the human decisions left in.
-3. **Make it a skill inside a plugin** for the business, with the map beside it, and install the plugin into your own system.
-4. **Run it, and file what it got wrong into the skill the same day.** Do not work around it in silence.
-5. **Add the next verb** the next time you catch yourself doing it by hand for the second time.
+1. **Install the improve verb first.** A skill that adds or fixes a skill in this plugin, and a way to ship the plugin. Everything below runs through it.
+2. **Name the verbs.** Ten or fewer to begin. The ones that, if they stopped, would stop revenue or break trust, and each one sized so a single agent session can run it start to finish.
+3. **Map one.** Write the SOP for the verb you run most often, as a map with steps, refusals and the human decisions left in.
+4. **Make it a skill inside a plugin** for the business, with the map beside it, and install the plugin into your own system.
+5. **Run it, and file what it got wrong into the skill the same day.** Do not work around it in silence.
+6. **Add the next verb** the next time you catch yourself doing it by hand for the second time.
 
-The plugin exists after step 3. Everything after that is the business getting more valuable every time it is run.
+The plugin exists after step 4. Everything after that is the business getting more valuable every time it is run.
 
 ---
 
