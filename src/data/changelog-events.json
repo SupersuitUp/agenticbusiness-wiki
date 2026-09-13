@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/imago-dei-unicorn@4fe64b8ab084ca97844342db0494657b9be6a69c",
+      "type": "updated",
+      "date": "2026-09-12T16:53:50-05:00",
+      "docKey": "concepts/imago-dei-unicorn",
+      "routePath": "/concepts/imago-dei-unicorn",
+      "section": "concepts",
+      "title": "Imago Dei Unicorn",
+      "description": "The canonical ideal: the soul-of-the-company creative leader worth backing. A founder or operator whose specific gift is the actual source of the venture's creative anointing. Anointed at the source. Needs scaling support, not replacement."
+    },
+    {
       "id": "principles/own-the-incentive-loop@8879610722a772149d0bca3b2b1ad1e727b35462",
       "type": "updated",
       "date": "2026-08-29T17:24:36-05:00",
