@@ -35,6 +35,8 @@ The direction matters. The person does not live inside the business's software; 
 
 A verb that lives only in the owner's head is not a verb the business has. Each skill in the plugin carries its own map: the [hyperdocumented SOP](https://truthmanagement.wiki/concepts/hyperdocumentation-protocol) that says what the step is for, what it reads, what it writes, where it refuses, and what a human still has to decide. Mapping the load-bearing workflows is [the default AI move for any business](https://appliedai.wiki/perspectives/document-and-streamline-load-bearing-workflows), and the plugin is where those maps stop being documentation and start being the thing that runs.
 
+What has to be in the package for a second person to run it at all is written down separately, as [the business plugin standard](https://appliedai.wiki/reference/standards/business-plugin): seven mechanically checkable requirements, of which the map is one.
+
 Then the loop. A verb that ran wrong, ran twice, or needed a hand-fix is a verb telling you what it is missing, at the only moment anyone knows what that is. The rule inside a business plugin is that the improvement gets filed into the skill on the first occurrence, in the same session, because the second occurrence is a different day and a different agent who does not know there was a first. The verbs improve on every call, and the improvement is versioned with the plugin, so the whole business gets it the next time anyone runs the verb. This is what makes the company a [continually improving company](/concepts/continually-improving-companies) in the operational sense rather than the aspirational one.
 
 ## The default verb is improve the plugin
@@ -79,6 +81,8 @@ Every one of those carries a map. Several of them were rewritten this month beca
 
 The plugin exists after step 4. Everything after that is the business getting more valuable every time it is run.
 
+Those six steps expanded into a recipe, with the files each one produces, live at [Generate a Business Plugin](https://appliedai.wiki/playbooks/generate-a-business-plugin). It is followable by hand, with no particular tooling, and it ends by scoring the package against the standard.
+
 ---
 
 ## Further Reading
@@ -86,6 +90,8 @@ The plugin exists after step 4. Everything after that is the business getting mo
 - [The Machine-Drivable Business](/concepts/the-machine-drivable-business): the state a business plugin drives toward, every working part readable and actuable by an agent
 - [Continually Improving Companies](/concepts/continually-improving-companies): the company-level shape the improvement loop produces
 - [The Superorg](/concepts/superorg): every function piloted from a personal system; the business plugin is what the personal systems dock into
+- [The Business Plugin Standard](https://appliedai.wiki/reference/standards/business-plugin): the seven requirements a package has to meet, what each one checks mechanically, and the ratchet that lets a business adopt it today
+- [Generate a Business Plugin](https://appliedai.wiki/playbooks/generate-a-business-plugin): the recipe, followable by hand
 - [Plugins](https://appliedai.wiki/concepts/plugins): the container itself, what it bundles and how it installs
 - [Campaign Plugins](https://appliedai.wiki/concepts/campaign-plugins): the same container for a time-bounded effort; a business plugin is the permanent one
 - [The Default AI Move Is to Document and Streamline Load-Bearing Workflows](https://appliedai.wiki/perspectives/document-and-streamline-load-bearing-workflows): why mapping the verbs comes before anything fancier

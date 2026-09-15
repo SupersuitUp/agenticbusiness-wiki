@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/the-business-plugin@0d32e301849d30dec2591b6c41e66902d53fd23d",
+      "type": "updated",
+      "date": "2026-09-13T18:51:31-05:00",
+      "docKey": "concepts/the-business-plugin",
+      "routePath": "/concepts/the-business-plugin",
+      "section": "concepts",
+      "title": "The Business Plugin",
+      "description": "One installable plugin per business, holding the business's own verbs as skills. Every verb is mapped, every call improves it, and whoever scales or buys the business inherits the agent that ran it."
+    },
+    {
       "id": "concepts/the-business-plugin@00855d395c355b46d032c587edd01b43adfd3eab",
       "type": "new",
       "date": "2026-09-13T18:44:07-05:00",
