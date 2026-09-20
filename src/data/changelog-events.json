@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/the-business-plugin@da0273abd0e109943252248d566843efb0141da3",
+      "type": "updated",
+      "date": "2026-09-14T21:44:39-05:00",
+      "docKey": "concepts/the-business-plugin",
+      "routePath": "/concepts/the-business-plugin",
+      "section": "concepts",
+      "title": "The Business Plugin",
+      "description": "One installable plugin per business, holding the business's own verbs as skills. Every verb is mapped, every call improves it, and whoever scales or buys the business inherits the agent that ran it."
+    },
+    {
       "id": "concepts/the-business-plugin@0d32e301849d30dec2591b6c41e66902d53fd23d",
       "type": "updated",
       "date": "2026-09-13T18:51:31-05:00",
@@ -2310,5 +2320,327 @@
       "title": "Voice Rules",
       "description": "Writing constraints every page is held to. Edit per wiki."
     }
-  ]
+  ],
+  "pageDates": {
+    "concepts/the-business-plugin": {
+      "updated": "2026-09-14T21:44:39-05:00",
+      "created": "2026-09-13T18:44:07-05:00"
+    },
+    "concepts/imago-dei-unicorn": {
+      "updated": "2026-09-12T16:53:50-05:00",
+      "created": "2026-05-17T12:37:01-05:00"
+    },
+    "principles/index": {
+      "updated": "2026-08-29T17:29:32-05:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/own-the-incentive-loop": {
+      "updated": "2026-08-29T17:24:36-05:00",
+      "created": "2026-08-29T17:22:09-05:00"
+    },
+    "concepts/clockworkers": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-17T12:37:01-05:00"
+    },
+    "concepts/compounding-customer-agency": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-13T15:23:43-05:00"
+    },
+    "concepts/compounding-customer-intelligence": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-13T14:36:29-05:00"
+    },
+    "concepts/continually-improving-companies": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-13T16:39:11-05:00"
+    },
+    "concepts/continually-improving-products": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-13T16:39:11-05:00"
+    },
+    "concepts/creative-infrastructure": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-17T20:21:46-05:00"
+    },
+    "concepts/the-firm-super-suit": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-24T13:26:29-04:00"
+    },
+    "concepts/the-machine-drivable-business": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-07-28T09:16:49-05:00"
+    },
+    "concepts/the-token-profit-squeeze": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-22T17:05:07-05:00"
+    },
+    "perspectives/representation-is-a-context-problem": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-14T13:09:52-05:00"
+    },
+    "principles/action-produces-information": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "principles/chips-not-cash": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/customer-financed-acquisition": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-22T12:56:11-05:00"
+    },
+    "principles/customers-sniff-the-slop": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-28T15:29:16-05:00"
+    },
+    "principles/dinosaurs-versus-native": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/eat-the-frog-first": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-06-05T21:33:30-05:00"
+    },
+    "principles/eight-questions-two-pages": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T23:59:22-05:00"
+    },
+    "principles/five-bullets-per-seat": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T22:47:39-05:00"
+    },
+    "principles/go-and-see": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-28T00:26:22-05:00"
+    },
+    "principles/good-in-every-sense": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-22T17:46:20-05:00"
+    },
+    "principles/gwc-the-seat": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T23:40:24-05:00"
+    },
+    "principles/hire-the-independent-implementer": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-21T18:11:18-05:00"
+    },
+    "principles/ids-the-issue": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T23:40:24-05:00"
+    },
+    "principles/inversion": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/iterate-at-the-speed-of-revelation": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-14T11:08:35-05:00"
+    },
+    "principles/leverage-and-chokepoints": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/minimum-proofpoint": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/missionary-and-mercenary": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/niche-domination": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/not-cold-if-they-liked-your-post": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "principles/order-of-magnitude-goal-setting": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-28T00:26:22-05:00"
+    },
+    "principles/own-the-substrate": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-22T17:24:32-05:00"
+    },
+    "principles/pathologically-close-to-the-customer": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "principles/pick-an-easy-fight": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "principles/relinquish-control-for-leverage": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-31T19:40:38-05:00"
+    },
+    "principles/rocks-before-sand": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T23:59:22-05:00"
+    },
+    "principles/ship-nothing-you-cannot-roll-back": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-09T10:19:14-05:00"
+    },
+    "principles/speed-is-determined-by-infrastructure": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "principles/steal-the-nouns": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-07-25T21:38:43-05:00"
+    },
+    "principles/stop-selling-from-your-own-wallet": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-06-01T13:56:20-05:00"
+    },
+    "principles/the-level-10-meeting": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T23:40:24-05:00"
+    },
+    "principles/the-magic-moment": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "principles/the-weekly-scorecard": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-23T23:59:22-05:00"
+    },
+    "principles/three-sentence-discipline": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-28T00:26:22-05:00"
+    },
+    "principles/train-the-algorithm-not-an-audience": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "principles/version-control-the-work-product": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-24T13:26:29-04:00"
+    },
+    "principles/you-cannot-delegate-your-judgment": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "start-here/index": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    },
+    "start-here/what-is-an-agentic-business": {
+      "updated": "2026-08-29T07:30:23-04:00",
+      "created": "2026-05-16T07:36:08-05:00"
+    },
+    "mentors/index": {
+      "updated": "2026-08-24T13:26:29-04:00",
+      "created": "2026-05-15T16:30:38-05:00"
+    },
+    "mentors/the-boutique-corporate-attorney": {
+      "updated": "2026-08-24T13:26:29-04:00",
+      "created": "2026-08-24T13:26:29-04:00"
+    },
+    "perspectives/index": {
+      "updated": "2026-08-14T13:09:52-05:00",
+      "created": "2026-08-14T13:09:52-05:00"
+    },
+    "mentors/christopher-pedregal": {
+      "updated": "2026-08-14T11:23:34-05:00",
+      "created": "2026-08-14T11:10:26-05:00"
+    },
+    "mentors/finn-mallery": {
+      "updated": "2026-08-08T00:25:23-05:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "mentors/max-hodak": {
+      "updated": "2026-08-08T00:25:23-05:00",
+      "created": "2026-08-08T00:25:23-05:00"
+    },
+    "concepts/the-machine-legible-business": {
+      "updated": "2026-07-28T09:16:49-05:00",
+      "created": "2026-07-22T11:28:57-05:00"
+    },
+    "mentors/frank-coyle": {
+      "updated": "2026-07-28T09:16:49-05:00",
+      "created": "2026-07-25T21:38:43-05:00"
+    },
+    "reference/graphic-style": {
+      "updated": "2026-06-06T12:48:54-05:00",
+      "created": "2026-05-15T22:43:27-05:00"
+    },
+    "mentors/leila-hormozi": {
+      "updated": "2026-06-05T21:33:30-05:00",
+      "created": "2026-06-05T21:33:30-05:00"
+    },
+    "mentors/alex-hormozi": {
+      "updated": "2026-06-01T13:56:20-05:00",
+      "created": "2026-05-22T12:56:11-05:00"
+    },
+    "mentors/jon-mcneill": {
+      "updated": "2026-05-28T00:26:22-05:00",
+      "created": "2026-05-28T00:26:22-05:00"
+    },
+    "mentors/gino-wickman": {
+      "updated": "2026-05-23T23:59:22-05:00",
+      "created": "2026-05-23T22:47:39-05:00"
+    },
+    "mentors/the-sovereign-ai-pioneer": {
+      "updated": "2026-05-22T17:24:32-05:00",
+      "created": "2026-05-22T17:24:32-05:00"
+    },
+    "concepts/lifetime-gross-profit": {
+      "updated": "2026-05-22T16:15:49-05:00",
+      "created": "2026-05-22T16:15:49-05:00"
+    },
+    "mentors/eric-ries": {
+      "updated": "2026-05-19T08:58:12-05:00",
+      "created": "2026-05-17T14:30:08-05:00"
+    },
+    "mentors/the-reformed-wall-street-operator": {
+      "updated": "2026-05-19T08:58:12-05:00",
+      "created": "2026-05-19T08:58:12-05:00"
+    },
+    "mentors/sharran-srivatsaa": {
+      "updated": "2026-05-19T08:45:33-05:00",
+      "created": "2026-05-19T08:45:33-05:00"
+    },
+    "principles/a-player-for-you": {
+      "updated": "2026-05-19T08:45:33-05:00",
+      "created": "2026-05-19T08:45:33-05:00"
+    },
+    "concepts/superorg": {
+      "updated": "2026-05-17T20:45:24-05:00",
+      "created": "2026-05-17T19:14:27-05:00"
+    },
+    "principles/protect-the-mission-vehicle": {
+      "updated": "2026-05-17T14:30:08-05:00",
+      "created": "2026-05-17T14:30:08-05:00"
+    },
+    "changelog": {
+      "updated": "2026-05-17T12:48:00-05:00",
+      "created": "2026-05-17T12:48:00-05:00"
+    },
+    "concepts/index": {
+      "updated": "2026-05-15T16:30:38-05:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    },
+    "reference/glossary": {
+      "updated": "2026-05-15T16:30:38-05:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    },
+    "reference/index": {
+      "updated": "2026-05-15T17:17:56-04:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    },
+    "reference/tools/index": {
+      "updated": "2026-05-15T17:17:56-04:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    },
+    "reference/voice-rules": {
+      "updated": "2026-05-15T17:17:56-04:00",
+      "created": "2026-05-15T17:17:56-04:00"
+    }
+  }
 }
